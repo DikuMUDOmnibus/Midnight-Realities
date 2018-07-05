@@ -1,0 +1,323 @@
+register
+#AREA	Diku    Limbo~
+
+
+
+#MOBILES
+#1
+Puff~
+Puff~
+Puff the Fractal Dragon is here, contemplating a higher reality.
+~
+~
+1 0 1000 S
+26 1 -1 5d10+550 4d6+3
+10000 155000
+8 8 2
+#4
+&wA mysterious fetch chat '&RHARGH HARGH HARGH. &YYou can not kill the great and powerful FETCH! I dare you! &BTRY&R.&w'#n~
+a mysterious fetch~
+&wA mysterious fetch chat '&RHARGH HARGH HARGH. &YYou can not kill the great and powerful FETCH! I dare you! &BTRY&R.&w'#n~
+~
+2048 0 1000 S
+6000 1 -1 5d10+550 4d6+3
+10000 155000
+8 8 2
+X 1|2|4|8 29505 29515
+#5
+A purple gummy bear~
+A purple gummy bear~
+A purple gummy bear is here dancing around!
+~
+~
+2048 0 1000 S
+2000 1 -1 5d10+550 4d6+3
+10000 155000
+8 8 2
+#7
+Wombat~
+A wombat~
+#0A Furry blur appears before you.
+~
+~
+2048 0 1000 S
+480 1 -1 5d10+550 4d6+3
+10000 155000
+8 8 2
+#9
+spider~
+A deadly spider~
+&DA deadly spider frantically runs about.
+~
+~
+2048 0 1000 S
+225 1 -1 5d10+550 4d6+3
+10000 155000
+8 8 2
+X 175000 50000 50000
+#0
+
+
+
+#OBJECTS
+#2
+coin gold~
+a gold coin~
+One miserable gold coin.~
+~
+20 0 1
+1 0 0 0
+1 0 0
+#3
+coins gold~
+%d gold coins~
+A pile of gold coins.~
+~
+20 0 1
+0 0 0 0
+1 0 0
+#5 token 100~
+a 100 point quest token~
+A 100 point quest token is here! EAT THE DAMN THING BITCH!~
+~
+33 0 1
+100 100 100 100 0 0 0 
+#6 token 50~
+a 50 point quest token~
+A 50 point quest token is here! EAT THE DAMN THING BITCH!~
+~
+33 0 1
+50 50 50 50 0 0 0 
+#7 gummy jelly~
+Yummy Jelly!~
+A yummy piece of jelly is here!~
+~
+33 0 1
+-1 -1 -1 -1 0 0 0 
+
+#10
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+~
+23 0 1
+0 0 0 1
+100 0 0
+#11
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+~
+24 0 0
+0 0 0 1
+100 0 0
+#12
+head %s~
+the severed head of %s~
+The severed head of %s is lying here.~
+~
+13 0 16385
+10 0 12 0
+5 0 0
+#13
+heart %s~
+the torn-out heart of %s~
+The torn-out heart of %s is lying here.~
+~
+19 0 16385
+16 0 13 0
+2 0 0
+#14
+arm %s~
+the sliced-off arm of %s~
+The sliced-off arm of %s is lying here.~
+~
+19 0 16385
+20 0 14 0
+5 0 0
+#15
+leg %s~
+the sliced-off leg of %s~
+The sliced-off leg of %s is lying here.~
+~
+19 0 16385
+20 0 15 0
+5 0 0
+#16
+turd~
+the steaming turds of %s~
+The steaming turds of %s assail your nostrils.~
+~
+13 0 0
+5 0 0 1
+1 0 0
+#20
+mushroom~
+a Magic Mushroom~
+A delicious magic mushroom is here.
+~
+~
+19 0 1
+5 0 0 0
+1 10 10
+#21
+ball light~
+a bright ball of light~
+A bright ball of light shimmers in the air.~
+~
+1 0 1
+0 0 -1 0
+1 0 0
+#22
+spring~
+a magical spring~
+A magical spring flows from the ground here.~
+~
+25 64 0
+100000 100000 0 0
+5000 10 100000
+#23
+spring blood~
+a blood spring~
+A spring of dark red liquid flows from the ground here.~
+~
+25 64 0
+100000 100000 13 0
+5000 10 100000
+#24
+granite stone~
+A Granite Stone~
+A granite stone is lying on the ground here..made of granite..wow~
+~
+13 0 1
+0 0 0 0
+0 0 0
+#25
+leather book sonettes~
+A leathery Book of Sonettes~
+A pile of fuffie is here!~
+~
+37 0 1|16384
+0 0 0 0
+0 0 0
+#26
+feather pen~
+A Feathery Pen~
+A pile of fluffie is here!~
+~
+39 0 1|16384
+0 0 0 0
+0 0 0
+#27
+weaved page~
+A weaved page~
+A pile of fluffie is here!~
+~
+38 0 1|16384
+0 0 0 0
+0 0 0
+#28
+Trivia Flake~
+a &GTrivia&Y*&RFlake~
+A trivia flake is here, eat it you dumb SOB!~
+~
+33 0 1
+0 0 0 0 0 0 0 
+#29
+entropy fire~
+&s&RFire Gem&t~
+&RThe great entropy fire gem is here, one of two known to existance.~
+~
+8 0 1
+0 0 0 0 0 0 0 
+#30
+entropy ice~
+&s&CIce Gem&t~
+&CThe great entropy ice gem is here, one of two known to existance.~
+~
+8 0 1
+0 0 0 0 0 0 0 
+#31
+entropy air~
+&s&BAir Gem&t~
+&BThe great entropy air gem is here, one of two known to existance.~
+~
+8 0 1
+0 0 0 0 0 0 0 
+#32
+entropy earth~
+&s&yEarth Gem&t~
+&yThe great entropy earth gem is here, one of two known to existance.~
+~
+8 0 1
+0 0 0 0 0 0 0 
+#33
+entropy poison~
+&s&gPoison Gem&t~
+&gThe great entropy poison gem is here, one of two known to existance.~
+~
+8 0 1
+0 0 0 0 0 0 0 
+#0
+
+
+
+#ROOMS
+#1
+The Void~
+  You are floating in nothing.
+~
+0 8 1
+S
+#2
+Limbo~
+   You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+0 8 1
+S
+#8
+Limbo~
+   You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+0 8 1
+S
+#9
+Limbo~
+   You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+0 8 1
+S
+#0
+
+
+#SPECIALS
+M  5 dancing_gummy_bear               purple gummy bear
+M  4 spec_fetch				fetch quest mob
+M  9 questspider			spider quest mob
+S
+
+#RESETS
+M 0 1 1 2		Puff
+M 1 5 15 3054  Purple gummy bear
+M 1 5 15 3054  Purple gummy bear
+M 1 5 15 3054  Purple gummy bear
+M 1 5 15 3005  Purple gummy bear
+M 1 5 15 3005  Purple gummy bear
+M 1 5 15 3043  Purple gummy bear
+M 1 5 15 3043  Purple gummy bear
+M 1 5 15 3046  Purple gummy bear
+M 1 5 15 3046  Purple gummy bear
+S
+
+
+
+#$

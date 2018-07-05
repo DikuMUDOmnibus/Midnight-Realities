@@ -1,0 +1,4 @@
+#! /bin/csh -f
+
+    # Run pwipe
+    ../src/merc -p 20001 -w ../src/work -pwipe

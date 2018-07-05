@@ -1,0 +1,20 @@
+make sure you read the file MRstart, this file is outdated and doesn't contain
+some neccassary stuff you will need to know that is unique to Midnight Realities 2.5
+Still, you will need to do the stuff that is in here.
+
+make a directory in the directory this is found in, called player
+inside the player directory make 2 directories, one called backup and one
+called store. The store directory contains the backup pfiles, and the
+backup directory contains finger files. If a player file gets bugged,
+which they do a lot, go into the backup directory and cp Pfile ..
+the backups are from the last time the player typed save, and when pfiles
+get bugged the player usually looses all their equipment, so this is the
+best way to reimburse.
+
+you will need to compile the mud, so go to the src directory and type make
+and then type: ./startup (port number)&  where 'port number' is the port
+you want to start the mud on, and the & means run it in the background.
+
+anyways that should be all you need to do to start the mud up. Have fun
+and read the license part (at least the one smoo(me) wrote, bryantos got a
+bit drunk when he wrote his part)

@@ -1,0 +1,4144 @@
+register
+#area        Mountains of desoluton - By Smoo(Jagged/LoKust/Locust)~
+
+
+#MOBILES
+#11301
+Sprite Guard protector~
+A Sprite Guard~
+A Sprite Guard stands here, protecting the peasant.
+~
+The Sprite Guard was sent to this area, to protect all of Princess Remia's loyal peasants agaisnt harm from others.
+~
+64 8|65536|524288|1048576 999 S
+23 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#11302
+White Pixie~
+A White Pixie~
+A White Pixie floats here, collecting rocks.
+~
+The White Pixie looks rather intelegent.
+~
+4|64 2|8|512|8192|32768|524288 0 S
+25 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#11303
+yellow pixie~
+A Yellow Pixie~
+A Yellow Pixie stands here, tending to the stray animals.
+~
+The Yellow Pixie looks rather intelegent.
+~
+64 2|8|32|512|32768|524288 800 S
+37 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#11304
+Blue Pixie~
+A Blue Pixie~
+A Blue Pixie stands here, exploring the lands.
+~
+The Blue Pixie looks rather strong for his size..
+~
+64 2|8|32|512|32768|524288 1000 S
+42 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#11305
+Orange Pixie~
+A Orange Pixie~
+An Orange Pixie stands here, gathering flowers.
+~
+The Orange Pixie looks soo pretty, you almost fall over.
+~
+64 2|8|32|512|32768|524288 900 S
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#11306
+Red Pixie~
+A Red Pixie~
+A Red Pixie wonders wonders around, obviously under the influence..
+~
+The Red Pixie looks like he chugged down a few kilo's
+~
+64 2|8|32|512|32768|524288 -1000 S
+56 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#11307
+purple pixie~
+A Purple Pixie~
+A Purple Pixie walks around, cleaning up the little from the litterers.
+~
+The Purple Pixie looks anoying, from those darned Red Pixies that litter the streets with cans of beer, and stupid adventurers like YOU!
+~
+4|64|128 2|8|32|512|32768|524288 0 S
+34 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#11308
+Guard princess remia sprite pixie princess~
+The Guard of Princess Remia~
+A Tall Figure stands here, guarding Princess Remia.
+~
+This guard WONT take any bullshit. Watch out!
+~
+2|64 8|32|512|65536|524288 0 S
+89 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#11309
+princess remia sprite pixie~
+Princess Remia~
+Princess Remia sits here, on her throne, thinking about the meaning of life.
+~
+Princess Remia is here.
+~
+2|4|64 2|8|32|128|512|8192|65536|524288 1000 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#11310
+bunny rabbit~
+A Bunny Rabbit~
+A Bunny Rabbit stands here, completly unaware that you might kill him.
+~
+The Bunny Wabbit wooks sooo cute. You *WuV* The Bunny Wabbit!
+~
+4|64 8|32|512 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#11311
+dog large huge~
+A Huge Dog~
+The is a HUGE dog here, looking through all the shrubs for little animals to eat!
+~
+This is a HUGE dog!
+~
+64 8|32|512 -750 S
+240 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#11312
+huge bear~
+A HUGE bear~
+A HUGE bear is walking around on its hind legs!
+~
+The bear looks rather mad, better make sure you dont aggrivate him!
+~
+64 8|32|512 -500 S
+300 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#11313
+bat black~
+A Bat with large Fangs~
+A Bat with Large Fangs is flying around your head!
+~
+This bat is flying all around your head.. watch out.. he might bite!
+~
+64 8|32|512|524288 -750 S
+220 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#11314
+Rat small~
+A Small Rat~
+A Small Rat is covering itself in plants, to become unotices.
+~
+The rat is too small for you to see..
+~
+64 8|32|512|32768 -200 S
+160 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#11315
+nymph mob monster creature~
+A MultiColored Nymph~
+You notice a multicolored creature casting of love spell on you!
+~
+This nymph looks stunningly beautiful! There is absolutly no word(s) to describe it except mabey "Im Possessed"
+~
+2|64 8|32|128|256|512|32768|65536|524288 0 S
+450 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#11316
+Mountain Goat~
+A Mountain Goat~
+A Mountain Goat is here, chewing on the grass.
+~
+A Mountain Goat is here, chewing on the grass.
+~
+64 32|512 0 S
+89 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#11317
+small rock~
+A Small Rock~
+A small rock is lying on the ground..
+~
+You've never seen a rock before?
+~
+64 32|512|32768 0 S
+76 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#11318
+normal rock~
+A Normal Sized Rock~
+A rock is sitting on the ground, motionless.
+~
+The rock looks like any other rock!
+~
+64 32|512|32768 0 S
+80 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#11319
+large rock~
+A Large Rock~
+A large rock is sitting motionless on the ground here.
+~
+The rock looks like any other rock!
+~
+64 32|512|32768 0 S
+109 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#11320
+huge rock~
+A Huge Rock~
+A huge rock is sitting in the middle of the path! Guess you need a detour..
+~
+The rock looks like any other rock! except a little bigger..
+~
+64 32|512|32768 0 S
+119 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#11321
+goffer~
+A Goffer~
+A Goffer is popping in and out of holes from the ground.
+~
+The Goffer is really small, and has a thick coat of fur over his whole body.
+~
+4|64 32|512 0 S
+110 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#11322
+angel~
+An Angel~
+An Angel floats here, watching down from the heavens
+~
+The Angel looks peacefull, she doesnt want to fight, but will if nessasarry
+The Angel is wearing a "I love cows!" teeshirt.
+~
+64 2|8|32|128|512|8192|524288 1000 S
+130 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#11323
+Guardian Underworld~
+The Guardian of the Underworld~
+The Guardian of the Underworld wont let you past without a worthy sacrifice.
+~
+This Guardian is 99 feet tall, and wont let you past without a price to pay.
+~
+2|64 8|32|128|512|8192|524288 -1000 S
+400 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#11324
+Fire Demon~
+A Fire Demon~
+A Fire Demon is bitching about how hot he is.
+~
+The Fire Demon looks scary!
+~
+2|64 8|524288 -1000 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+X 10000000 10000000 10000000
+#11325
+Bird Yellow Tweety~
+A Yellow Tweety Bird~
+A Small yellow tweety bird is flying around with excitement.
+~
+The tweety bird looks soo cute!
+~
+64 512|8192|524288|1048576 222 S
+160 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#11327
+master orc~
+The Master Orc~
+The the fables were true, heres a huge orc. Yay.
+~
+This orc is 10 feet tall, has huge wings, and a set of
+hooves that could kick your ass down the mountain.
+~
+2|64 8|32|128|512|8192|65536|524288 -200 S
+230 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#11328
+paleface pale demon demonspawn vampire~
+A Pale-Faced Demon Spawn~
+A young vampire with dripping fangs jumps at you.
+~
+Death is writen on his hand.
+~
+2|32|64 0 -1000 S
+290 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#11329
+Horned Demon~
+A Horned Demon~
+A medium sized demon with large horns attempts to headbutt you.
+~
+His horns are dripping with blood, spelling DeatH on the ground.
+~
+2|64 8|32|512 -1000 S
+280 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#11330
+plague eater giant blob giant~
+A Giant Plague Eater~
+A giant blob wobbles here while licking your face.
+~
+The Plague Eater really likes the taste of your body
+~
+2|64 8|32|512 -750 S
+270 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#11331
+deathknight death knight~
+A DeathKnight~
+A DeathKnight roams these lands, damning the souls to eternal fear.
+~
+The DeathKnight is about 6"9' and hides his face with his cape.
+~
+64 8|32|128|512|32768 0 S
+370 0 0 4d200+50 0d0+0
+0 0
+8 8 1
+#11332
+Dust~
+Some Dust~
+The mob stands here, completely clueless.
+~
+The mob looks back at you!
+~
+64 8|32|512|8192|32768|65536|524288 0 S
+235 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#11333
+lost soul damned~
+A Lost Soul~
+A Lost Soul wanders the abyss carefully, trying to avoid the Deathknights
+~
+This poor soul was sent to the hells because he killed Jewels doggy.
+~
+64 8|32|8192|32768|524288 -250 S
+300 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#11334
+lost soul crying~
+A Crying Soul~
+A Crying Soul weeps for the mercy of the gods.
+~
+He has sinned, and wants forgiveness, so he can get revenge on the mortals that accused him.
+~
+64 8|32|8192|524288 -500 S
+300 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#11335
+helios king lord damned~
+Lord of the Damned~
+Helios, Lord of the Damned sits here on his throne.
+~
+You notice he has huge horns comming out of his head, with a large tail that he uses to whip things. He is about 18 feet tall which makes him extreemly strong from his mass weight. You really wouldn't want to mess with this guy.
+~
+2|64 8|32|128|512|8192|524288 -1000 S
+890 0 0 90000d0+1 35d35+1000
+0 0
+8 8 1
+#11336
+leo~
+The Archmage Leo~
+The archmage Leo is wondering what you are doing here..
+~
+He's a bit pissed off that you found him.
+~
+2|64 2|8|32|128|512|8192|524288 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#0
+
+
+#OBJECTS
+#11301
+sword guard~
+the Sprite Guard's Trusty Sword~
+A Sword of a Sprite Guard is lying here, waiting to be claimed by its owner.~
+~
+5 1|64|1024 1|8192
+0 5 9 3 
+2 0 0
+A
+18 3
+A
+3 2
+#11302
+girth guard guard's sprite~
+the Girth of the Sprite Guard~
+The Girth of the Sprite Guard is here, waiting to be returned to its owner.~
+~
+9 1|64|1024 1|2048
+11 0 0 0 
+5 0 0
+A
+4 1
+A
+17 -15
+A
+2 1
+#11303
+glow glowing ball pixie dust~
+a Glowing Ball of Pixie Dust~
+A Glowing Ball of Pixie Dust rests on the ground.~
+~
+1 1 1|128
+0 0 99999 0 
+5 0 0
+A
+18 4
+A
+17 -15
+A
+12 50
+#11304
+Pixie Dust~
+some Pixie Dust~
+There is dust scattered around the ground.~
+~
+26 2|64 1
+35 19 56 16 
+0 0 0
+#11305
+Pixie Teeth~
+pixie Teeth~
+Some knocked out teeth of a pixie are lying here!~
+~
+5 32|128|4096 1|8192
+0 1 6 11 
+5 0 0
+A
+18 5
+#11306
+necklace silver~
+a Silver Necklace~
+A Beautiful Silver Necklace lies on the ground.. who would have thrown THIS out?~
+~
+9 32|1024 1|4
+8 0 0 0 
+5 0 0
+A
+18 3
+A
+19 3
+A
+4 2
+A
+17 -10
+#11307
+necklace copper~
+a Old Copper Necklace~
+An Old Copper Necklace lies here, too rusted to be worn.~
+~
+9 32|1024 1|4
+0 0 0 0 
+5 0 0
+A
+18 3
+A
+23 -4
+A
+24 -4
+A
+3 1
+#11308
+Pixie hat orange~
+an Orange Pixia Hat~
+An Orange Pixie Hat sits here.~
+~
+9 64|1024 1|16
+7 0 0 0 
+5 0 0
+A
+2 3
+A
+1 1
+A
+4 2
+A
+5 2
+#11309
+Can Smuff Beer~
+a Can of Smuff Beer~
+A few cans of beer are littered around the floor..~
+~
+17 0 1
+5 5 1 0 
+5 0 0
+#11310
+gruesome teeth pair pixy~
+a Pair of Gruesome Pixy Teeth~
+A Pixie who never brushed his teeth lost his, and theyre lying on the floor!!!~
+~
+5 16|128|4096 1|8192
+0 8 12 11 
+5 0 0
+A
+19 2
+A
+18 1
+A
+1 0
+#11311
+small broom~
+a Small Broom~
+A Small Broom is here, trying to clean up on its own, but desperatly needs a master..~
+~
+5 2 1|8192
+0 5 9 4 
+5 0 0
+A
+9 6
+A
+18 2
+#11312
+Steel leggings sprite guard remia~
+some Steel Leggings~
+Some steel leggings are here, forged by the Guard of Princess Remia.~
+~
+9 1024 1|32|8192
+12 0 0 0 
+5 0 0
+A
+19 4
+A
+18 2
+A
+17 -45
+#11313
+Shield princess guard steel~
+a Steel Shield~
+A Steel Shield, forged by the Guard of Princess Remia, lies here.~
+~
+9 1024 1|512
+0 1 6 11 
+5 0 0
+A
+17 -45
+A
+1 3
+#11314
+Steelshed sword~
+a SteelShed Sword~
+A sword blistering with steel lies pointlessly on the floor here.~
+~
+5 1|1024 1|8192
+0 15 20 6 
+5 0 0
+A
+19 12
+A
+18 14
+#11315
+Black Hole~
+a Black Hole~
+A huge Black Hole is hovering in the middle of the room..~
+~
+15 1|2 1
+100 1 -1 0 
+5 0 0
+A
+9 10
+#11316
+lettuce leaf~
+a Piece of Shredded Lettuce~
+A piece of lettuce has been torn off a plant..~
+~
+19 0 1
+10 0 0 0 
+5 0 0
+#11317
+claws~
+the Claws of a Dog~
+The Claws of a Dog have been ripped out and thrown onto the ground.~
+~
+5 16|128|4096 1|8192
+0 5 6 5 
+5 0 0
+#11318
+entrails bunny rabbit~
+the entrails of a bunny rabbit~
+The entrails of a bunny rabbit have been torn to the ground..~
+~
+13 0 1
+0 0 0 0 
+5 0 0
+#11319
+claw bear sharp razor~
+razor Sharp Bear Claws~
+Some razor sharp bear claws have been carelessly left here!~
+~
+5 16|128|4096 1|8192
+0 8 12 5 
+5 0 0
+#11320
+bat fangs~
+bloody Bat Fangs~
+The bloody fangs of a bat have been layed to rest here..~
+~
+5 16|128|4096 1|8192
+0 1 6 2 
+5 0 0
+#11321
+rat teeth~
+some rat's teeth~
+Some rat's teeth have been carelessly discarded here.~
+~
+5 16|128|4096 1|8192
+0 1 6 10 
+5 0 0
+#11322
+nymph skin~
+multicolored Nymph Skin~
+A skinning of some multicolored animal has been left here.~
+~
+9 0 1|8|32|256|2048
+15 0 0 0 
+2 0 0
+A
+17 -35
+A
+19 3
+A
+18 2
+A
+3 -1
+A
+4 -2
+A
+2 1
+#11323
+Horns Horn Pair~
+a Pair of Horns~
+A Pair of Horns have been ripped right off a mountain goat's head.~
+~
+9 0 1|16
+12 0 0 0 
+5 0 0
+A
+1 3
+A
+17 10
+A
+18 2
+A
+19 5
+#11324
+silk gown~
+a Lovely Silk Gown~
+A Silk Gown has been thrown on the floor, by some fool who cannot detect fasion.~
+~
+9 0 1|1024
+0 1 6 11 
+5 0 0
+A
+19 3
+A
+17 -20
+A
+18 2
+A
+3 1
+A
+4 1
+A
+1 -2
+#11325
+sceptre gold golden~
+a Gold Sceptre~
+A gold sceptre, owned by Princess Remia is waiting to be polished.~
+~
+4 0 1|16384
+55 3 3 26 
+5 0 0
+A
+12 75
+#11326
+Goffer skin~
+some Goffer Skins~
+A gofer has been horribly murdered, and his skin was left here.~
+~
+9 0 1|8
+6 0 0 0 
+5 0 0
+A
+2 6
+#11327
+sphere light angel~
+a Sphere of Light~
+A Sphere of Light that would normally hover over an angels head, was beaten off its master.~
+~
+9 1024 1|16
+6 0 0 21 
+0 0 0
+A
+17 -15
+A
+4 3
+A
+3 2
+A
+18 6
+#11328
+pill devine aid object~
+a Pill of Devine Aid~
+A round, glowing object is laying on a neerby table.~
+~
+26 1|1024 1
+55 3 1 28 
+1 0 0
+#11329
+head sprite~
+the Head of a Sprite Guard~
+The Head of a Sprite Guard lies here, waiting to be sacrificed to the true evils.~
+~
+13 1|2 1
+0 0 0 0 
+2 0 0
+#11330
+key underworld~
+the Key to the UnderWorld~
+The key to the underworld lies here, your not supposed to have this!~
+~
+18 1|2|16 1|16384
+0 0 0 0 
+6 0 0
+#11331
+ring fire~
+the Ring of Fire~
+A ring surrounded by fire is floating in mid-air!~
+~
+9 2|32 1|2
+16 0 0 0 
+5 0 0
+A
+19 17
+A 18 15
+A
+1 4
+#11332
+hooves set pair~
+a set of huge hooves~
+A pair of HUGE hooves lie on the ground here, they are so thick that lava couldn't burn through them.~
+~
+9 4096 1|64
+15 1 6 11 
+5 0 0
+A
+2 5
+A
+5 2
+A
+19 3
+A
+17 -20
+#11333
+cow teeshirt souvinere shirt~
+a Teeshirt Labeled "I LoVe cOWs!"~
+There is a pink teeshirt on the ground, pick it up before you have to wash it!~
+~
+9 1024|2048 1|8
+10 0 0 0 
+0 0 0
+A
+4 6
+A
+19 -10
+#11334
+bubbling cauldron~
+a Bubbling Cauldron~
+A Cauldron belonging to a wiccan nymph lies here, bubbling merrily.~
+~
+27 0 0
+11394 0 0 3001 
+0 0 0
+#11335
+mark death tattoo~
+the Mark of Death~
+Someone has ripped off a tattoo and left it on the ground??~
+~
+9 512|4096 1|4096
+6 0 0 15 
+2 0 0
+A
+19 6
+A
+18 5
+A
+17 -25
+#11336
+Charging Lance~
+a Charging Lance~
+A Lance that a DeathKnight uses to charge with lies here.~
+~
+5 512 1|8192
+0 12 18 4 
+6 0 0
+A
+17 -100
+A
+2 5
+A
+4 -2
+A
+3 -3
+A
+19 7
+A
+18 5
+#11337
+spec dust~
+a tiny spec of dust~
+You see dust collecting on the floor..~
+~
+26 0 1
+25 4 17 38 
+2 0 0
+#11338
+tears~
+some Tears~
+Some tears are starting to flood the room.~
+~
+10 0 1
+42 28 28 28 
+2 0 0
+#11339
+huge tail~
+a Huge Tail~
+Someone ripped the tail right off helios with brute strength~
+~
+5 512|2048|4096 1|8192
+0 20 30 4 
+9 0 0
+A
+1 6
+A
+19 13
+A
+18 13
+#11340
+necro scales necroscales damn damned~
+necroScales of the Damned~
+The scales of the Lord of the Damned lie here.~
+~
+9 512|2048 1|4|1024
+0 0 0 15 
+5 0 0
+A
+19 6
+A
+18 6
+A
+17 -40
+#11341
+Cloak star Stars~
+cloAk of StArs~
+A sheet that has hundreds of tiny dots moving around on it rests here.~
+~
+9 64 1|1024
+25 0 0 12 
+5 0 0
+A
+18 5
+A
+12 350
+A
+24 5
+A
+3 5
+A
+17 -35
+#11342
+whip eliteness~
+&YW&Bhip &MO&mf &GE&cliteness&x~
+A dazzling whip is sparkling on the floor.~
+~
+5 0 1|8192
+0 35 35 4 
+9 0 0
+A
+19 35
+A
+18 37
+A
+17 -150
+#0
+
+
+#ROOMS
+#11300
+Approching the Mountains of Desolution.~
+You are approching the 3 mythical mountains of desolution. These mountains
+contain the 2 biggest mountains in the eastern realms. The mountains, as
+told in the myth of archester, are: Mnt. Jamesly, Mnt. Clairsway, and
+Devils Mountain. Watch out for hell.
+~
+0 0 4
+D0
+You see nothing special over there...
+~
+~
+0 -1 11301
+D3
+You see nothing special over there...
+~
+~
+0 -1 9206
+S
+#11301
+A Long Path Towards the Mountain..~
+You are following a short gravel path towards a great mountain
+range called the Mountains of Desolution. This mountain range
+is particularly known well because of a tall tale once told about
+particularly strong species of orcs, these orcs were told to be
+created by a strong ArchMage that created a spell, that went wrong.
+~
+0 0 4
+D0
+You see nothing special over there...
+~
+~
+0 -1 11302
+D2
+You see nothing special over there...
+~
+~
+0 -1 11300
+S
+#11302
+On the Path to the Mountain..~
+You continue down the path towards the mountain, noticing some
+droppings on the ground, you start to wonder what made them, it
+is unlike anything you have ever seen. You wonder what kind of
+creature could have made these. To the north, you see a split in
+the road.
+~
+0 1024 4
+D0
+You see nothing special over there...
+~
+~
+0 -1 11303
+D1
+You see nothing special over there...
+~
+boulder large~
+1 -1 11304
+D2
+You see nothing special over there...
+~
+~
+0 -1 11301
+E
+droppings trail trails~
+These droppings seem to be forming a trail to the east. You
+scan to the east and see a dark forest, your stomach turns
+and you look away.
+On the Path to the Mountain..
+~
+S
+#11303
+A Fork in the Trail~
+You are standing in the middle of a fork in the path, each path
+looks like them go around the mountain, probobly meeting together
+on the other side. You look above you and you see a large cliff,
+with trees on the top of it. You start to smell a roten stench
+comming from the east.
+~
+0 0 4
+D0
+You see nothing special over there...
+~
+~
+0 -1 11340
+D1
+You see nothing special over there...
+~
+~
+0 -1 11324
+D2
+You see nothing special over there...
+~
+~
+0 -1 11302
+S
+#11304
+A Hidden Passageway~
+You are walking down a short path covered with shrubs and trees.
+You see nothing but forest all around you, and it seems to get
+darker and darker. You notice some more dropings on the ground.
+~
+0 4 2
+D0
+You see nothing special over there...
+~
+~
+0 -1 11307
+D1
+You see nothing special over there...
+~
+~
+0 -1 11305
+D2
+You see nothing special over there...
+~
+~
+0 -1 11306
+D3
+You see nothing special over there...
+~
+~
+0 -1 11302
+E
+droppings trail trails dropping~
+The trail of droppings continues towards the east.
+A Hidden Passageway
+~
+S
+#11305
+A Large, Dense Forest~
+You are walking through a large, dense forest, the ground is
+covered with sticks and rocks that are sticking into your
+shoes and going through to your bare feet, causing pain
+all over. You suddenly feel confused and lost. You notice
+something familiar on the ground.
+~
+0 8192 3
+D0
+You see nothing special over there...
+~
+~
+0 -1 11310
+D1
+You see nothing special over there...
+~
+~
+0 -1 11311
+D3
+You see nothing special over there...
+~
+~
+0 -1 11313
+E
+droppings trail trails dropping~
+The trail of droppings continues towards the west.
+#013
+~
+S
+#11306
+Walking Through a Dense Forest~
+You are walking through a dense forest, nothing around you
+seems familiar. You feel Confused and lost. You suddenly
+notice a ray of light towards the north, and you hope its an
+exit!
+~
+0 8192 3
+D0
+You see nothing special over there...
+~
+~
+0 -1 11304
+D1
+You see nothing special over there...
+~
+~
+0 -1 11317
+S
+#11307
+A Large Forest~
+You are walking through a large forest, the ground is covered
+with sticks and rocks that are sticking into your shoes and feet
+going through to your bare feet, causing pain all over. There is
+only one exit that you notice, to the north. You ponder about 
+the exit to the north, and feel confused and lost.
+~
+0 8192 3
+D0
+You see nothing special over there...
+~
+~
+0 -1 11312
+S
+#11308
+Second mob cannon/shoot.. to the mountain path around mnt. clairsway~
+set 078 and 026 as no_mob
+~
+0 0 0
+D0
+You see nothing special over there...
+~
+~
+0 -1 11336
+D1
+You see nothing special over there...
+~
+~
+0 -1 11339
+D2
+You see nothing special over there...
+~
+~
+0 -1 11371
+D3
+You see nothing special over there...
+~
+~
+0 -1 11373
+D4
+You see nothing special over there...
+~
+~
+0 -1 11375
+D5
+You see nothing special over there...
+~
+~
+0 -1 11377
+S
+#11309
+A Large, Dense Forest~
+You are walking through a large, dense forest, the ground is 
+covered with sticks and rocks that are sticking into your 
+shoes and going through to your bare feet, causing pain 
+all over. You suddenly feel confused and lost.
+~
+0 4 3
+S
+#11310
+A Large, Dense Forest~
+You are walking through a large, dense forest, the ground is 
+covered with sticks and rocks that are sticking into your 
+shoes and going through to your bare feet, causing pain 
+all over. You suddenly feel confused and lost.
+~
+0 0 3
+D1
+You see nothing special over there...
+~
+~
+0 -1 11316
+D2
+You see nothing special over there...
+~
+~
+0 -1 11305
+D3
+You see nothing special over there...
+~
+~
+0 -1 11312
+S
+#11311
+A Large, Dense Forest~
+You are walking through a large, dense forest, the ground is 
+covered with sticks and rocks that are sticking into your 
+shoes and going through to your bare feet, causing pain 
+all over. You suddenly feel confused and lost.
+~
+0 0 3
+D0
+You see nothing special over there...
+~
+~
+0 -1 11307
+D1
+You see nothing special over there...
+~
+~
+0 -1 11317
+D2
+You see nothing special over there...
+~
+~
+0 -1 11313
+D3
+You see nothing special over there...
+~
+~
+0 -1 11305
+S
+#11312
+A Large, Dense Forest~
+You are walking through a large, dense forest, the ground is 
+covered with sticks and rocks that are sticking into your 
+shoes and going through to your bare feet, causing pain 
+all over. You suddenly feel confused and lost.
+~
+0 0 3
+D1
+You see nothing special over there...
+~
+~
+0 -1 11310
+D2
+You see nothing special over there...
+~
+~
+0 -1 11314
+S
+#11313
+A Large, Dense Forest~
+You are walking through a latge, dense forest, the ground is
+covered with sticks and rocks that are sticking into your
+shoes and going through to your bare feet, causing pain
+all over. You suddenly feel confused and lost. You notice some
+trails on the ground.
+~
+0 4 3
+D0
+You see nothing special over there...
+~
+~
+0 -1 11311
+D1
+You see nothing special over there...
+~
+~
+0 -1 11319
+D2
+You see nothing special over there...
+~
+~
+0 -1 11321
+D3
+You see nothing special over there...
+~
+~
+0 -1 11316
+E
+trails droppings dropping trail~
+You notice some footprints of an unkown creature leading south.
+--
+You feel enraged and psyked!
+A Large, Dense Forest
+~
+S
+#11314
+A Large, Dense Forest~
+You are walking through a large, dense forest, the ground is 
+covered with sticks and rocks that are sticking into your 
+shoes and going through to your bare feet, causing pain 
+all over. You suddenly feel confused and lost.
+~
+0 0 3
+D0
+You see nothing special over there...
+~
+~
+0 -1 11311
+D1
+You see nothing special over there...
+~
+~
+0 -1 11312
+D2
+You see nothing special over there...
+~
+~
+0 -1 11318
+D3
+You see nothing special over there...
+~
+~
+0 -1 11315
+S
+#11315
+A Large, Dense Forest~
+You are walking through a large, dense forest, the ground is 
+covered with sticks and rocks that are sticking into your 
+shoes and going through to your bare feet, causing pain 
+all over. You suddenly feel confused and lost.
+~
+0 0 3
+D0
+You see nothing special over there...
+~
+~
+0 -1 11305
+D1
+You see nothing special over there...
+~
+~
+0 -1 11314
+D2
+You see nothing special over there...
+~
+~
+0 -1 11320
+D3
+You see nothing special over there...
+~
+~
+0 -1 11304
+S
+#11316
+A Large, Dense Forest~
+You are walking through a large, dense forest, the ground is 
+covered with sticks and rocks that are sticking into your 
+shoes and going through to your bare feet, causing pain 
+all over. You suddenly feel confused and lost.
+~
+0 0 3
+D1
+You see nothing special over there...
+~
+~
+0 -1 11313
+D2
+You see nothing special over there...
+~
+~
+0 -1 11319
+D3
+You see nothing special over there...
+~
+~
+0 -1 11314
+S
+#11317
+A Large, Dense Forest~
+You are walking through a large, dense forest, the ground is 
+covered with sticks and rocks that are sticking into your 
+shoes and going through to your bare feet, causing pain 
+all over. You suddenly feel confused and lost.
+~
+0 0 3
+D0
+You see nothing special over there...
+~
+~
+0 -1 11320
+D2
+You see nothing special over there...
+~
+~
+0 -1 11306
+D3
+You see nothing special over there...
+~
+~
+0 -1 11311
+S
+#11318
+A Large, Dense Forest~
+You are walking through a large, dense forest, the ground is 
+covered with sticks and rocks that are sticking into your 
+shoes and going through to your bare feet, causing pain 
+all over. You suddenly feel confused and lost.
+~
+0 0 3
+D2
+You see nothing special over there...
+~
+~
+0 -1 11311
+D3
+You see nothing special over there...
+~
+~
+0 -1 11319
+S
+#11319
+A Large, Dense Forest~
+You are walking through a large, dense forest, the ground is 
+covered with sticks and rocks that are sticking into your 
+shoes and going through to your bare feet, causing pain 
+all over. You suddenly feel confused and lost.
+~
+0 0 3
+D0
+You see nothing special over there...
+~
+~
+0 -1 11316
+D1
+You see nothing special over there...
+~
+~
+0 -1 11318
+D2
+You see nothing special over there...
+~
+~
+0 -1 11317
+D3
+You see nothing special over there...
+~
+~
+0 -1 11320
+S
+#11320
+A Large, Dense Forest~
+You are walking through a large, dense forest, the ground is 
+covered with sticks and rocks that are sticking into your 
+shoes and going through to your bare feet, causing pain 
+all over. You suddenly feel confused and lost.
+~
+0 0 3
+D1
+You see nothing special over there...
+~
+~
+0 -1 11313
+D2
+You see nothing special over there...
+~
+~
+0 -1 11305
+S
+#11321
+A Dead End in the Forest~
+You are walking through a large, dense forest, the ground is 
+covered with sticks and rocks that are sticking into your 
+shoes and going through to your bare feet, causing pain 
+all over. You suddenly feel confused and lost.
+~
+0 0 3
+D0
+You see nothing special over there...
+~
+bushes tree trees bush shrub shrubs~
+1 -1 11323
+D2
+You see nothing special over there...
+~
+~
+0 -1 11313
+S
+#11322
+The Mob Cannon and Note Room~
+In this room, all the mobs from the forest are shot through
+a cannon to different locations in the maze. There are some notes here for the builder to read. note1, note2, note3, note4-7
+~
+0 16384 0
+D0
+You see nothing special over there...
+~
+~
+0 -1 11312
+D1
+You see nothing special over there...
+~
+~
+0 -1 11316
+D2
+You see nothing special over there...
+~
+~
+0 -1 11306
+D3
+You see nothing special over there...
+~
+~
+0 -1 11319
+D4
+You see nothing special over there...
+~
+~
+0 -1 11317
+D5
+You see nothing special over there...
+~
+~
+0 -1 11313
+E
+note7~
+set 024 as no_mob
+3
+~
+E
+note6~
+create door at #033 - Boulder
+note5
+~
+E
+note4~
+second mob canon (for the mountain) is in vNUM
+#008
+#013
+~
+E
+note3~
+create unlocked tree_bark-door in room 004 to the west
+and room 002 to the east
+note2
+~
+E
+note1~
+set room 004 as no_mob
+The Mob Cannon and Note Room
+~
+S
+#11323
+A Golden Cave~
+You are inside a giant cave that holds a huge pile of dung!
+The stench from it is almost killing you when you breath,
+you look around and see nothing, but then you notice more
+dung appearing in the middle of the rom. You scream "Its
+HEEEEEEEERE!"
+~
+0 8 0
+D2
+You see nothing special over there...
+~
+bushes shrubs tree trees branches bush~
+1 -1 11321
+S
+#11324
+Along a Path Around a Large Mountain~
+You are walking past a lovely mountain called Mnt. Jamely,
+it truly is a lovely sight. You look above and see the edge
+of a short cliff, just small enough for a giant to climb;)
+The path continues to the east.
+~
+0 0 4
+D1
+You see nothing special over there...
+~
+~
+0 -1 11326
+D3
+You see nothing special over there...
+~
+~
+0 -1 11303
+D4
+You see nothing special over there...
+~
+~
+0 -1 11325
+S
+#11325
+In The Air.....!~
+You are flying in the air! Ok, so there may be a way to get
+to Mnt. Jamely, now that you found it, however, you must inform
+the Sprite Princess, She doesnt like un-welcome visitors on her
+throne.
+~
+0 4|1024 9
+D0
+You see nothing special over there...
+~
+~
+0 -1 11327
+D5
+You see nothing special over there...
+~
+~
+0 -1 11324
+S
+#11326
+Along the Path Beside the Mountains~
+You are walking between three mountains, to the north there
+is a place to climb the "Devils" Mountain, to the south-east
+you can go to Mnt. Clairsway, but there doesnt seem to be any
+way to get to Mnt. Jamely, that you can see of.
+~
+0 0 2
+D0
+You see nothing special over there...
+~
+~
+0 -1 11348
+D2
+You see nothing special over there...
+~
+~
+0 -1 11336
+D3
+You see nothing special over there...
+~
+~
+0 -1 11324
+S
+#11327
+Climbing Mnt. Jamely~
+You are climbing a beautiful mountain named "Mount. Jamely".
+This mountain is ruled by the Sprite Princess, Remia, who was
+given this mountain as a birthday presant by her father, Helios,
+who now is the ruler of all the dead, in his mountain, the "Devils"
+mountain. There is a *inscribing* on the wall of the mountain.
+~
+0 0 1
+D1
+You see nothing special over there...
+~
+~
+0 -1 11328
+D2
+You see nothing special over there...
+~
+~
+0 -1 11325
+D3
+You see nothing special over there...
+~
+~
+0 -1 11329
+E
+inscribe inscribing note wall mountain~
+Welcome to my mountain,
+ When you are on this mountain, I ask of you that you do not
+ hard my loyal sprites, for they are like my children, and if
+ you kill too many of them, my guards have sworn to protect them.
+ 
+ I have dedicated the name of this mountain to my lost love, who
+ was stolen by my father and brought to the underworld when he went
+ evil.
+ 
+Sincerley,
+Remia, Princess of Great Mount. Jamely
+~
+S
+#11328
+Neer the Bottom of Mnt. Jamely~
+You are neer the very bottom of Mnt. Jamely, but, you cant
+go any farther or you will fall off a cliff. The only sensable
+exit is to the west.
+~
+0 0 5
+D3
+You see nothing special over there...
+~
+~
+0 -1 11327
+S
+#11329
+Climbing Mount. Jamely~
+You are walking around the mountain at about the middle height,
+There is a watterfall to the north, which is falling rather slow
+because the water is quite thick.
+~
+0 0 4
+D0
+You see nothing special over there...
+~
+~
+0 -1 11330
+D1
+You see nothing special over there...
+~
+~
+0 -1 11327
+S
+#11330
+Approching a Waterfall~
+You start to hear the sound of water falling, to the neer north
+you see a log going across the watterfall from one edge to the
+other. You should try the exit?
+~
+0 0 4
+D0
+You see nothing special over there...
+~
+~
+0 -1 11331
+D2
+You see nothing special over there...
+~
+~
+0 -1 11329
+S
+#11331
+On a Log Across the Waterfall~
+You are walking accross the waterfall, you suddenly feel dizzy,
+and almost fall.. with luck you re-caught your balance. To the
+north is another exit, and you can try to swim up the waterfall,
+but that probobly wouldnt be too smart
+~
+0 0 2
+D0
+You see nothing special over there...
+~
+~
+0 -1 11333
+D2
+You see nothing special over there...
+~
+~
+0 -1 11330
+D4
+You see nothing special over there...
+~
+~
+0 -1 11332
+S
+#11332
+With Luck, You begin to Swim up the Waterfall,~
+but then.. OH NO!
+  You start to decend!
+    you cant catch up to the bridge!
+          Where are you going to go now???
+AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+You fall *SPLAT* into a shallow creak. You can see
+a path to the west.
+~
+0 4 6
+D1
+You see nothing special over there...
+~
+waterfall~
+1 -1 11389
+D3
+You see nothing special over there...
+~
+~
+0 -1 11344
+S
+#11333
+The Edge of the Mountain.~
+You are now at the top of the mountain, unable to move
+anywhere without falling, exept south. Should you try to
+go up that waterfall? Sounds kinda risky to me. Mabey you
+have reached the end of the mountain? But where is Princess
+Remia? You ponder for a moment.
+~
+0 0 5
+D1
+You see nothing special over there...
+~
+illusion door look like wall~
+1 -1 11334
+D2
+You see nothing special over there...
+~
+~
+0 -1 11331
+S
+#11334
+On a Long, Red Carpet~
+You are walking down a long, red carpet, like the ones that you
+see in cartoons, when someone rich or famous walks down it. The
+Carpet continues to the east, where you can see the Throne Room
+of the Princess, Remia.
+~
+0 4 1
+D1
+You see nothing special over there...
+~
+~
+0 -1 11335
+D3
+You see nothing special over there...
+~
+door illusion wall cave~
+1 -1 11333
+S
+#11335
+The Throne Room~
+You are standing in the Throne Room, right infront of Princess
+Remia, and her guards. The chandeleer almost blinds you, but makes
+the InscriptionS on the throne more visable from your length away.
+ 
+There seems to be an old scroll left on the ground.
+~
+0 0 1
+D3
+You see nothing special over there...
+~
+~
+0 -1 11334
+E
+throne inscriptions inscription inscript sign scribe~
+It says:
+  This are was created by Smoo(AKA Jagged), hope you liked it >:)
+~
+E
+scroll orc legend~
+The Legend of the Orcs of the Mount. CLairsway:
+  My father once told me about the orcs in Mount. Clairsway,
+  he said that they were created by the great ArchMage leo
+  in a freak accedent when he was trying to make some familiars,
+  instead he made random poppings of a particularly strong species of
+  orcs on Mount. Clairsway, he couldnt stop this spell, and for
+  some reason, the spell will keep going on, every half day, without
+  anybody being in control of them.
+
+  I once visited this mountain, out of pure curiosity, and I discovered
+  that these orcs had grown special features. They now have wings comming
+  out of their backs, and huge feet, that they kick with. This would truly
+  mean death for anybody that proposes any harm to them.~
+S
+#11336
+On a Path..~
+You are walking along a jagged path towards Mount. Clairsway.
+This path has lots of grass and small plants alone the side of
+it, and some butterflies and small animals like bunnies. The
+path continues to the east.
+~
+0 4 2
+D0
+You see nothing special over there...
+~
+~
+0 -1 11326
+D1
+You see nothing special over there...
+~
+~
+0 -1 11337
+S
+#11337
+Along a Jagged Path~
+You continue walking along a jagged path towards the great
+Mountain Clairsway, the path keeps changing dirrections, which
+makes you feel kind of dizzy. Right now, however, it is going
+streight.. to the east.
+~
+0 0 3
+D1
+You see nothing special over there...
+~
+~
+0 -1 11338
+D3
+You see nothing special over there...
+~
+~
+0 -1 11336
+S
+#11338
+Along a Jagged Path~
+You are walking down a long, crooked, path made from gravel and
+dirt. You notice lots of gofer holes to the sides of the path,
+and some even on the path. The path continues north, then turns
+east to the entrance of Mount. Clairsway.
+~
+0 0 1
+D0
+You see nothing special over there...
+~
+~
+0 -1 11339
+D3
+You see nothing special over there...
+~
+~
+0 -1 11337
+E
+goffer gofer holes hole~
+You see nothing in the goffer hole.~
+S
+#11339
+Right Before Mount. Clairsway~
+This is right outside the begining of Mount. Clairsway, where
+the fabled orcs once lived, and may still live.. if anybody would
+care to check.
+~
+0 0 1
+D1
+You see nothing special over there...
+~
+~
+0 -1 11370
+D2
+You see nothing special over there...
+~
+~
+0 -1 11338
+E
+sign~
+Welcome to Mount. Clairsway, this area was created by Smoo.~
+S
+#11340
+Following the Trail,~
+You continue following the original trail, wondering what could
+possibly be living on/in this mountain. The path your on continues
+to the west, and to the south you can see a fork in the road.
+~
+0 0 3
+D2
+You see nothing special over there...
+~
+~
+0 -1 11303
+D3
+You see nothing special over there...
+~
+~
+0 -1 11341
+S
+#11341
+Following the Trail around a Mountain.~
+You are following the trail around the mountain Jamely.
+This path is particularly long, and you start to feel exausted.
+The path continues to the north.
+~
+0 0 3
+D0
+You see nothing special over there...
+~
+~
+0 -1 11342
+D1
+You see nothing special over there...
+~
+~
+0 -1 11340
+S
+#11342
+Still Walking Around Mount. Jamely~
+You are about one courter way around the mountain, you sit for
+a moment, and rest, this is one beautiful site! Arn't you glad
+you took the scenic rout?
+~
+0 4 2
+D0
+You see nothing special over there...
+~
+~
+0 -1 11343
+D2
+You see nothing special over there...
+~
+~
+0 -1 11341
+S
+#11343
+In a Shallow Creak~
+You are wading inside a shallow creak, to the east is a slow-falling
+waterfall, and the path continues over there.
+~
+0 0 6
+D1
+You see nothing special over there...
+~
+~
+0 -1 11344
+D2
+You see nothing special over there...
+~
+~
+0 -1 11342
+S
+#11344
+In a Shallow Creak~
+You are wading in a shallow creak, to the west, there is
+a path that seems to end inside the creak, and there
+is another path to the north of here.
+~
+0 0 6
+D0
+You see nothing special over there...
+~
+~
+0 -1 11345
+D3
+You see nothing special over there...
+~
+~
+0 -1 11343
+S
+#11345
+Almost Around the Mountain!~
+Towards the east, you can see the northeast end of the mountain,
+this informs you that you are neer the end of your tour.
+To the south you see a babling creak.
+~
+0 4 2
+D1
+You see nothing special over there...
+~
+~
+0 -1 11346
+D2
+You see nothing special over there...
+~
+~
+0 -1 11344
+S
+#11346
+Approching the "Devils" Mountain,~
+You are still following this long mountain path that surrounds
+Mnt. Jamely. A bit to the east is the begining of the "Devils"
+Mountain.
+~
+0 0 4
+D1
+You see nothing special over there...
+~
+~
+0 -1 11347
+D3
+You see nothing special over there...
+~
+~
+0 -1 11345
+S
+#11347
+At the NorthEast end of Mnt. Jamely~
+You are at the NorthEast end of Mnt. Jamely, to the south
+you see the entrance to the Devils Mountain, and to the far
+south, you see a fork in the road leading to Mnt. Clairsway.
+~
+0 0 4
+D2
+You see nothing special over there...
+~
+~
+0 -1 11348
+D3
+You see nothing special over there...
+~
+~
+0 -1 11346
+S
+#11348
+A Fork in the Path~
+You are infront of a fork in the road, to the east if the
+Devils Mountain, and to the south is another fork in the
+road leading to Mount Clairsway, and to the other side of
+Mnt. Jamely
+ 
+There is a SIGN stuck in the ground that you should read.
+~
+0 0 1
+D0
+You see nothing special over there...
+~
+~
+0 -1 11347
+D1
+You see nothing special over there...
+~
+~
+0 -1 11349
+D2
+You see nothing special over there...
+~
+~
+0 -1 11326
+E
+sign notice~
+Do not go east unless you are sure that you are READY for it! To the east is The Devils Mountain!
+
+- Smoo~
+S
+#11349
+The Welcoming Party to the Devils Mountain~
+EAAAAAARRRRRRCH! You are stopped by an army full of demons,
+vampires, and the likes. You have now entered HELL! The horrific
+monsters in this room are only the start of your long journy
+through the Devils Mountain.
+~
+0 0 1
+D1
+You see nothing special over there...
+~
+~
+0 -1 11350
+D3
+You see nothing special over there...
+~
+~
+0 -1 11348
+S
+#11350
+Just Inside the Walls of the Mountain,~
+You are standing right inside a dark cave, inside the mountain.
+There is blood spanked all over the walls, the floor, and the ceiling.
+You hear a faint death cry of a soul being dragged through the abyss
+and into the underworld. The possible exits are west, to the welcoming
+party, and north, east, and south to more rooms in the outer chambers
+of hell.
+~
+0 4|8 0
+D0
+You see nothing special over there...
+~
+~
+0 -1 11351
+D1
+You see nothing special over there...
+~
+~
+0 -1 11353
+D2
+You see nothing special over there...
+~
+~
+0 -1 11358
+D3
+You see nothing special over there...
+~
+~
+0 -1 11349
+S
+#11351
+Just Inside the Mountain~
+You are in the outer chamber of hell, there is nothing but dust
+all around you, and the occasional undead monster. The only possible
+exits are south and east.
+~
+0 8 0
+D1
+You see nothing special over there...
+~
+~
+0 -1 11352
+D2
+You see nothing special over there...
+~
+~
+0 -1 11350
+S
+#11352
+Inside the Outer Chamber of Hell~
+You are in the outer chamber of hell, there is nothing but dust
+all around you, except the occasional undead monster. The only
+possible exits are east south and west.
+~
+0 8 0
+D1
+You see nothing special over there...
+~
+~
+0 -1 11354
+D2
+You see nothing special over there...
+~
+~
+0 -1 11353
+D3
+You see nothing special over there...
+~
+~
+0 -1 11351
+S
+#11353
+The Center Room of the Outer Chamber of Hell.~
+You are in the middle of the Outer Chambers of Hell, Downwards
+is the entrance to the abyss, in which if you servive all the
+horrific creatures, you may make it to the throne of Helios,
+great leader of the underworld. You notice a green oozing liquid
+on the ground.
+~
+0 8 0
+D0
+You see nothing special over there...
+~
+~
+0 -1 11352
+D1
+You see nothing special over there...
+~
+~
+0 -1 11355
+D2
+You see nothing special over there...
+~
+~
+0 -1 11357
+D3
+You see nothing special over there...
+~
+~
+0 -1 11350
+D5
+You see nothing special over there...
+~
+~
+0 -1 11359
+E
+ooze liquid green slime~
+You notice some slime oozing downwards..
+The Center Room of the Outer Chamber of Hell.
+~
+S
+#11354
+The NorthEast Corner of the Outer Chambers~
+You are in the NorthEast corner of the Outer Chambers of hell,
+It is extreemly dusty here, but with your keen eyesight, you
+notice something under the dust. The only possible exits are
+to the west and south, each leading to more rooms in the Outer
+Chambers of Hell.
+~
+0 8 0
+D2
+You see nothing special over there...
+~
+~
+0 -1 11355
+D3
+You see nothing special over there...
+~
+~
+0 -1 11352
+E
+page3 3 page the myth of the master orc~
+The Myth of the Master Orc..
+ 
+  There is said to be a huge orc on top of Mount. Clairsway,
+  that has been deformed from years of living high up in the
+  clouds, he has grown wings, hooves, and is extreemly dextirous
+  for his height, he is 10 feet tall, and is truley a odd sight
+  to see.
+~
+E
+page1 1 legend of the deathknight page~
+Deathknight are some truley damned souls that were once kind, but
+turned over to the undead by sacrificing their body and soul to
+Helios. However, by doing this, the Deathknights were un-knowingly
+forced for protect Helios and do whatever he wishes. Deathknights
+live forever, so they have a lot move experience then a normal knight
+or a normal guard, making them hard to kill.
+~
+E
+dust~
+You rub off some dust and notice a book, you feel drawn to it.
+#055
+~
+E
+book journal helios~
+The Journal of Helios:
+
+Page 1:  The Legend of the Deathknight
+Page 2:  The Legend of the Slime Tracker
+Page 3:  The Myth of the Master Orc~
+E
+page2 2 legend slime tracker page~
+The slime trackers are beings made from slime, with no bones, ribs, 
+  or even skin. They slurp up and down the underworld, unkillable by 
+  the evil, making tracks to and from the Outer Chambers to the Throne 
+  Room of Helios.~
+S
+#11355
+Eastern Room in the Outer Chambers of Hell~
+You are in the eastern corner of the Outer Chambers of Hell,
+you notice that there some drops of green liquid on the ground,
+and wonder what it is. To the north, west, and south, there is
+more rooms within these Outer Chambers.
+~
+0 8 0
+D0
+You see nothing special over there...
+~
+~
+0 -1 11354
+D2
+You see nothing special over there...
+~
+~
+0 -1 11356
+D3
+You see nothing special over there...
+~
+~
+0 -1 11353
+E
+slime green liquid~
+This liquid seems to be oozing towards the west..
+Eastern Room in the Outer Chambers of Hell
+~
+S
+#11356
+SouthEastern room in the Outer Chambers of Hell~
+You are in the SouthEastern corner of the Outer Chambers of Hell,
+These chambers were created by the mighty god helios when he turned
+over to the darkside after see'ing her daughter lose her first, and
+only love. The only exits are North and West.
+~
+0 8 0
+D0
+You see nothing special over there...
+~
+~
+0 -1 11355
+D3
+You see nothing special over there...
+~
+~
+0 -1 11357
+S
+#11357
+The Southern Room in the Outer Chambers of Hell.~
+You stop for a moment, in shock, when looking at the picture
+hanging on the wall, its a picture oh helios. He looks extreemly
+tall, and looks like he could crush anybody in an instant. To 
+the north is the center room of the Outer Chambers, and to the
+east and west are more rooms in the Outer Chambers.
+~
+0 8 0
+D0
+You see nothing special over there...
+~
+~
+0 -1 11353
+D1
+You see nothing special over there...
+~
+~
+0 -1 11356
+D3
+You see nothing special over there...
+~
+~
+0 -1 11358
+E
+picture wall helios~
+You stare at the picture of Helios that is hanging on the wall
+and notice that he has huge horns comming out of his head, with
+a large tail that he uses to whip things. He is about 18 feet tall
+which makes him extreemly strong from his mass weight. You really
+wouldnt want to mess with this guy.
+The Southern Room in the Outer Chambers of Hell.
+~
+S
+#11358
+The SouthWestern Room in the Outer Chambers of Hell.~
+You are standing in the southwest room of the Outer Chambers
+of Hell. You notice that its extreemly dark here, you scan
+around and notice a ray of light shining in on that room, you
+realise that must be a way out. On the reverse, if you think
+you can servive hell at full force, you should go to the northeast
+and walk down into the abyss.
+~
+0 8 0
+D0
+You see nothing special over there...
+~
+~
+0 -1 11350
+D1
+You see nothing special over there...
+~
+~
+0 -1 11357
+S
+#11359
+In the Abyss~
+You are walking through a large abyss formed by the undead lord,
+Helios. You know that somewhere in here is his throne room.. but
+you dont know WHERE. There are tons of undead slaves and creatures
+all over, working like crazy. You see an oozing green fluid here..
+~
+0 1|4|8|8192 0
+D0
+You see nothing special over there...
+~
+~
+0 -1 11359
+D1
+You see nothing special over there...
+~
+~
+0 -1 11360
+D2
+You see nothing special over there...
+~
+~
+0 -1 11359
+D3
+You see nothing special over there...
+~
+~
+0 -1 11360
+D4
+You see nothing special over there...
+~
+~
+0 -1 11359
+D5
+You see nothing special over there...
+~
+~
+0 -1 11360
+E
+slime green fluid liquid ooze oozing~
+A bunch of slime seems to be oozing east..
+In the Abyss
+~
+S
+#11360
+In the Abyss~
+You are walking through a large abyss formed by the undead lord,
+Helios. You know that somewhere in here is his throne room.. but
+you dont know WHERE. There are tons of undead slaves and creatures
+all over, working like crazy. You see an oozing green fluid here..
+~
+0 1|8|8192 0
+D0
+You see nothing special over there...
+~
+~
+0 -1 11360
+D1
+You see nothing special over there...
+~
+~
+0 -1 11359
+D2
+You see nothing special over there...
+~
+~
+0 -1 11362
+D3
+You see nothing special over there...
+~
+~
+0 -1 11359
+D4
+You see nothing special over there...
+~
+~
+0 -1 11359
+D5
+You see nothing special over there...
+~
+~
+0 -1 11360
+E
+oozing green fluid ooze slime liquid~
+An oozing green slime seems to be shifting south..
+In the Abyss
+~
+S
+#11361
+In the Abyss~
+You are walking through a large abyss formed by the undead lord,
+Helios. You know that somewhere in here is his throne room.. but
+you dont know WHERE. There are tons of undead slaves and creatures
+all over, working like crazy.
+~
+0 1|8|8192 0
+D0
+You see nothing special over there...
+~
+~
+0 -1 11361
+D1
+You see nothing special over there...
+~
+~
+0 -1 11359
+D2
+You see nothing special over there...
+~
+~
+0 -1 11361
+D3
+You see nothing special over there...
+~
+~
+0 -1 11360
+D4
+You see nothing special over there...
+~
+~
+0 -1 11360
+D5
+You see nothing special over there...
+~
+~
+0 -1 11362
+S
+#11362
+In the Abyss~
+You are walking through a large abyss formed by the undead lord,
+Helios. You know that somewhere in here is his throne room.. but
+you dont know WHERE. There are tons of undead slaves and creatures
+all over, working like crazy. You see an oozing green fluid here..
+~
+0 1|8|8192 0
+D0
+You see nothing special over there...
+~
+~
+0 -1 11361
+D1
+You see nothing special over there...
+~
+~
+0 -1 11360
+D2
+You see nothing special over there...
+~
+~
+0 -1 11362
+D3
+You see nothing special over there...
+~
+~
+0 -1 11359
+D4
+You see nothing special over there...
+~
+~
+0 -1 11366
+D5
+You see nothing special over there...
+~
+~
+0 -1 11361
+E
+ooze oozing green fluid slime liquid~
+Some green slime seems to be oozing into the sky..
+
+In the Abyss
+~
+S
+#11363
+In the Abyss~
+You are walking through a large abyss formed by the undead lord,
+Helios. You know that somewhere in here is his throne room.. but
+you dont know WHERE. There are tons of undead slaves and creatures
+all over, working like crazy.
+~
+0 1|8|8192 0
+D0
+You see nothing special over there...
+~
+~
+0 -1 11362
+D1
+You see nothing special over there...
+~
+~
+0 -1 11361
+D2
+You see nothing special over there...
+~
+~
+0 -1 11359
+D3
+You see nothing special over there...
+~
+~
+0 -1 11360
+D4
+You see nothing special over there...
+~
+~
+0 -1 11359
+D5
+You see nothing special over there...
+~
+~
+0 -1 11363
+S
+#11364
+In the Abyss~
+You are walking through a large abyss formed by the undead lord,
+Helios. You know that somewhere in here is his throne room.. but
+you dont know WHERE. There are tons of undead slaves and creatures
+all over, working like crazy.
+~
+0 1|8|8192 0
+D0
+You see nothing special over there...
+~
+~
+0 -1 11364
+D1
+You see nothing special over there...
+~
+~
+0 -1 11363
+D2
+You see nothing special over there...
+~
+~
+0 -1 11365
+D3
+You see nothing special over there...
+~
+~
+0 -1 11362
+D4
+You see nothing special over there...
+~
+~
+0 -1 11359
+D5
+You see nothing special over there...
+~
+~
+0 -1 11360
+S
+#11365
+In the Abyss~
+You are walking through a large abyss formed by the undead lord,
+Helios. You know that somewhere in here is his throne room.. but
+you dont know WHERE. There are tons of undead slaves and creatures
+all over, working like crazy.
+~
+0 1|8|8192 0
+D0
+You see nothing special over there...
+~
+~
+0 -1 11366
+D1
+You see nothing special over there...
+~
+~
+0 -1 11359
+D2
+You see nothing special over there...
+~
+~
+0 -1 11363
+D3
+You see nothing special over there...
+~
+~
+0 -1 11362
+D4
+You see nothing special over there...
+~
+~
+0 -1 11366
+D5
+You see nothing special over there...
+~
+~
+0 -1 11363
+S
+#11366
+In the Abyss~
+You are walking through a large abyss formed by the undead lord,
+Helios. You know that somewhere in here is his throne room.. but
+you dont know WHERE. There are tons of undead slaves and creatures
+all over, working like crazy. You see an oozing green fluid here..
+~
+0 1|8|8192 0
+D0
+You see nothing special over there...
+~
+~
+0 -1 11359
+D1
+You see nothing special over there...
+~
+~
+0 -1 11363
+D2
+You see nothing special over there...
+~
+~
+0 -1 11362
+D3
+You see nothing special over there...
+~
+~
+0 -1 11361
+D4
+You see nothing special over there...
+~
+~
+0 -1 11366
+D5
+You see nothing special over there...
+~
+~
+0 -1 11367
+E
+oozing green ooze fluid slime liquid~
+Some green slime seems to be sinking into the ground..
+~
+S
+#11367
+In the Abyss~
+You are walking through a large abyss formed by the undead lord,
+Helios. You know that somewhere in here is his throne room.. but
+you dont know WHERE. There are tons of undead slaves and creatures
+all over, working like crazy.
+~
+0 1|4|8|8192 0
+D0
+You see nothing special over there...
+~
+~
+0 -1 11359
+D1
+You see nothing special over there...
+~
+~
+0 -1 11359
+D2
+You see nothing special over there...
+~
+~
+0 -1 11359
+D3
+You see nothing special over there...
+~
+~
+0 -1 11359
+D4
+You see nothing special over there...
+~
+~
+0 -1 11359
+D5
+You see nothing special over there...
+~
+~
+0 -1 11368
+S
+#11368
+The Throne Room of Helios~
+This is the throne room of the great Helios, the lord of the
+undead. He sits on his throne, working powerfull magics that
+force people into becoming an undead, and makes them turn into
+their most feared species of undead.
+~
+0 8 0
+D1
+You see nothing special over there...
+~
+~
+0 -1 11367
+D4
+You see nothing special over there...
+~
+~
+0 -1 11353
+S
+#11369
+The Third mob shoot.. for the abyss~
+This mob shoot shoots mobs into the abyss. (note: set room
+#067 as no_mob
+~
+0 8|16384 0
+D0
+You see nothing special over there...
+~
+~
+0 -1 11359
+D1
+You see nothing special over there...
+~
+~
+0 -1 11361
+D2
+You see nothing special over there...
+~
+~
+0 -1 11366
+D3
+You see nothing special over there...
+~
+~
+0 -1 11363
+D4
+You see nothing special over there...
+~
+~
+0 -1 11361
+D5
+You see nothing special over there...
+~
+~
+0 -1 11365
+S
+#11370
+At the Bottom of Mount. Clairsway~
+You are at the bottom of Mount. Clairsway, and you start to
+feel a bit queezy about climbing this mountain, it is pretty
+tall.. There is an ant mound to your left, and you go kill the
+ants in it.. you feel so enraged that you feel like climbing
+the mountain!
+~
+0 0 4
+D1
+You see nothing special over there...
+~
+~
+0 -1 11371
+D3
+You see nothing special over there...
+~
+~
+0 -1 11339
+E
+ant mound kill ants~
+This is a small ant mound, it looks like its been trampled on
+a lot.
+At the Bottom of Mount. Clairsway
+~
+S
+#11371
+Climbing Mount. Clairsway~
+You are climbing along a steep, narrow path along the side
+of Mount. Clairsway, There are lots of small animals around
+here, and you have to be very carefull not to step on them
+and fall.
+~
+0 0 5
+D2
+You see nothing special over there...
+~
+~
+0 -1 11372
+D3
+You see nothing special over there...
+~
+~
+0 -1 11370
+S
+#11372
+Climbing Mount. Clairsway~
+You are climbing along a steep, narrow path along the side
+of Mount. Clairsway, You notice the air is getting more humid,
+causing yourself to get a head ache.
+~
+0 0 5
+D0
+You see nothing special over there...
+~
+~
+0 -1 11371
+D3
+You see nothing special over there...
+~
+~
+0 -1 11373
+S
+#11373
+Climbing Mount. Clairsway~
+You are climbing along a steep, narrow path, when suddenly,
+you notice that the path ends.. then you look down, then up,
+and notice that theres a ledge where you can continue to climb
+upwards.
+~
+0 0 5
+D1
+You see nothing special over there...
+~
+~
+0 -1 11372
+D4
+You see nothing special over there...
+~
+~
+0 -1 11374
+S
+#11374
+Climbing Mount. Clairsway~
+You are climbing the mountain, you notice that the ledge is a
+bit farther up then you though, so you need to continue climbing.
+~
+0 0 5
+D4
+You see nothing special over there...
+~
+~
+0 -1 11375
+D5
+You see nothing special over there...
+~
+~
+0 -1 11373
+S
+#11375
+At a Ledge..~
+You have finally reached the ledge of about half-way up the
+mountain, you can take a well needed rest to the west.
+~
+0 0 5
+D3
+You see nothing special over there...
+~
+~
+0 -1 11376
+D5
+You see nothing special over there...
+~
+~
+0 -1 11374
+S
+#11376
+On a Narrow Ledge~
+You are on the ledge that about half-way up Mount. Clairsway,
+its very narrow, but still big enough for you to sit or sleep
+on. The path continues towards the west, where you can get higher
+up the mountain.
+~
+0 0 2
+D1
+You see nothing special over there...
+~
+~
+0 -1 11375
+D3
+You see nothing special over there...
+~
+~
+0 -1 11377
+S
+#11377
+A Path Along the Mountain.~
+You are walking along the path on the side of the mountain,
+there are ants, bunnies, gofers, and almost every other small
+furry animals and insects. The path continues to the north,
+where theres a small leap to the top.
+~
+0 0 4
+D0
+You see nothing special over there...
+~
+~
+0 -1 11378
+D1
+You see nothing special over there...
+~
+~
+0 -1 11376
+S
+#11378
+The Edge of the Mountain!~
+ACK! Theres been a landslide.. guess you cant go any farther!
+But at least you did make it all the way to the clouds, but
+dont you wish you could go ALL THE WAY?
+~
+0 4 4
+D2
+You see nothing special over there...
+~
+~
+0 -1 11377
+D4
+You see nothing special over there...
+~
+~
+0 -1 11379
+E
+cloud clouds~
+There seems to be a cloud low enough for you to climb up on to,
+The Edge of the Mountain!
+~
+S
+#11379
+A Small Cloud~
+You are amongst a small, white cloud. The view is spectacular
+from here, you can see the top of the whole mountain range, and
+all the way down to the forest.. did you know there was a forest?
+I didnt! There are more clouds to the east, north, and west.
+~
+0 0 9
+D0
+You see nothing special over there...
+~
+~
+0 -1 11380
+D1
+You see nothing special over there...
+~
+~
+0 -1 11382
+D3
+You see nothing special over there...
+~
+~
+0 -1 11383
+D5
+You see nothing special over there...
+~
+~
+0 -1 11378
+S
+#11380
+Cloud Hoppin'~
+You are on top of a group of small, white clouds. The view is
+spectacular! You can see everything, all the way to shire! And
+all those lights from Vittain at night are so beautiful! The
+clouds continue to the east and south.
+~
+0 0 9
+D1
+You see nothing special over there...
+~
+~
+0 -1 11381
+D2
+You see nothing special over there...
+~
+~
+0 -1 11379
+S
+#11381
+Cloud Hoppin'~
+Tou are on top of a group of small white clouds, right above
+the great city of Vittain! You can see all your friends buying
+stuff from the many stores, drinking from the fountain, and
+talking at the Healer! What a view!
+~
+0 0 9
+D2
+You see nothing special over there...
+~
+~
+0 -1 11382
+D3
+You see nothing special over there...
+~
+~
+0 -1 11380
+S
+#11382
+Cloud Hoppin'~
+You are on top of a group of small white clouds, there seems
+to be a hole right int he middle of this one, and it makes it
+look kind of like a glass bottom boat, you can see all the
+graverobbers in the graveyard, and people mourning in the old
+chapel.
+~
+0 0 9
+D0
+You see nothing special over there...
+~
+~
+0 -1 11381
+D3
+You see nothing special over there...
+~
+~
+0 -1 11379
+S
+#11383
+Cloud Hoppin'~
+This is the smallest of all the clouds, it seems to be in the shape
+of stairway, leading upwards. You ponder about this for a moment, 
+then realise that there just *might* be a way to get to the top of
+the mountain after all!
+~
+0 0 9
+D1
+You see nothing special over there...
+~
+~
+0 -1 11379
+D4
+You see nothing special over there...
+~
+~
+0 -1 11384
+S
+#11384
+At the Edge of the Top of the Mountain,~
+You are at the edge of the top of the mountain, you can see a
+large figure forming over to the east, its shadow is making it
+hard to find out what it is though.
+~
+0 4 5
+D1
+You see nothing special over there...
+~
+~
+0 -1 11385
+D5
+You see nothing special over there...
+~
+~
+0 -1 11383
+S
+#11385
+On the Peak of the Mountain~
+You are on the peak of Mount. Clairsway, there is a large
+figure here, could it be the fabled Master Orc? He seems
+to have all the fortold qualities.. wings.. hooves.. and is
+extreemly large. The exits are in all dirrections.
+~
+0 0 5
+D0
+You see nothing special over there...
+~
+~
+0 -1 11386
+D1
+You see nothing special over there...
+~
+~
+0 -1 11387
+D2
+You see nothing special over there...
+~
+~
+0 -1 11388
+D3
+You see nothing special over there...
+~
+~
+0 -1 11384
+S
+#11386
+At the Edge of the Mountain~
+You are at the edge of Mount. Clairsway, you can see nothing
+but sea over to the north, making this a dull place to be.
+Over to the south you see the room of the Master Orc.
+~
+0 0 1
+D2
+You see nothing special over there...
+~
+~
+0 -1 11385
+S
+#11387
+At the Edge of the Mountain Top~
+You are standing at the edge of Mount. Clairsways peak, to
+the east you can see a large keep, known as the Keep of Mahn-Tor,
+and to the south you see some hot lava pools. The only exit is to the
+west, where you see a large orc.
+~
+0 0 5
+D3
+You see nothing special over there...
+~
+~
+0 -1 11385
+S
+#11388
+An Edge at the Top of a Mountain~
+This is the southern end the peak of the great mountain "Clairsway"
+To the west you can see a small valley full of elves, and you can see 
+hundreds of little adventurers beating the hell out of them!! what a 
+terrible thing to do!!
+~
+0 0 5
+D0
+You see nothing special over there...
+~
+~
+0 -1 11385
+S
+#11389
+A Hidden Passage Behind the WaterFall~
+You stumble and fall into the waterfall, then land on your
+back inside a hidden passage. You can see lots of jars on 
+shelfs on the walls, you can also see a big book, and a note
+~
+0 0 1
+D1
+You see nothing special over there...
+~
+~
+0 -1 11390
+D3
+You see nothing special over there...
+~
+~
+1 -1 11332
+E
+3 page3 page~
+Chant the following: "Flie By Meno Cameno Homycadanas Moo Moo"
+~
+T
+|flie by menu cameno homycadanas moo moo*~
+$n bulges with energy.~
+You bulge with energy.~
+all~
+4096 56 0
+E
+1 page1 page~
+Chant the following: "Zhuma Badana Manu Manu Hereo"
+~
+T
+|zhuma badana manu manu hereo*~
+A glowing stick evolves in the air, from top to bottom. Lashes then appear out of it.~
+copy~
+all~
+32 11342 0
+E
+note~
+This is the carvern of the great ArchMage, Leo.
+~
+E
+book of shadows leo spellbook spell book~
+Leo's Book of Shadows
+
+   1. Eliteness
+   2. How to turn a monkey into a huge orc
+   3. How to make an animal grow wings~
+E
+jar jars~
+You can see the following jars:
+ Cat'seye
+ Munchkin Milk
+ Frog Dung~
+E
+2 page2 page~
+Chant the following: "Karama Harmana Deodelis Penylis"~
+T
+|karama harmana deodelis penylis*~
+$n bulges with energy.~
+You bulge with energy.~
+all~
+4096 92 0
+S
+#11390
+The ArchMage Leo's Study~
+You are standing in the study and altar room of the great 
+ArchMage leo. This is where he goes to create, and cast 
+spells, and brew potions. There is a book on the desk in
+the middle of the room.
+~
+0 1024 1
+D3
+You see nothing special over there...
+~
+~
+0 -1 11389
+E
+book bio biography auto autobiography~
+The ArchMage leo was born with christian parents, and at
+the age of nine got highly instrested in the workings of
+magic, both illusions and real. He started to study like
+crazy at the age of 10, all the other wizards laughed at
+him, but when he reached age 14, he was the youngest mage
+to reach the ArchMage status.
+~
+E
+desk~
+This is a fine desk made out of really smooth wood. 
+There is a book on top of it.~
+S
+#11391
+mob shoot for the outer chambers of hell~
+set 050 and 048 as no_mob
+~
+0 4 1
+S
+#11392
+Mob shoot for Mount. Jamely~
+set 025 and 032 as no_mob
+~
+0 0 1
+D0
+You see nothing special over there...
+~
+~
+0 -1 11327
+D1
+You see nothing special over there...
+~
+~
+0 -1 11328
+D2
+You see nothing special over there...
+~
+~
+0 -1 11333
+D3
+You see nothing special over there...
+~
+~
+0 -1 11330
+S
+#11393
+mob cannon for clouds on mnt. clairsway~
+Set 084 as no-mob
+~
+0 0 1
+D0
+You see nothing special over there...
+~
+~
+0 -1 11379
+D1
+You see nothing special over there...
+~
+~
+0 -1 11380
+D2
+You see nothing special over there...
+~
+~
+0 -1 11381
+D3
+You see nothing special over there...
+~
+~
+0 -1 11382
+D4
+You see nothing special over there...
+~
+~
+0 -1 11383
+D5
+You see nothing special over there...
+~
+~
+0 -1 11383
+S
+#11394
+Room Of Cows~
+This is where god stores all his excess cows, God loves cows.
+There is a sign floating in the middle of the room.
+~
+0 4|8|1024|8192 1
+D0
+You see nothing special over there...
+~
+~
+0 -1 3448
+D1
+You see nothing special over there...
+~
+~
+0 -1 11301
+D2
+You see nothing special over there...
+~
+~
+0 -1 3054
+D3
+You see nothing special over there...
+~
+~
+0 -1 10452
+D4
+You see nothing special over there...
+~
+~
+0 -1 4122
+D5
+You see nothing special over there...
+~
+~
+0 -1 2804
+E
+sign~
+This is the transporter room of the great cow.
+   North: Rathcor room
+   East : Begining of The Mountains of Desolution
+   South: The Vittain healer
+   West : Someplace in Hell
+   Up   : The Secret Chamber
+   Down : The Troll Den~
+S
+#0
+
+
+#RESETS
+O 1 11334 3 11323		; Cauldron at the nymph..  
+D 1 11302 1 1			; On the Path to the Mountain.. Close East
+D 1 11321 0 1			; A Dead End in the Forest Close North
+D 1 11323 2 0			; A Golden Cave Open South
+D 1 11333 1 1			; The Edge of the Mountain. Close East
+*
+*
+M 1 11301 4 11392			sprite guard on mount jamely shoot
+E 1 11302 100 13
+E 1 11301 100 16
+E 1 11303 100 0
+*
+*
+*
+*
+*
+*
+*
+*
+M 1 11301 4 11392			A Sprite Guard to Mob shoot for Mount. Jamely
+E 1 11303 100 0
+E 1 11302 100 13
+E 1 11301 100 16
+*
+M 1 11301 4 11392			A Sprite Guard to Mob shoot for Mount. Jamely
+E 1 11303 100 0
+E 1 11302 100 13
+E 1 11301 100 16
+*
+*
+*
+M 1 11302 3 11392			A White Pixie to Mob shoot for Mount. Jamely
+E 1 11305 100 16
+G 1 11304 100
+*
+M 1 11302 3 11392			A White Pixie to Mob shoot for Mount. Jamely
+E 1 11305 100 16
+G 1 11304 100
+*
+M 1 11302 3 11392			A White Pixie to Mob shoot for Mount. Jamely
+E 1 11305 100 16
+G 1 11304 100
+*
+M 1 11303 3 11392			A Yellow Pixie to Mob shoot for Mount. Jamely
+E 1 11305 100 16
+E 1 11307 100 4
+G 1 11304 100
+*
+M 1 11303 3 11392			A Yellow Pixie to Mob shoot for Mount. Jamely
+E 1 11305 100 16
+E 1 11307 100 3
+G 1 11304 100
+*
+*
+M 1 11304 4 11392			A Blue Pixie to Mob shoot for Mount. Jamely
+E 1 11306 100 3
+G 1 11304 100
+*
+M 1 11304 2 11392			A Blue Pixie to Mob shoot for Mount. Jamely
+E 1 11306 100 3
+*
+M 1 11305 4 11392			A Orange Pixie to Mob shoot for Mount. Jamely
+E 1 11305 100 16
+E 1 11308 100 6
+G 1 11304 100
+*
+M 1 11305 4 11392			A Orange Pixie to Mob shoot for Mount. Jamely
+E 1 11305 100 16
+E 1 11308 100 6
+G 1 11304 100
+*
+M 1 11305 4 11392			A Orange Pixie to Mob shoot for Mount. Jamely
+E 1 11305 100 16
+E 1 11308 100 6
+G 1 11304 100
+*
+*
+M 1 11307 3 11392			A Purple Pixie to Mob shoot for Mount. Jamely
+E 1 11303 100 0
+E 1 11311 100 16
+G 1 11304 100
+*
+M 1 11307 1 11392			A Purple Pixie to Mob shoot for Mount. Jamely
+E 1 11303 100 0
+E 1 11311 100 16
+G 1 11304 100
+*
+M 1 11308 2 11335			The Guard of Princess Remia to The Throne Room
+E 1 11303 100 0
+E 1 11306 100 3
+E 1 11314 100 16
+E 1 11307 100 4
+E 1 11313 100 11
+*
+M 1 11308 2 11335			The Guard of Princess Remia to The Throne Room
+E 1 11303 100 0
+E 1 11306 100 3
+E 1 11306 100 4
+E 1 11313 100 11
+E 1 11314 100 16
+G 1 11315 100
+*
+M 1 11310 4 11322			A Bunny Rabbit to The Mob Cannon and Note Room
+G 1 11316 100
+*
+M 1 11310 4 11322			A Bunny Rabbit to The Mob Cannon and Note Room
+G 1 11316 100
+G 1 11316 100
+*
+M 1 11310 4 11322			A Bunny Rabbit to The Mob Cannon and Note Room
+*
+M 1 11310 4 11322			A Small Rat to The Mob Cannon and Note Room
+G 1 11316 100
+*
+M 1 11311 2 11322			A Huge Dog to The Mob Cannon and Note Room
+E 1 11317 100 16
+G 1 11318 100
+*
+*
+M 1 11311 2 11322			A Huge Dog to The Mob Cannon and Note Room
+E 1 11317 100 16
+*
+M 1 11312 1 11322			A HUGE bear to The Mob Cannon and Note Room
+E 1 11319 100 16
+*
+M 1 11313 5 11322			A Bat with large Fangs to The Mob Cannon and Note Room
+E 1 11320 100 16
+*
+M 1 11313 5 11322			A Bat with large Fangs to The Mob Cannon and Note Room
+E 1 11320 100 16
+*
+M 1 11314 6 11322			A Small Rat to The Mob Cannon and Note Room
+E 1 11321 100 16
+*
+M 1 11314 6 11322			A Small Rat to The Mob Cannon and Note Room
+E 1 11321 100 16
+*
+M 1 11314 5 11322			A Small Rat to The Mob Cannon and Note Room
+E 1 11321 100 16
+*
+M 1 11315 1 11323			A MultiColored Nymph to A Golden Cave
+E 1 11322 100 5
+E 1 11322 100 10
+*
+M 1 11310 4 11322			A Bunny Rabbit to The Mob Cannon and Note Room
+G 1 11316 100
+*
+M 1 11310 4 11322			A Bunny Rabbit to The Mob Cannon and Note Room
+G 1 11316 100
+G 1 11316 100
+*
+M 1 11310 4 11322			A Bunny Rabbit to The Mob Cannon and Note Room
+*
+M 1 11310 4 11322			A Small Rat to The Mob Cannon and Note Room
+G 1 11316 100
+*
+M 1 11311 2 11322			A Huge Dog to The Mob Cannon and Note Room
+E 1 11317 100 16
+G 1 11318 100
+*
+*
+M 1 11311 2 11322			A Huge Dog to The Mob Cannon and Note Room
+E 1 11317 100 16
+*
+M 1 11312 1 11322			A HUGE bear to The Mob Cannon and Note Room
+E 1 11319 100 16
+*
+M 1 11313 5 11322			A Bat with large Fangs to The Mob Cannon and Note Room
+E 1 11320 100 16
+*
+M 1 11313 5 11322			A Bat with large Fangs to The Mob Cannon and Note Room
+E 1 11320 100 16
+*
+M 1 11314 6 11322			A Small Rat to The Mob Cannon and Note Room
+E 1 11321 100 16
+*
+M 1 11314 6 11322			A Small Rat to The Mob Cannon and Note Room
+E 1 11321 100 16
+*
+M 1 11314 5 11322			A Small Rat to The Mob Cannon and Note Room
+E 1 11321 100 16
+*
+M 1 11315 1 11323			A MultiColored Nymph to A Golden Cave
+E 1 11322 100 5
+E 1 11322 100 10
+*
+M 1 11310 4 11322			A Bunny Rabbit to The Mob Cannon and Note Room
+G 1 11316 100
+*
+M 1 11310 4 11322			A Bunny Rabbit to The Mob Cannon and Note Room
+G 1 11316 100
+G 1 11316 100
+*
+M 1 11310 4 11322			A Bunny Rabbit to The Mob Cannon and Note Room
+*
+M 1 11310 4 11322			A Small Rat to The Mob Cannon and Note Room
+G 1 11316 100
+*
+M 1 11311 2 11322			A Huge Dog to The Mob Cannon and Note Room
+E 1 11317 100 16
+G 1 11318 100
+*
+*
+M 1 11311 2 11322			A Huge Dog to The Mob Cannon and Note Room
+E 1 11317 100 16
+*
+M 1 11312 1 11322			A HUGE bear to The Mob Cannon and Note Room
+E 1 11319 100 16
+*
+M 1 11313 5 11322			A Bat with large Fangs to The Mob Cannon and Note Room
+E 1 11320 100 16
+*
+M 1 11313 5 11322			A Bat with large Fangs to The Mob Cannon and Note Room
+E 1 11320 100 16
+*
+M 1 11314 6 11322			A Small Rat to The Mob Cannon and Note Room
+E 1 11321 100 16
+*
+M 1 11314 6 11322			A Small Rat to The Mob Cannon and Note Room
+E 1 11321 100 16
+*
+M 1 11314 5 11322			A Small Rat to The Mob Cannon and Note Room
+E 1 11321 100 16
+*
+M 1 11315 1 11323			A MultiColored Nymph to A Golden Cave
+E 1 11322 100 5
+E 1 11322 100 10
+*
+M 1 11310 4 11322			A Bunny Rabbit to The Mob Cannon and Note Room
+G 1 11316 100
+*
+M 1 11310 4 11322			A Bunny Rabbit to The Mob Cannon and Note Room
+G 1 11316 100
+G 1 11316 100
+*
+M 1 11310 4 11322			A Bunny Rabbit to The Mob Cannon and Note Room
+*
+M 1 11310 4 11322			A Small Rat to The Mob Cannon and Note Room
+G 1 11316 100
+*
+M 1 11311 2 11322			A Huge Dog to The Mob Cannon and Note Room
+E 1 11317 100 16
+G 1 11318 100
+*
+*
+M 1 11311 2 11322			A Huge Dog to The Mob Cannon and Note Room
+E 1 11317 100 16
+*
+M 1 11312 1 11322			A HUGE bear to The Mob Cannon and Note Room
+E 1 11319 100 16
+*
+M 1 11313 5 11322			A Bat with large Fangs to The Mob Cannon and Note Room
+E 1 11320 100 16
+*
+M 1 11313 5 11322			A Bat with large Fangs to The Mob Cannon and Note Room
+E 1 11320 100 16
+*
+M 1 11314 6 11322			A Small Rat to The Mob Cannon and Note Room
+E 1 11321 100 16
+*
+M 1 11314 6 11322			A Small Rat to The Mob Cannon and Note Room
+E 1 11321 100 16
+*
+M 1 11314 5 11322			A Small Rat to The Mob Cannon and Note Room
+E 1 11321 100 16
+*
+M 1 11315 1 11323			A MultiColored Nymph to A Golden Cave
+E 1 11322 100 5
+E 1 11322 100 10
+*
+M 1 11310 4 11322			A Bunny Rabbit to The Mob Cannon and Note Room
+G 1 11316 100
+*
+M 1 11310 4 11322			A Bunny Rabbit to The Mob Cannon and Note Room
+G 1 11316 100
+G 1 11316 100
+*
+M 1 11310 4 11322			A Bunny Rabbit to The Mob Cannon and Note Room
+*
+M 1 11310 4 11322			A Small Rat to The Mob Cannon and Note Room
+G 1 11316 100
+*
+M 1 11311 2 11322			A Huge Dog to The Mob Cannon and Note Room
+E 1 11317 100 16
+G 1 11318 100
+*
+*
+M 1 11311 2 11322			A Huge Dog to The Mob Cannon and Note Room
+E 1 11317 100 16
+*
+M 1 11312 1 11322			A HUGE bear to The Mob Cannon and Note Room
+E 1 11319 100 16
+*
+M 1 11313 5 11322			A Bat with large Fangs to The Mob Cannon and Note Room
+E 1 11320 100 16
+*
+M 1 11313 5 11322			A Bat with large Fangs to The Mob Cannon and Note Room
+E 1 11320 100 16
+*
+M 1 11314 6 11322			A Small Rat to The Mob Cannon and Note Room
+E 1 11321 100 16
+*
+M 1 11314 6 11322			A Small Rat to The Mob Cannon and Note Room
+E 1 11321 100 16
+*
+M 1 11314 5 11322			A Small Rat to The Mob Cannon and Note Room
+E 1 11321 100 16
+*
+M 1 11315 1 11323			A MultiColored Nymph to A Golden Cave
+E 1 11322 100 5
+E 1 11322 100 10
+*
+M 1 11310 4 11322			A Bunny Rabbit to The Mob Cannon and Note Room
+G 1 11316 100
+*
+M 1 11310 4 11322			A Bunny Rabbit to The Mob Cannon and Note Room
+G 1 11316 100
+G 1 11316 100
+*
+M 1 11310 4 11322			A Bunny Rabbit to The Mob Cannon and Note Room
+*
+M 1 11310 4 11322			A Small Rat to The Mob Cannon and Note Room
+G 1 11316 100
+*
+M 1 11311 2 11322			A Huge Dog to The Mob Cannon and Note Room
+E 1 11317 100 16
+G 1 11318 100
+*
+*
+M 1 11311 2 11322			A Huge Dog to The Mob Cannon and Note Room
+E 1 11317 100 16
+*
+M 1 11312 1 11322			A HUGE bear to The Mob Cannon and Note Room
+E 1 11319 100 16
+*
+M 1 11313 5 11322			A Bat with large Fangs to The Mob Cannon and Note Room
+E 1 11320 100 16
+*
+M 1 11313 5 11322			A Bat with large Fangs to The Mob Cannon and Note Room
+E 1 11320 100 16
+*
+M 1 11314 6 11322			A Small Rat to The Mob Cannon and Note Room
+E 1 11321 100 16
+*
+M 1 11314 6 11322			A Small Rat to The Mob Cannon and Note Room
+E 1 11321 100 16
+*
+M 1 11314 5 11322			A Small Rat to The Mob Cannon and Note Room
+E 1 11321 100 16
+*
+M 1 11315 1 11323			A MultiColored Nymph to A Golden Cave
+E 1 11322 100 5
+E 1 11322 100 10
+*
+M 1 11310 4 11322			A Bunny Rabbit to The Mob Cannon and Note Room
+G 1 11316 100
+*
+M 1 11310 4 11322			A Bunny Rabbit to The Mob Cannon and Note Room
+G 1 11316 100
+G 1 11316 100
+*
+M 1 11310 4 11322			A Bunny Rabbit to The Mob Cannon and Note Room
+*
+M 1 11310 4 11322			A Small Rat to The Mob Cannon and Note Room
+G 1 11316 100
+*
+M 1 11311 2 11322			A Huge Dog to The Mob Cannon and Note Room
+E 1 11317 100 16
+G 1 11318 100
+*
+*
+M 1 11311 2 11322			A Huge Dog to The Mob Cannon and Note Room
+E 1 11317 100 16
+*
+M 1 11312 1 11322			A HUGE bear to The Mob Cannon and Note Room
+E 1 11319 100 16
+*
+M 1 11313 5 11322			A Bat with large Fangs to The Mob Cannon and Note Room
+E 1 11320 100 16
+*
+M 1 11313 5 11322			A Bat with large Fangs to The Mob Cannon and Note Room
+E 1 11320 100 16
+*
+M 1 11314 6 11322			A Small Rat to The Mob Cannon and Note Room
+E 1 11321 100 16
+*
+M 1 11314 6 11322			A Small Rat to The Mob Cannon and Note Room
+E 1 11321 100 16
+*
+M 1 11314 5 11322			A Small Rat to The Mob Cannon and Note Room
+E 1 11321 100 16
+*
+M 1 11315 1 11323			A MultiColored Nymph to A Golden Cave
+E 1 11322 100 5
+E 1 11322 100 10
+
+*
+M 1 11310 4 11322			A Bunny Rabbit to The Mob Cannon and Note Room
+G 1 11316 100
+*
+M 1 11310 4 11322			A Bunny Rabbit to The Mob Cannon and Note Room
+G 1 11316 100
+G 1 11316 100
+*
+M 1 11310 4 11322			A Bunny Rabbit to The Mob Cannon and Note Room
+*
+M 1 11310 4 11322			A Small Rat to The Mob Cannon and Note Room
+G 1 11316 100
+*
+M 1 11311 2 11322			A Huge Dog to The Mob Cannon and Note Room
+E 1 11317 100 16
+G 1 11318 100
+*
+*
+M 1 11311 2 11322			A Huge Dog to The Mob Cannon and Note Room
+E 1 11317 100 16
+*
+M 1 11312 1 11322			A HUGE bear to The Mob Cannon and Note Room
+E 1 11319 100 16
+*
+M 1 11313 5 11322			A Bat with large Fangs to The Mob Cannon and Note Room
+E 1 11320 100 16
+*
+M 1 11313 5 11322			A Bat with large Fangs to The Mob Cannon and Note Room
+E 1 11320 100 16
+*
+M 1 11314 6 11322			A Small Rat to The Mob Cannon and Note Room
+E 1 11321 100 16
+*
+M 1 11314 6 11322			A Small Rat to The Mob Cannon and Note Room
+E 1 11321 100 16
+*
+M 1 11314 5 11322			A Small Rat to The Mob Cannon and Note Room
+E 1 11321 100 16
+*
+M 1 11315 1 11323			A MultiColored Nymph to A Golden Cave
+E 1 11322 100 5
+E 1 11322 100 10
+*
+M 1 11309 1 11335			Princess Remia to The Throne Room
+E 1 11324 100 12
+G 1 11325 100
+*
+M 1 11316 6 11308			A Mountain Goat to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+E 1 11323 100 6
+*
+M 1 11317 4 11308			A Small Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11317 4 11308			A Small Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11317 3 11308			A Small Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11318 3 11308			A Normal Sized Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11318 2 11308			A Normal Sized Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11319 2 11308			A Large Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11319 2 11308			A Large Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11320 1 11308			A Huge Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11321 6 11308			A Goffer to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+E 1 11326 100 5
+*
+M 1 11321 6 11308			A Goffer to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+E 1 11326 100 5
+*
+M 1 11321 6 11308			A Goffer to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+E 1 11326 100 5
+*
+M 1 11321 4 11308			A Goffer to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+E 1 11326 100 5
+*
+M 1 11322 3 11393			An Angel to mob cannon for clouds on mnt. clairsway
+E 1 11327 100 6
+G 1 11328 100
+G 1 11338 100
+G 1 11338 100
+G 1 11338 100
+*
+M 1 11322 2 11393			An Angel to mob cannon for clouds on mnt. clairsway
+G 1 11328 100
+G 1 11328 100
+G 1 11338 100
+*
+M 1 11323 1 11321			The Guardian of the Underworld to A Dead End in the Forest
+G 1 11330 100
+*
+M 1 11325 10 11393			A Yellow Tweety Bird to mob cannon for clouds on mnt. clairsway
+*
+M 1 11325 10 11393			A Yellow Tweety Bird to mob cannon for clouds on mnt. clairsway
+*
+M 1 11325 9 11393			A Yellow Tweety Bird to mob cannon for clouds on mnt. clairsway
+*
+M 1 11325 8 11393			A Yellow Tweety Bird to mob cannon for clouds on mnt. clairsway
+*
+M 1 11325 7 11393			A Yellow Tweety Bird to mob cannon for clouds on mnt. clairsway
+*
+*
+*
+*
+*
+*
+M 1 11327 1 11385			The Master Orc to On the Peak of the Mountain
+E 1 11332 100 8
+*
+*
+M 1 11328 1 11349			A Pale-Faced Demon Spawn to The Welcoming Party to the Devils Mountain
+E 1 11335 100 15
+*
+M 1 11328 3 11349			A Pale-Faced Demon Spawn to The Welcoming Party to the Devils Mountain
+*
+M 1 11328 4 11349			A Pale-Faced Demon Spawn to The Welcoming Party to the Devils Mountain
+*
+M 1 11329 2 11349			A Horned Demon to The Welcoming Party to the Devils Mountain
+E 1 11323 100 6
+*
+M 1 11329 3 11349			A Horned Demon to The Welcoming Party to the Devils Mountain
+E 1 11323 100 6
+*
+M 1 11330 2 11349			A Giant Plague Eater to The Welcoming Party to the Devils Mountain
+*
+M 1 11331 2 11369			A DeathKnight to The Third mob shoot.. for the abyss
+E 1 11336 100 16
+*
+M 1 11331 3 11369			A DeathKnight to The Third mob shoot.. for the abyss
+E 1 11336 100 16
+*
+M 1 11331 4 11369			A DeathKnight to The Third mob shoot.. for the abyss
+E 1 11336 100 16
+*
+M 1 11332 2 11391			Some Dust to mob shoot for the outer chambers of hell
+G 1 11337 100
+*
+M 1 11333 4 11369			A Lost Soul to The Third mob shoot.. for the abyss
+*
+M 1 11333 5 11369			A Lost Soul to The Third mob shoot.. for the abyss
+*
+M 1 11333 7 11369			A Lost Soul to The Third mob shoot.. for the abyss
+*
+M 1 11334 5 11369			A Crying Soul to The Third mob shoot.. for the abyss
+*
+M 1 11334 6 11369			A Crying Soul to The Third mob shoot.. for the abyss
+*
+M 1 11334 7 11369			A Crying Soul to The Third mob shoot.. for the abyss
+*
+M 1 11334 8 11369			A Crying Soul to The Third mob shoot.. for the abyss
+*
+M 1 11335 1 11368			Lord of the Damned to The Throne Room of Helios
+E 1 11339 100 16
+E 1 11340 100 12
+*
+M 1 11336 1 11390			The Archmage Leo to The ArchMage Leo's Study
+E 1 11341 100 12
+*
+M 1 11302 10 11392			A White Pixie to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11302 9 11392			A White Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11302 11 11392			A White Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11303 10 11392			A Yellow Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11303 10 11392			A Yellow Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11304 10 11392			A Blue Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11304 10 11392			A Blue Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11304 10 11392			A Blue Pixie to Mob shoot for Mount. Jamely
+*
+*
+M 1 11305 10 11392			A Orange Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11305 10 11392			A Orange Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11305 10 11392			A Orange Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11305 10 11392			A Orange Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11306 6 11392			A Red Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11306 6 11392			A Red Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11307 6 11392			A Purple Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11307 1 11392			A Purple Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11301 6 11392			A Sprite Guard to Mob shoot for Mount. Jamely
+*
+M 1 11316 9 11308			A Mountain Goat to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11316 9 11308			A Mountain Goat to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11317 9 11308			A Small Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11317 9 11308			A Small Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11317 9 11308			A Small Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11318 8 11308			A Normal Sized Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11318 8 11308			A Normal Sized Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11318 8 11308			A Normal Sized Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11319 7 11308			A Large Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11319 7 11308			A Large Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11320 6 11308			A Huge Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11320 6 11308			A Huge Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11321 9 11308			A Goffer to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11321 9 11308			A Goffer to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11321 7 11308			A Goffer to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11302 10 11392			A White Pixie to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11302 9 11392			A White Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11302 11 11392			A White Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11303 10 11392			A Yellow Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11303 10 11392			A Yellow Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11304 10 11392			A Blue Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11304 10 11392			A Blue Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11304 10 11392			A Blue Pixie to Mob shoot for Mount. Jamely
+*
+*
+M 1 11305 10 11392			A Orange Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11305 10 11392			A Orange Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11305 10 11392			A Orange Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11305 10 11392			A Orange Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11306 6 11392			A Red Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11306 6 11392			A Red Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11307 6 11392			A Purple Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11307 1 11392			A Purple Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11301 6 11392			A Sprite Guard to Mob shoot for Mount. Jamely
+*
+M 1 11316 9 11308			A Mountain Goat to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11316 9 11308			A Mountain Goat to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11317 9 11308			A Small Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11317 9 11308			A Small Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11317 9 11308			A Small Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11318 8 11308			A Normal Sized Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11318 8 11308			A Normal Sized Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11318 8 11308			A Normal Sized Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11319 7 11308			A Large Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11319 7 11308			A Large Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11320 6 11308			A Huge Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11320 6 11308			A Huge Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11321 9 11308			A Goffer to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11321 9 11308			A Goffer to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11321 7 11308			A Goffer to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11302 10 11392			A White Pixie to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11302 9 11392			A White Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11302 11 11392			A White Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11303 10 11392			A Yellow Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11303 10 11392			A Yellow Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11304 10 11392			A Blue Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11304 10 11392			A Blue Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11304 10 11392			A Blue Pixie to Mob shoot for Mount. Jamely
+*
+*
+M 1 11305 10 11392			A Orange Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11305 10 11392			A Orange Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11305 10 11392			A Orange Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11305 10 11392			A Orange Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11306 6 11392			A Red Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11306 6 11392			A Red Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11307 6 11392			A Purple Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11307 1 11392			A Purple Pixie to Mob shoot for Mount. Jamely
+*
+M 1 11301 6 11392			A Sprite Guard to Mob shoot for Mount. Jamely
+*
+M 1 11316 9 11308			A Mountain Goat to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11316 9 11308			A Mountain Goat to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11317 9 11308			A Small Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11317 9 11308			A Small Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11317 9 11308			A Small Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11318 8 11308			A Normal Sized Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11318 8 11308			A Normal Sized Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11318 8 11308			A Normal Sized Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11319 7 11308			A Large Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11319 7 11308			A Large Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11320 6 11308			A Huge Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11320 6 11308			A Huge Rock to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11321 9 11308			A Goffer to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11321 9 11308			A Goffer to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11321 7 11308			A Goffer to Second mob cannon/shoot.. to the mountain path around mnt. clairsway
+*
+M 1 11324 1 11394			A Fire Demon to Room Of Cows
+E 1 11331 100 1
+E 1 11331 100 2
+S
+
+
+#SPECIALS
+M  11301 spec_guard			A Sprite Guard
+M  11302 spec_breath_frost			A White Pixie
+M  11303 spec_cast_cleric			A Yellow Pixie
+M  11304 spec_cast_mage			A Blue Pixie
+M  11305 spec_breath_gas			A Orange Pixie
+M  11306 spec_breath_fire			A Red Pixie
+M  11308 spec_guard			The Guard of Princess Remia
+M  11309 spec_breath_any			Princess Remia
+M  11311 spec_fido			A Huge Dog
+M  11313 spec_poison			A Bat with large Fangs
+M  11314 spec_poison			A Small Rat
+M  11315 spec_breath_any			A MultiColored Nymph
+M  11316 spec_fido			A Mountain Goat
+M  11322 spec_cast_cleric			An Angel
+M  11323 spec_breath_any			The Guardian of the Underworld
+M  11324 spec_breath_fire			A Fire Demon
+M  11325 spec_thief			A Yellow Tweety Bird
+M  11327 hustler			The Master Orc
+M  11328 spec_cast_undead			A Pale-Faced Demon Spawn
+M  11329 spec_breath_acid			A Horned Demon
+M  11330 spec_fido			A Giant Plague Eater
+M  11331 spec_cast_undead			A DeathKnight
+M  11335 spec_breath_any			Lord of the Damned
+M  11336 spec_breath_lightning			The Archmage Leo
+S
+
+
+#$

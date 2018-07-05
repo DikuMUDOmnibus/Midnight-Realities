@@ -1,0 +1,150 @@
+
+#AREA { 5 35} M.Z.F.  Prototype for New Area~
+
+
+#MOBILES
+#16961
+blahhealer~
+Amazon healer~
+A Beautiful Amazon Priestess stands here casting Spells
+~
+Hubba Hubba
+~
+66 8320 0 S
+9999 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#16960
+The Entrance to The Jungle Fort~
+You Approach A Huge Rope Ladder Leading 
+to the top Of Amazon HeadQuarters ...Man
+that is a long way up Ladies :P
+~
+169 0 1
+D4
+
+~
+~
+0 -1 16961
+S
+#16961
+Entrance to The Treehouse~
+As you Approach the Top You Gasp For Breath and scramble on to the top so you
+dont fall off. Well You whip off the leaves and stuff of your trousers And 
+continue on north to the Amazon HQ
+~
+169 0 1
+D0
+
+~
+~
+0 -1 16962
+D5
+
+~
+~
+0 -1 16960
+S
+#16962
+Forest Square~
+There is a Huge Tree In The Middle Of the
+Wooden Above Ground Villiage. Everyone
+seems To Hover By It Trading things And 
+So on ...You Notice very Large Women Patrolling the streets Looking For Any Men Intruders.
+~
+169 0 1
+D0
+
+~
+~
+0 -1 16963
+D1
+
+~
+~
+0 -1 16965
+D2
+
+~
+~
+0 -1 16961
+D3
+
+~
+~
+0 -1 16964
+S
+#16963
+The Great Tree~
+You Are at The Base of The Great tree . The Women All seem Content Sharpening there Spears Our Hanging Up Certain Undergarments ....
+~
+169 1032 1
+D2
+
+~
+~
+0 -1 16962
+S
+#16964
+A Alternate Vortex....~
+You Have entered amazon tp room
+
+
+    -+[**]+----+[**]+-
+    |      OUT       |
+    |       OF       |
+    |     ORDER      |
+    -+[**]+----+[**]+- 
+      Thankyou for your 
+           Time
+~
+169 0 1
+D1
+
+~
+~
+0 -1 16962
+S
+#16965
+Amazon Shower Room~
+You Come Upon The Side Of A Mountain 
+with a small waterfall There Are Plenty
+Of Beautiful Women Standing Around wearing Maybe Nothing But There Makeshift
+Thong And Sparing Some of them nude ...
+taking The cool Water As A Relaxer and 
+edging them even farther on ....
+~
+169 0 1
+D3
+
+~
+~
+0 -1 16962
+S
+#0
+
+
+#RESETS
+M 0 16960 1 16962  * ?????? -> Forest Square
+M 0 16961 1 16963  * Amazon healer -> The Great Tree
+S
+
+
+#SHOPS
+0
+
+
+#SPECIALS
+M 16961 spec_cast_cleric  * Amazon healer
+S
+
+#$
+

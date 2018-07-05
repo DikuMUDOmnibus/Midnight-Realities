@@ -1,0 +1,348 @@
+register
+#AREA	Adreno  Return to Caine~
+
+
+#HELPS
+0 CLANREQS~
+There are no requirements at the moment.
+~
+
+0 AMAZON AMAZONS~
+Purely a female class, the Amazons stand as a powerful group. Under
+the protection of Artemis, Amazons show no fear when charging into
+battle. Men serve little purpose to Amazons other than for reproduction
+and/or as slaves forced to serve their lives under the whim of their
+Amazon master. Amazons can call upon their god in times of battle to
+help aid them in destroying those who wish to challenge the power
+of these women warriors.
+
+* Sisters  - Shows info in other Amazons currently logged on.
+* Genesis  - Amazon armour creation.
+* Amaztalk - Amazon channel.
+* Combo    - Use to train combo skills. (type combo power improve)
+* Drill    - Use to buy special powers. (type drill power improve)
+* Worshipartemis  - Pray to Artemis for aid in battle.
+* Slavecommand    - Command for Female Amazons to order Male Slaves.
+* Slaveinsight    - Travel for Amazon Women.
+* Amazonworship   - Travel for Amazon Slaves.
+
+Also see: COMBO, DRILL, COMBOLIST, AMAZONSLAVE
+~
+
+0 DRILL~
+These are the powers and skills of the Amazons and Amazon slaves.
+
+* Congnizance - Amazon truesight.
+* Trio Drill  - Shield/Scry/Readaura.
+* Camoflage   - Amazon invis.
+* Seduce      - Stuns opponent.
+* Net         - Lowers opponents chance of fleeing from combat.
+* Barkskin    - Amazon toughness and damcap boost.
+* Steelfist   - Toughens hands to parry weapons. 
+
+
+Type drill power improve with needed primal to gain drills.
+~
+
+0 COMBO~
+These are the available combo moves for Amazon. Used in certain
+combinations they can prove to be very strong techniques.
+
+Available combo moves:
+
+Spinkick
+sweepkick
+Axekick
+Knee
+Backfist
+Forearm
+
+It costs 10 primal to buy the first combo move, 20 for the second...etc.
+To gain a combo skill, type combo power improve with the necessary amount
+of primal needed.
+~
+
+0 AMAZONSLAVE~
+Amazon Slaves are what have become a submissive order of men who,
+for one reason or another, have ended up under the strick control
+of the Amazon Women. Amazon Slaves are taught and trained in the
+exact same style of combat as the Amazon Women. They in time also
+begin to worship Artemis and as with the Amazon Women, Artemis
+lends the slaves his blessing to aid them in combat. A Slave is
+trained from the beginning to listen and obey the commands of
+any and all Amazon Women, and do so or strick punishment will
+be delt. An Amazon Slave can easily rival the strength of even the
+best Amazon Woman, but only with obedience and the will to do so.
+
+Amazon Slaves train the exact same powers as the Women, use the
+#1help amazon#n file as reference.
+
+The only unique skill to the Amazon Slave is their travel command
+which is listed below.
+
+* Amazonworship - Travel command for Amazon Slaves.
+
+See also: DRILL, COMBO, AMAZON, COMBOLIST
+~
+
+0 COMBOLIST~
+These are the known combos for Amazons and Amazon Slaves:
+
+* Healing Combo - Sweep, Forearm, Knee
+
+* Dance of Artemis - Knee, Spinkick, Backfist, Spinkick, Axekick,
+		     Forearm
+
+~
+
+0 $~
+
+
+#MOBILES
+#27000
+caine vampire~
+Caine~
+Caine is here, laughing at your misfortune.....
+~
+"Welcome to my abode child". The words issuing from Caine's mouth are soft spoken and slightly slurred by the razor sharp canines protruding from under his top lip. Elegantly dressed, as if recently returned from a social function, Caine's superbly muscled form towers above you. Red eyes gleam softly from a palid visage. Cold sweat runs down your spine as He moves towards you, laughing....
+~
+2|64 2|8|32|128|16384 -1000 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#27000
+teeth~
+a set of vampires teeth~
+Some sharp looking teeth lie here. ~
+~
+5 16|32|512|2048 1|8192
+0 10 25 10 
+3 0 0
+#27001
+black marble fountain~
+a black marble fountain~
+A large black marble fountain spews blood over the floor.~
+~
+25 64 0
+100000 100000 13 0 
+5000 10 0
+#0
+
+
+#ROOMS
+#27000
+The Return to Caine.~
+This is the demesne of Caine, Lord and Master of all Vampire kind. The broken skeletons of previous "visitors" have been discarded carelessly around the floor here, blighted bones splinter under your feet as you make your way through the room. There are two dark arches in the eastern and western walls.
+~
+0 1|8|16384 0
+D1
+~
+~
+0 -1 27002
+D2
+~
+~
+1 -1 27003
+D3
+~
+~
+0 -1 27001
+S
+#27001
+The Wellspring of Evil.~
+Torchlight flickers eerily across the dark stone walls. A crypt-like atmosphere pervades here, the smells of fresh turned earth and corruption are strong in your nostrils. A perverse spring bubbles from the ground here, covering the floor and the base of the walls with an almost black fluid. You realise the fluid is blood, the life essence of a thousand unlucky souls drenching your feet....
+~
+0 1|4|8|16384 0
+D1
+~
+~
+0 -1 27000
+S
+#27002
+Caine's Sanctum Sanctorium.~
+You are standing in Caine's Sanctum Sanctorium. Torchlight flickers eerily across the dark stone walls. A crypt-like atmosphere pervades here, the smells of fresh turned earth and corruption are strong in your nostrils. A huge stone throne stands upon a dais at one end of the room wreathed in shadows. You see two glints of red light that remind you of eyes above the throne.....
+~
+0 1|8|16384 0
+D3
+~
+~
+0 -1 27000
+S
+#27003
+At the bottom of the stairs.~
+Worn stone steps lead up into the fitfull light above. Darkness greets you as you make your way across the room, brushing dusty cobwebs from your face. The sense of evil you felt above ground seems more potent here, as if you are nearing the epicentre. A ancient wooden door stands to the north. Tread carefully, my friend.....
+~
+0 1|4|8|16384 0
+D0
+~
+~
+1 -1 27000
+D4
+~
+~
+0 -1 27004
+S
+#27004
+The stairs below the Crypt.~
+Worn stone steps lead down into darkness....and who knows what else!
+~
+0 1|4|8|16384 0
+D4
+~
+~
+0 -1 27005
+D5
+~
+~
+0 -1 27003
+S
+#27005
+The Crypt.~
+Broken coffins line the walls here, whilst dust and cobwebs cover everything. A deep feeling of dread and unease fills you as you see the worn stone steps leading downwards...
+~
+0 1|4|8|16384 0
+D2
+~
+~
+1 -1 27006
+D5
+~
+~
+0 -1 27004
+S
+#27006
+The Necropolis.~
+Long grass and weeds grow wild about your feet. Strewn about are the shattered remains of hundreds of tomb stones. A vile and unwholesome stench wafts from the somewhere towards the centre of the Necropolis.... A bleak stone edifice stands to the north.
+~
+0 4|16384 2
+D0
+~
+~
+1 -1 27005
+D1
+~
+~
+0 -1 27007
+D3
+~
+~
+0 -1 27013
+S
+#27007
+The Necropolis.~
+Long grass and weeds grow wild about your feet. Strewn about are the shattered remains of hundreds of tomb stones. A vile and unwholesome stench wafts from the somewhere towards the centre of the Necropolis....A bleak stone edifice stands to the north-east.
+~
+0 4|16384 2
+D0
+~
+~
+0 -1 27008
+D3
+~
+~
+0 -1 27006
+S
+#27008
+The Necropolis.~
+Long grass and weeds grow wild about your feet. Strewn about are the shattered remains of hundreds of tomb stones. A vile and unwholesome stench wafts from the somewhere towards the centre of the Necropolis....A bleak stone edifice stands to the west.
+~
+0 4|16384 2
+D0
+~
+~
+0 -1 27009
+D2
+~
+~
+0 -1 27007
+S
+#27009
+The Necropolis.~
+Long grass and weeds grow wild about your feet. Strewn about are the shattered remains of hundreds of tomb stones. A vile and unwholesome stench wafts from the somewhere towards the centre of the Necropolis....A bleak stone edifice stands to the south-west.
+~
+0 4|16384 2
+D2
+~
+~
+0 -1 27008
+D3
+~
+~
+0 -1 27010
+S
+#27010
+The Necropolis.~
+Long grass and weeds grow wild about your feet. Strewn about are the shattered remains of hundreds of tomb stones. A vile and unwholesome stench wafts from the somewhere towards the centre of the Necropolis....A bleak stone edifice stands to the south.
+~
+0 4|16384 2
+D1
+~
+~
+0 -1 27009
+D3
+~
+~
+0 -1 27011
+S
+#27011
+The Necropolis.~
+Long grass and weeds grow wild about your feet. Strewn about are the shattered remains of hundreds of tomb stones. A vile and unwholesome stench wafts from the somewhere towards the centre of the Necropolis....A bleak stone edifice stands to the south-east.
+~
+0 4|16384 2
+D1
+~
+~
+0 -1 27010
+D2
+~
+~
+0 -1 27012
+S
+#27012
+The Necropolis.~
+Long grass and weeds grow wild about your feet. Strewn about are the shattered remains of hundreds of tomb stones. A vile and unwholesome stench wafts from the somewhere towards the centre of the Necropolis....A bleak stone edifice stands to the east.
+~
+0 4|16384 2
+D0
+~
+~
+0 -1 27011
+D2
+~
+~
+0 -1 27013
+S
+#27013
+The Necropolis.~
+Long grass and weeds grow wild about your feet. Strewn about are the shattered remains of hundreds of tomb stones. A vile and unwholesome stench wafts from the somewhere towards the centre of the Necropolis....A bleak stone edifice stands to the north-east.
+~
+0 4|16384 2
+D0
+~
+~
+0 -1 27012
+D1
+~
+~
+0 -1 27006
+S
+#0
+
+
+#RESETS
+D 1 27003 0 1			; At the bottom of the stairs. Close North
+D 1 27000 2 1			; The Return to Caine. Close South
+D 1 27005 2 1			; The Crypt. Close South
+D 1 27006 0 1			; The Necropolis. Close North
+*
+M 1 27000 1 27002			Caine to Caine's Sanctum Sanctorium.
+E 1 27000 100 16
+O 1 27001 100 27001			a black marble fountain to The Wellspring of Evil.
+S
+
+
+#$

@@ -1,0 +1,812 @@
+register
+
+#AREA Bry City~
+
+
+#MOBILES
+#23400
+Quickie Mart Owner~
+a Quickie mart Owner~
+The Quickie Mart owner stands here saying to the leaving customers "thankyou"
+~
+PLEASE DO NOT STEAL SLUSHIES FROM THE SLUSHIE MACHINES!!!!
+
+
+
+      _   _   _   _   _   _   _   _     _   _   _   _  
+     / \ / \ / \ / \ / \ / \ / \ / \   / \ / \ / \ / \ 
+    ( T | h | a | n | k | y | o | u ) ( c | o | m | e )
+     \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/   \_/ \_/ \_/ \_/ 
+                    _   _   _   _   _    
+                   / \ / \ / \ / \ / \   
+                  ( a | g | a | i | n )  
+                   \_/ \_/ \_/ \_/ \_/
+~
+66 0 0 S
+900 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#23468
+Rsmut~
+Kilan the Siberian Husky~
+A Siberian Husky Named Kilan Stands Here Protecting His Masters
+~
+GROWL
+~
+64 128 0 S
+9999 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#23400
+Quickie mart vest~
+A Quickie mart Vest~
+A Red Humming Quickie mart vest~
+~
+9 4547 9
+50 0 0 0
+5 1000 0
+A
+13 400
+A
+17 -50
+A
+18 90
+A
+19 90
+A
+1 10
+#23468
+sctv~
+a Big Screen Tv~
+A Loud Big Screen Tv Sits Here Waiting for someone to watch it~
+~
+12 0 0
+0 1 6 11
+500 1000 0
+#23469
+stucch~
+a Big Velvet Couch~
+A Huge Black Velvet Couch lays here Looking Ever so comfy~
+~
+12 0 0
+0 1 6 11
+5 1000 0
+#0
+
+
+#ROOMS
+#23400
+Front yard~
+the Grass is Green, the Sidewalk is white ....its an ordinary
+front yard really.
+~
+234 0 1
+D0
+
+~
+~
+0 0 23401
+D2
+
+~
+~
+0 0 23410
+S
+#23401
+Front porch~
+You step onto the front porch of a currently vacant home, it seems
+to have just been built because you can still smell the new paint
+and see the sparkling refitted windows that stare into a brand new
+home.There is a sign Stuck to the right of the steps.
+~
+234 0 1
+D0
+
+~
+~
+0 0 23402
+D2
+
+~
+~
+0 0 23400
+E
+sign~
+OPEN HOUSE!
+Feel Free to come in and explore this nice new home 
+current Price .....15000 qps 
+Features:1 bedroom, 1 bathroom, 1 kitchen, a small backyard, a living
+room, and a miniture dining room.{More rooms may be built upon request see
+Help homeprice}
+~
+S
+#23402
+Foyer~
+This is the foyer Of The Brand New home, To the east Lies the kitchen,
+The west is a hall way leading to the bedroom and bathroom, and north
+you see a nice living room.
+~
+234 0 0
+D0
+
+~
+~
+0 0 23406
+D1
+
+~
+~
+0 0 23403
+D2
+
+~
+~
+0 0 23401
+D3
+
+~
+~
+0 0 23404
+E
+owner~
+==============================================================================
+           **      **                             
+          /**     /**                             
+          /**     /**  ******  **********   ***** 
+          /********** **////**//**//**//** **///**
+          /**//////**/**   /** /** /** /**/*******
+          /**     /**/**   /** /** /** /**/**//// 
+          /**     /**//******  *** /** /**//******
+          //      //  //////  ///  //  //  ////// 
+          ********                              **  
+         **//////                              /**  
+        /**        ***     **  *****   *****  ******
+        /*********//**  * /** **///** **///**///**/ 
+        ////////** /** ***/**/*******/*******  /**  
+               /** /****/****/**//// /**////   /**  
+         ********  ***/ ///**//******//******  //** 
+        ////////  ///    ///  //////  //////    //  
+          **      **                               
+         /**     /**                               
+         /**     /**  ******  **********   *****   
+         /********** **////**//**//**//** **///**  
+         /**//////**/**   /** /** /** /**/*******  
+         /**     /**/**   /** /** /** /**/**////   
+         /**     /**//******  *** /** /**//******  
+         //      //  //////  ///  //  //  //////   
+             
+            
+       
+==============================================================================
+Brought to you by Figlet:http://saigon.mit.edu/dinhyen/figlet/figlet.html
+~
+S
+#23403
+Kitchen~
+You come into the newly tiled Kitchen, everywhere it seems to sparkle 
+from the dishwasher to the refrigerator it all looks so cool!!!!.
+~
+234 0 1
+D3
+
+~
+~
+0 0 23402
+S
+#23404
+Hallway~
+As you step on the newly Laid carpet you Feel the squishy newness even
+through your shoes *ohh baby*, You notice north and west a little 
+is a bedroom and all north is a Bathroom.
+~
+234 0 0
+D0
+
+~
+~
+0 0 23408
+D1
+
+~
+~
+0 0 23402
+D3
+
+~
+~
+0 0 23405
+S
+#23405
+Bedroom~
+You Enter The Deluxe Master Bedroom...Ohh Shagadelic!!, As you wander
+Around this huge room you notice the humungus King size bed and all 
+the Closet space a Woman could want! .
+~
+234 0 0
+D1
+
+~
+~
+0 0 23404
+S
+#23406
+Living Room~
+You Enter the main living room And Stumble upon a tiny step leading
+past the door...woo Theres a big screen tv, a comfy couch, and everything
+else anyperson desires, even a small fridge Wow!.
+~
+234 0 0
+D0
+
+~
+~
+0 0 23407
+D2
+
+~
+~
+0 0 23402
+S
+#23407
+BackYard~
+Come on its a backyard im surprised you guys are still reading these damn
+descriptions but there perhaps maybe some usefulness on that note stamped
+onto the Side brim of the door.
+~
+234 0 1
+D2
+
+~
+~
+0 0 23406
+S
+#23408
+Bathroom~
+its .....its....ITS A BATHROOM!!!!!
+~
+234 0 1
+D2
+
+~
+~
+0 0 23404
+S
+#23409
+Bryantos way~
+A Street.....
+~
+234 0 1
+S
+#23410
+Bryantos Way~
+Another street.....This Time ...with Construction sites to new homes surronding
+it !!!...Gee Wilikers I bet those houses are gonna be pretty.
+~
+234 0 1
+D0
+
+~
+~
+0 0 23400
+D1
+
+~
+~
+0 0 23492
+S
+#23411
+Quickie Mart~
+Woo you have entered the quickie mart..... The owner seems to be holstering..
+a 12 guage shotgun??!?!!?!?! eesh...dont mess with him...
+~
+234 8712 0
+D2
+
+~
+~
+0 0 23491
+S
+#23468
+Threshold~
+As you wander The Apartment Halls you Reach The Entrance to Ragor And Seria's
+Apartment to the north....Better knock
+first.
+~
+234 1544 0
+D0
+
+~
+~
+0 -1 23469
+D2
+
+~
+~
+0 -1 23475
+S
+#23469
+Hallway~
+As you step through the door, you enter
+the Properly Attended Home. The Kitchen
+Has a good smell coming from the west,
+The Living room up north seems to have
+a t.v. Blaring And the east seems to lead
+to some more rooms
+~
+234 1032 0
+D0
+
+~
+~
+0 -1 23471
+D1
+
+~
+~
+0 -1 23473
+D2
+
+~
+~
+0 -1 23468
+D3
+
+~
+~
+0 -1 23470
+S
+#23470
+Kitchen~
+You See The Small Kitchen With Bubbling
+Pots and a Roast cooking in the oven....
+MMmmmMMmmmM Smells good.
+~
+234 1032 0
+D1
+
+~
+~
+0 -1 23469
+S
+#23471
+Living Room~
+As You Enter The big Living Room you
+notice a big screen tv Sitting on a little Stand Followed by a huge couch
+across from it. There seems to be a 
+Balcony up north.
+~
+234 1032 0
+D0
+
+~
+~
+0 -1 23472
+D2
+
+~
+~
+0 -1 23469
+S
+#23472
+Balcony~
+You Enter the Small Balcony Looking Out
+into the night sky....Sure is beautiful.
+Well Hmm that Matchbox has something engraved on it....
+~
+234 1032 0
+D2
+
+~
+~
+0 -1 23471
+E
+matchbox~
+This is a teleporter room stupid just say
+where you want to go and note me 
+whatever place is missing
+~
+S
+#23473
+Hallway~
+You Walk Along There little Hallway 
+Only To End up to the Entrance to The 
+Bathroom And you Needing To Go real bad
+Decide to knock and enter to relieve ya
+needs.
+~
+234 1032 0
+D1
+
+~
+~
+0 -1 23474
+D3
+
+~
+~
+0 -1 23469
+S
+#23474
+Bathroom~
+This Is A Bathroom...
+~
+234 1032 0
+D3
+
+~
+~
+0 -1 23473
+S
+#23475
+The Porch Of a Home~
+You step Onto The Porch Of someones 
+House, As you squint To read the Address
+it Reads 13575 Kyla Ave. Next to it also
+Reveals the Names of the Owners:Ragor and
+Seria....Perhaps you should knock?
+~
+234 1024 1
+D0
+
+~
+~
+0 -1 23468
+D2
+
+~
+~
+0 -1 23476
+S
+#23476
+A Front yard~
+As you walk on the Sidewalk that leads to 
+this Persons House You notice there Lawn
+Is Especially Healthy ...Flowers and gras
+Seem to have no problem growing here...
+~
+234 0 1
+D0
+
+~
+~
+0 -1 23475
+D1
+
+~
+~
+0 0 23477
+S
+#23477
+Kyla Ave.~
+You Are In the Middle of Some Strange St.
+In The Urban Part of town. There are home
+to the north, and south. Now to the east
+and west Continues the Ever Venturing
+Road To Meet The Intersection.
+~
+234 0 1
+D2
+
+~
+~
+0 -1 23490
+D3
+
+~
+~
+0 -1 23476
+S
+#23478
+A Front Yard~
+You Come Upon An Especially Well Kept 
+Front Yard ...Man it must take time to
+Make A yard look This clean....wow..
+The Sidewalk Leads north to the home 
+and back south to the street
+~
+234 0 1
+D2
+
+~
+~
+0 -1 23479
+D3
+
+~
+~
+0 0 23489
+S
+#23479
+A Porch~
+you Are Standing On A Makeshift Wooden
+Porch That resembles Somewhat of A Venin
+Age type .... The Address Reads 13579 
+Kyla Ave. And the Home Owners Seem to be
+From the sign: Calendros And Illhundyl
+Perhaps you should knock.....
+~
+234 0 0
+D0
+
+~
+~
+0 -1 23478
+D2
+
+~
+~
+0 -1 23480
+S
+#23480
+The Foyer~
+You Are in the Foyer Of Some Persons 
+Home. They Seem To Have Good Taste In 
+Furniture Because The Homes are richly 
+Colored and The Shag Carpet is marvelous.
+~
+234 0 0
+D0
+
+~
+~
+0 -1 23479
+D2
+
+~
+~
+0 -1 23481
+S
+#23481
+A Hall~
+You Are in the Hall Of The Owners home 
+now. There Seems to be a Kitchen to the
+west Smelling Of Fresh Baked Cookies and
+to The North Seems to be the living Room
+and Continuing East seems to be a hallway.
+~
+234 0 0
+D0
+
+~
+~
+0 -1 23480
+D1
+
+~
+~
+0 -1 23485
+D2
+
+~
+~
+0 -1 23483
+D3
+
+~
+~
+0 -1 23482
+S
+#23482
+Kitchen~
+You Are in The Kitchen of There Home. 
+There Seems to be Cookies baking in the
+Oven And A Frig Stocked full of food ...
+Time to SPLUNK!!!.
+~
+234 0 0
+D1
+
+~
+~
+0 -1 23481
+S
+#23483
+A Living Room~
+As You Walk through The Thick Shag carpet
+you come across the living room. Theres
+a Huge Tv In the backwall and 2 couches
+Seem to be situated Along the corners of
+the South eastern wall ...Man they look
+comfy.
+~
+234 0 0
+D0
+
+~
+~
+0 -1 23481
+D2
+
+~
+~
+0 -1 23484
+S
+#23484
+A Backyard~
+You Stand in The As Well very Healthy
+lawn of the Backyard. there Is a Hamock
+Springed between two trees and a Barbecue
+Sits on the porch with some wierd words
+on it .....hmmmm
+~
+234 0 0
+D0
+
+~
+~
+0 -1 23483
+S
+#23485
+A Hall~
+A Hall With Paintings And thick Shag 
+carpet
+~
+234 0 0
+D1
+
+~
+~
+0 -1 23486
+D3
+
+~
+~
+0 -1 23481
+S
+#23486
+A hall~
+The Hall seems to split north To The
+Master Bedroom and South to the Bathroom.
+~
+234 0 0
+D0
+
+~
+~
+0 -1 23487
+D2
+
+~
+~
+0 -1 23488
+D3
+
+~
+~
+0 -1 23485
+S
+#23487
+Master Bedroom~
+You Are Standing In the Master Bedroom
+of there Home. Where in fact the Real 
+Shagging Begins *wink wink* There Huge
+King Size Bed Really Looks like the 
+perfect spot...
+~
+234 1024 0
+D2
+
+~
+~
+0 -1 23486
+S
+#23488
+Bathroom~
+Theres Makeup Littered all around the sink And A bunch of other various stuff
+Scattered around as well...
+~
+234 1024 0
+D0
+
+~
+~
+0 -1 23486
+S
+#23489
+Kyla Avenue~
+Just Another Space of Concrete Street. 
+You notice to the north however A 4 way
+Intersection, and to the south Is A few
+Homes.
+~
+234 1024 0
+D0
+
+~
+~
+0 0 23490
+D1
+
+~
+~
+0 -1 23478
+S
+#23490
+Intersection~
+To The West and east Continues Kyla ave.
+While North and South Begin Bryantos Ln.
+~
+234 1024 0
+D0
+
+~
+~
+0 -1 23477
+D1
+
+~
+~
+0 0 23491
+D2
+
+~
+~
+0 0 23489
+D3
+
+~
+~
+0 0 23492
+S
+#23491
+Bryantos Way~
+A Black Tarred Concrete Street
+~
+234 1024 0
+D0
+
+~
+~
+0 -1 23411
+D1
+
+~
+~
+0 0 23409
+D3
+
+~
+~
+0 0 23490
+S
+#23492
+Bryantos Way~
+To the west and east seem to be Newly 
+Built Homes...Perhaps you should welcome
+them
+~
+234 1024 0
+D1
+
+~
+~
+0 0 23490
+D3
+
+~
+~
+0 0 23410
+S
+#0
+
+
+#RESETS
+M 0 23400 1 23411  * a Quickie mart Owner -> Quickie Mart
+G 0 23400 1  * A Quickie mart Vest
+S
+
+
+#SHOPS
+23400  5 9 10 0 0  100 100  1 12  * a Quickie mart Owner
+0
+
+
+#SPECIALS
+S
+
+#$
+

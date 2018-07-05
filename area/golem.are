@@ -1,0 +1,231 @@
+register
+#AREA	Golem Equipment~
+
+
+#OBJECTS
+#11400
+rock hard ring~
+#*Rock#*Hard #*Ring#n~
+#*A piece of stone has been carved and places here.#n~
+~
+9 1 1|2
+0 0 0 16
+5 0 0
+A
+19 25
+A
+18 25
+A
+17 -55
+A
+3 4
+A
+4 5
+#11401
+rock hard collar~
+#*Rock#*Hard #*Collar#n~
+#*A piece of stone has been carved and places here.#n~
+~
+9 1 1|4
+0 0 0 7
+5 0 0
+A
+19 25
+A
+18 25
+A
+17 -55
+A
+2 5
+#11402
+rock hard breastplate plate~
+#*Rock#*Hard #*BreastPlate#n~
+#*A piece of stone has been carved and places here.#n~
+~
+9 1 1|8
+0 0 0 57 
+5 0 0
+A
+19 25
+A
+18 25
+A
+17 -55
+#11403
+rock hard helmet~
+#*Rock#*Hard #*Helmet#n~
+#*A piece of stone has been carved and places here.#n~
+~
+9 1 1|16
+0 0 0 6 
+5 0 0
+A
+19 25
+A
+18 25
+A
+17 -55
+A
+5 9
+#11404
+rock hard leggings~
+#*Rock#*Hard #*Leggings#n~
+#*A piece of stone has been carved and places here.#n~
+~
+9 1 1|32
+0 0 0 17
+5 0 0
+A
+19 25
+A
+18 25
+A
+17 -55
+#11405
+rock hard boots~
+#*Rock#*Hard #*Boots#n~
+#*A piece of stone has been carved and places here.#n~
+~
+9 1 1|64
+0 0 0 9
+5 0 0
+A
+19 25
+A
+18 25
+A
+17 -55
+#11406
+rock hard gauntlets~
+#*Rock#*Hard #*Gauntlets#n~
+#*A piece of stone has been carved and places here.#n~
+~
+9 1 1|128
+0 0 0 24 
+5 0 0
+A
+19 25
+A
+18 25
+A
+17 -55
+#11407
+rock hard Sleeves~
+#*Rock#*Hard #*Sleeves#n~
+#*A piece of stone has been carved and places here.#n~
+~
+9 1 1|256
+0 0 0 45
+5 0 0
+A
+19 25
+A
+18 25
+A
+17 -55
+#11408
+rock hard Cape~
+#*Rock#*Hard #*Cape#n~
+#*A piece of stone has been carved and places here.#n~
+~
+9 1 1|1024
+0 0 0 46 
+5 0 0
+A
+19 25
+A
+18 25
+A
+17 -55
+A
+24 -65
+#11409
+rock hard belt~
+#*Rock#*Hard #*Belt#n~
+#*A piece of stone has been carved and places here.#n~
+~
+9 1 1|2048
+0 0 0 0 
+5 0 0
+A
+19 25
+A
+18 25
+A
+17 -55
+A
+23 -65
+#11410
+rock hard bracer~
+#*Rock#*Hard #*Bracer#n~
+#*A piece of stone has been carved and places here.#n~
+~
+9 1 1|4096
+0 0 0 0 
+5 0 0
+A
+19 25
+A
+18 25
+A
+17 -55
+#11411
+rock hard visor~
+#*Rock#*Hard #*Visor#n~
+#*A piece of stone has been carved and places here.#n~
+~
+9 1 1|32768
+0 0 0 0 
+5 0 0
+A
+19 25
+A
+18 25
+A
+17 -55
+#11412
+sword might~
+#2Emerald Sword of Might#n~
+A Large Green Sword is sticking into the ground!~
+~
+5 1 1|8192
+18069 35 65 1 
+5 0 0
+A
+19 75
+A
+18 75
+A
+1 9
+#11413
+Obsidian Sword Power~
+#0Obsidian Sword of Power#n~
+A Large Grey Sword is sticking into a piece of pork - you.~
+~
+5 1 1|8192
+38 40 60 3 
+5 0 0
+A
+19 75
+A
+18 75
+A
+13 200
+#11414
+rock hard visor PKIMMUNE~
+#*Rock#*Hard #*Visor#n~
+#*A piece of stone has been carved and places here.#n~
+~
+9 1 1|32768
+0 0 0 19
+5 0 0
+A
+19 25
+A
+18 25
+A
+17 -55
+#0
+
+
+#$

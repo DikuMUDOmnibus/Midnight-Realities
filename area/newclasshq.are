@@ -1,0 +1,757 @@
+register
+
+#AREA	{N/A} New Class HQ Neka~
+
+
+#MOBILES
+#500
+healer~
+the healer~
+The healer stands in the center of the room quietly casting healing spells.
+~
+A plain linen robe flows about the slender form of the ancient healer who stands here.  Her hair is white, her face lined the passage of time.  The arcane words of healing she utters heal even the most seriously ill and injured.
+~
+2|64 128 0 S
+999 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#0
+
+
+#ROOMS
+#500
+Ninja Headquarters~
+
+~
+0 0 0
+D0
+~
+~
+0 -1 504
+D1
+~
+~
+0 -1 501
+D2
+~
+~
+0 -1 503
+D3
+~
+~
+0 -1 502
+D4
+~
+~
+0 -1 3001
+S
+#501
+Healing Temple~
+
+~
+0 0 0
+D3
+~
+~
+0 -1 500
+S
+#502
+Training Hall~
+
+~
+0 0 0
+D1
+~
+~
+0 -1 500
+S
+#503
+War Room~
+
+~
+0 0 0
+D0
+~
+~
+0 -1 500
+S
+#504
+Practice Hall~
+
+~
+0 0 0
+D2
+~
+~
+0 -1 500
+S
+#505
+Drow Headquarters~
+
+~
+0 0 0
+D0
+~
+~
+0 -1 508
+D1
+~
+~
+0 -1 506
+D2
+~
+~
+0 -1 509
+D3
+~
+~
+0 -1 507
+D4
+~
+~
+0 -1 3001
+S
+#506
+Healing Chamber~
+
+~
+0 0 0
+D3
+~
+~
+0 -1 505
+S
+#507
+Training Hall~
+
+~
+0 0 0
+D1
+~
+~
+0 -1 505
+S
+#508
+Practice Hall~
+
+~
+0 0 0
+D2
+~
+~
+0 -1 505
+S
+#509
+War Room~
+
+~
+0 0 0
+D0
+~
+~
+0 -1 505
+S
+#510
+Amazon Headquarters~
+
+~
+0 0 0
+D0
+~
+~
+0 -1 514
+D1
+~
+~
+0 -1 511
+D2
+~
+~
+0 -1 513
+D3
+~
+~
+0 -1 512
+D4
+~
+~
+0 -1 3001
+S
+#511
+Healing Chamber~
+
+~
+0 0 0
+D3
+~
+~
+0 -1 510
+S
+#512
+War Room~
+
+~
+0 0 0
+D1
+~
+~
+0 -1 510
+S
+#513
+Training Room~
+
+~
+0 0 0
+D0
+~
+~
+0 -1 510
+S
+#514
+Practice Room~
+
+~
+0 0 0
+D2
+~
+~
+0 -1 510
+S
+#515
+Golem Headquarters~
+
+~
+0 0 0
+D0
+~
+~
+0 -1 516
+D1
+~
+~
+0 -1 518
+D2
+~
+~
+0 -1 517
+D3
+~
+~
+0 -1 519
+D4
+~
+~
+0 -1 3001
+S
+#516
+Healing Chamber~
+
+~
+0 0 0
+D2
+~
+~
+0 -1 515
+S
+#517
+War Room~
+
+~
+0 0 0
+D0
+~
+~
+0 -1 515
+S
+#518
+Training Room~
+
+~
+0 0 0
+D3
+~
+~
+0 -1 515
+S
+#519
+Practice Room~
+
+~
+0 0 0
+D1
+~
+~
+0 -1 515
+S
+#520
+Amazon Slave Headquarters~
+
+~
+0 0 0
+D0
+~
+~
+0 -1 535
+D1
+~
+~
+0 -1 527
+D2
+~
+~
+0 -1 536
+D3
+~
+~
+0 -1 534
+D4
+~
+~
+0 -1 3001
+S
+#521
+Monk Headquarters~
+
+~
+0 0 0
+D0
+~
+~
+0 -1 538
+D1
+~
+~
+0 -1 528
+D2
+~
+~
+0 -1 539
+D3
+~
+~
+0 -1 537
+D4
+~
+~
+0 -1 3001
+S
+#522
+Shapeshifter Headquarters~
+
+~
+0 0 0
+D0
+~
+~
+0 -1 541
+D1
+~
+~
+0 -1 529
+D2
+~
+~
+0 -1 542
+D3
+~
+~
+0 -1 540
+D4
+~
+~
+0 -1 3001
+S
+#523
+Unicorn Headquarters~
+
+~
+0 0 0
+D0
+~
+~
+0 -1 543
+D1
+~
+~
+0 -1 530
+D2
+~
+~
+0 -1 545
+D3
+~
+~
+0 -1 544
+D4
+~
+~
+0 -1 3001
+S
+#524
+Mech Pilot HQ~
+
+~
+0 0 0
+D0
+~
+~
+0 -1 546
+D1
+~
+~
+0 -1 531
+D2
+~
+~
+0 -1 547
+D3
+~
+~
+0 -1 548
+D4
+~
+~
+0 -1 3001
+S
+#525
+Druid Headquarters~
+
+~
+0 0 0
+D0
+~
+~
+0 -1 550
+D1
+~
+~
+0 -1 532
+D2
+~
+~
+0 -1 551
+D3
+~
+~
+0 -1 549
+D4
+~
+~
+0 -1 3001
+S
+#526
+Jedi HQ~
+
+~
+0 0 0
+D0
+~
+~
+0 -1 552
+D1
+~
+~
+0 -1 533
+D3
+~
+~
+0 -1 553
+D4
+~
+~
+0 -1 3001
+S
+#527
+Healing Chamber~
+
+~
+0 0 0
+D3
+~
+~
+0 -1 520
+S
+#528
+Healing Chamber~
+
+~
+0 0 0
+D3
+~
+~
+0 -1 521
+S
+#529
+Healing Chamber~
+
+~
+0 0 0
+D3
+~
+~
+0 -1 522
+S
+#530
+Healing Chamber~
+
+~
+0 0 0
+D3
+~
+~
+0 -1 523
+S
+#531
+Healing Chamber~
+
+~
+0 0 0
+D3
+~
+~
+0 -1 524
+S
+#532
+Healing Chamber~
+
+~
+0 0 0
+D3
+~
+~
+0 -1 525
+S
+#533
+Healing chamber~
+
+~
+0 0 0
+D3
+~
+~
+0 -1 526
+S
+#534
+Training Room~
+
+~
+0 0 0
+D1
+~
+~
+0 -1 520
+S
+#535
+Practice Room~
+
+~
+0 0 0
+D2
+~
+~
+0 -1 520
+S
+#536
+Meeting Room~
+
+~
+0 0 0
+D0
+~
+~
+0 -1 520
+S
+#537
+Meeting Room~
+
+~
+0 0 0
+D1
+~
+~
+0 -1 521
+S
+#538
+Training Room~
+
+~
+0 0 0
+D2
+~
+~
+0 -1 521
+S
+#539
+Practice Room~
+
+~
+0 0 0
+D0
+~
+~
+0 -1 521
+S
+#540
+Meeting Room~
+
+~
+0 0 0
+D1
+~
+~
+0 -1 522
+S
+#541
+Training Room~
+
+~
+0 0 0
+D2
+~
+~
+0 -1 522
+S
+#542
+Practice Room~
+
+~
+0 0 0
+D0
+~
+~
+0 -1 522
+S
+#543
+Meeting Room~
+
+~
+0 0 0
+D2
+~
+~
+0 -1 523
+S
+#544
+Training Room~
+
+~
+0 0 0
+D1
+~
+~
+0 -1 523
+S
+#545
+Practice Room~
+
+~
+0 0 0
+D0
+~
+~
+0 -1 523
+S
+#546
+Practice Room~
+
+~
+0 0 0
+D2
+~
+~
+0 -1 524
+S
+#547
+Practice Room~
+
+~
+0 0 0
+D0
+~
+~
+0 -1 524
+S
+#548
+Meeting Room~
+
+~
+0 0 0
+D1
+~
+~
+0 -1 524
+S
+#549
+Meeting Room~
+
+~
+0 0 0
+D1
+~
+~
+0 -1 525
+S
+#550
+Training Room~
+
+~
+0 0 0
+D2
+~
+~
+0 -1 525
+S
+#551
+Training Room~
+
+~
+0 0 0
+D0
+~
+~
+0 -1 525
+S
+#552
+Meeting Hall~
+
+~
+0 0 1
+D2
+~
+~
+0 -1 526
+S
+#553
+Training and Practice Hall~
+
+~
+0 0 1
+D1
+~
+~
+0 -1 526
+S
+#0
+
+
+#RESETS
+M 1 500 1 501 * the healer -> Healing Temple
+M 1 500 1 506 * the healer -> Healing Chamber
+M 1 500 1 511 * the healer -> Healing Chamber
+M 1 500 1 516 * the healer -> Healing Chamber
+M 1 500 1 527 * the healer -> Medicinal Grasslands
+M 1 500 1 528 * the healer -> Healing Chamber
+M 1 500 1 529 * the healer -> Healing Chamber
+M 1 500 1 530 * the healer -> Healing Chamber
+M 1 500 1 531 * the healer -> Healing Chamber
+M 1 500 1 532 * the healer -> Healing Chamber
+M 1 500 1 533 * the healer -> The medicinal pasture
+S
+
+
+#SPECIALS
+M  500 spec_cast_adept  * the healer
+S
+
+
+#$

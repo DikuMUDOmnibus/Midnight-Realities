@@ -1,0 +1,121 @@
+register
+
+#AREA Morpheus' Interrogation Area~
+
+
+#MOBILES
+#32600
+adept fel priest~
+An adept of Felicity~
+An Adept of Felicity is here protecting her sancutary.
+~
+A tall, thin woman wearing a long white cloak stands before you. She
+raises her eyebrow at you and says in a stern tone, "If you have business
+with Felicity wait here and she will be with us soon. If you do not have
+business with her than I would suggest you remove yourself before someone
+else does..".
+~
+2 533160 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#32600
+Morpheus' Main Office~
+Scattered throughout the room you see nothing but books about code, printouts
+of code .. assorted machines and laptops, all waiting to compile code .. and
+yet you're here bitching about bugs ... probably be safest for you if you just
+left
+~
+326 9224 0
+D5
+
+~
+~
+1 0 32601
+S
+#32601
+Questioning Chamber~
+If you are here .. the best thing to know is that honesty is the only thing
+that'll keep you from being denied.  Better answer any questions asked of you,
+quickly, and truthfully .. there usually are no warnings left when you are
+escorted into this room.
+~
+326 8200 0
+S
+#32602
+Felicity's Chambers~
+Upon entering this room you feel a sudden calm overcome your body.
+The floors of this room are made of finely polished marble, engraved
+with strange runes and symbols. Massive pillars of solid stone reach
+nearly 50 feet in height, holding a ceiling covered in beautiful works
+of art high above the ground. There is a large round table made of
+thick oak in the center of the room. If you have arrived here on accident,
+it would be best to leave with haste, as if there is business being conducted
+here, interuption would be a very bad thing.
+~
+326 9224 0
+D4
+
+~
+~
+1 0 32601
+S
+#32603
+The Chamber of Jace~
+The constant zap of electricity pulses through the air as if these chambers
+were alive. Standing in the center of the room is a massive oaken table
+covered with pages upon pages of small notes and snippets of code. Along the
+wall to the rear of the room stands a computer unlike any built before. The
+walls in the chamber are solid black marble standing nearly thirty feet in
+height. The floor is completely transparent giving a spectacular view of the
+entire realm below. If you are here to speak with Jace, you may remain. If you
+have found yourself here by any other means, it would be wise to leave now.
+~
+326 8200 0
+D1
+
+~
+~
+1 0 32601
+S
+#32604
+Kerriwyd's Place~
+You find yourself standing in a room that seems
+to extend farther than is possible.  Mebbe its
+the immense forest behind the cluttered desk
+before you that clues you in.
+~
+326 8200 0
+D3
+
+~
+~
+1 0 32601
+S
+#0
+
+
+#RESETS
+D 0 32604 3 1  * Kerriwyd's Place
+M 0 32600 1 32602  * An adept of Felicity -> Felicity's Chambers
+S
+
+
+#SHOPS
+0
+
+
+#SPECIALS
+M 32600 spec_janitor  * An adept of Felicity
+S
+
+#$
+

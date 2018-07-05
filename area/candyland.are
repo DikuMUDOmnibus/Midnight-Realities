@@ -1,0 +1,1830 @@
+register
+
+#AREA { ALL} M.Z.F.  CandyLand by Neka (a 2 part area)~
+
+
+#MOBILES
+#200
+factory worker~
+a factory worker~
+A factory worker looks for more candy to process.
+~
+Clad in white from head to toe, the factory worker busily looks for something else to process.  He needs to ship out a few more boxes today so he meets the quota.  If only those darned candies would stop running...
+~
+64 8320 3000 S
+800 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#201
+lemon drop~
+a lemon drop~
+A sour little lemon drop dances wildly about before you.
+~
+The lemon drop doesn't have a care in the world.  The veneer of sugar that coats his lemony body is the only sweet thing about him.
+~
+64 8320 3000 S
+820 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#202
+candy cane~
+a candy cane~
+A red and white striped candy cane smiles innocently at you.
+~
+The candy cane blinks innocently and smiles back at you.
+~
+64 8320 3000 S
+840 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#203
+gumball~
+a gumball~
+The gumball rolls mindlessly about.
+~
+Go ahead, make my day, punk!
+~
+64 8320 3000 S
+860 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#204
+peppermint patty~
+a peppermint patty~
+A peppermint patty clad in a silver wrapper giggles for no apparent reason.
+~
+Chocolate, minty filling, and a pretty wrapper? What else could a guy (or gal) want?
+~
+64 8320 3000 S
+880 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#205
+wacky taffy~
+a wacky taffy~
+A wacky taffy wiggles and waggles its way around the room.
+~
+Watch me wiggle, watch me jiggle!
+~
+64 8320 3000 S
+920 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#206
+cotton candy~
+cotton candy~
+A rainbow colored bit of cotton candy waits to be tasted.
+~
+Yummy! All sugary, fluffy and delicious...your mouth begins to water just looking at me doesn't it?
+~
+64 532608 3000 S
+940 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#207
+ginger snap~
+a ginger snap~
+Fresh from the oven, a gingersnap fills the air with a tempting aroma.
+~
+What a delicious looking treat! The gingersnap is fresh from the oven.  The air is full of a delicious aroma that makes you salivate.
+~
+64 8320 3000 S
+960 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#208
+chocolate drop~
+a chocolate drop~
+Oh yes! A chocolate drop waits for someone to taste.
+~
+
+~
+64 8320 3000 S
+980 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#209
+gummy bear~
+a gummy bear~
+A brightly colored bear made of jelly wiggles its behind in your direction.
+~
+A melodious voice carries this catchy little tune: 
+I am a gummy bear, yes I am.
+Try to eat me if you can...
+~
+68 532648 3000 S
+1000 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#210
+gingerbread man~
+a gingerbread man~
+A gingerbread cools on a baker's rack.
+~
+
+~
+68 532648 3000 S
+1500 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#211
+candyman candy man~
+the candy man~
+A strange little man with a top hat and a cane dances about the office.
+~
+The candy man is in charge of this entire factory of sweet treats.  He is high on a sugar rush that will never end.  He clutches a bag of candy in one hand, and a toothbrush in the other.  Dental hygeine is important, is it not?
+~
+102 630952 3000 S
+4000 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#212
+Jandalar~
+Jandalar~
+A mighty warrior crouches in a fighting stance.
+~
+
+~
+66 8360 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#213
+Kogishi~
+Kogishi~
+A mighty warrior crouches in a fighting stance.
+~
+
+~
+66 8360 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#214
+Ciana~
+Ciana~
+A mighty warrior crouches in a fighting stance
+~
+
+~
+66 8360 0 S
+300 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#215
+Alisade~
+Alisade~
+A mighty warrior crouches in a fighting stance.
+~
+
+~
+66 532648 0 S
+400 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#216
+Loyaz~
+Loyaz~
+A mighty warrior crouches in a fighting stance.
+~
+
+~
+66 532648 0 S
+500 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#217
+Zandra~
+Zandra~
+A mighty warrior crouches in a fighting stance.
+~
+A mighty warrior crouches in a fighting stance.
+~
+66 532648 0 S
+600 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#218
+Jasmin~
+Jasmin~
+A mighty warrior crouches in a fighting stance.
+~
+A mighty warrior crouches in a fighting stance.
+~
+66 532648 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#219
+Dominic~
+Dominic~
+A mighty warrior crouches in a fighting stance.
+~
+A mighty warrior crouches in a fighting stance.
+~
+66 532648 0 S
+800 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#220
+Aken~
+Aken~
+A great warrior crouches here in a fighting stance.
+~
+A great warrior crouches here in a fighting stance.
+~
+66 532648 0 S
+900 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#221
+Tralier~
+Tralier~
+A mighty mage levitates in midair, a glowing sphere clutched in one hand.
+~
+
+~
+66 532648 0 S
+1000 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#222
+Yasmina~
+Yasmina~
+A mighty mage levitates in midair, a glowing sphere clutched in one hand.
+~
+
+~
+66 532648 0 S
+1100 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#223
+Denaris~
+Denaris~
+A mighty mage levitates in midair, a glowing sphere clutched in one hand.
+~
+
+~
+66 532648 0 S
+1200 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#224
+Gerbon~
+Gerbon~
+A mighty mage levitates in midair, a glowing sphere clutched in one hand.
+~
+
+~
+66 532648 0 S
+1300 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#225
+Celtis~
+Celtis~
+A mighty mage levitates in midair, a glowing sphere clutched in one hand.
+~
+
+~
+66 532648 0 S
+1400 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#226
+Raetan~
+Raetan~
+A mighty mage levitates in midair, a glowing sphere clutched in one hand.
+~
+
+~
+66 532648 0 S
+1500 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#227
+Israd~
+Israd~
+A mighty mage levitates in midair, a glowing sphere clutched in one hand.
+~
+
+~
+66 532648 0 S
+1600 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#228
+Camilla~
+Camilla~
+A mighty mage levitates in midair, a glowing sphere clutched in one hand.
+~
+
+~
+66 532648 0 S
+1700 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#229
+Sorcha~
+Sorcha~
+A nightmarish dream flits through your sleeping mind.
+~
+
+~
+98 532648 0 S
+2000 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#230
+Rahj~
+Rahj~
+A nightmarish dream flits through your sleeping mind.
+~
+
+~
+98 532648 0 S
+2500 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#231
+Tazmon~
+Tazmon~
+A nightmarish dream flits through your sleeping mind.
+~
+
+~
+98 532648 0 S
+3000 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#232
+Poppi~
+Poppi~
+A nightmarish dream flits through your sleeping mind.
+~
+
+~
+98 532648 0 S
+3500 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#233
+Belzis~
+Belzis~
+A nightmarish dream flits through your sleeping mind.
+~
+
+~
+98 532648 0 S
+4000 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#234
+Cinbar~
+Cinbar~
+A nightmarish dream flits through your sleeping mind.
+~
+
+~
+98 532648 0 S
+5000 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#235
+Laertia~
+Laertia~
+A nightmarish dream flits through your sleeping mind.
+~
+
+~
+98 532648 0 S
+6000 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+#236
+Giand~
+Giand~
+A nightmarish dream flits through your sleeping mind.
+~
+
+~
+98 532648 0 S
+7000 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#237
+Xaviana~
+Xaviana~
+A nightmarish dream flits through your sleeping mind.
+~
+
+~
+98 532648 0 S
+7000 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#238
+Mikhael~
+Mikhael~
+A nightmarish dream flits through your sleeping mind.
+~
+
+~
+98 532648 0 S
+8000 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#239
+Dimitri~
+Dimitri~
+A nightmarish dream flits through your sleeping mind.
+~
+
+~
+98 532648 0 S
+9000 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#240
+Junlei~
+Junlei~
+A nightmarish dream flits through your sleeping mind.
+~
+
+~
+98 532648 0 S
+9999 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#200
+candyman's top hat~
+candyman's top hat~
+A black velvet top hat lies here.~
+~
+9 2368 1|16
+20 1 6 11
+5 1000 0
+A
+1 8
+A
+5 8
+A
+13 1000
+A
+18 125
+A
+17 200
+A
+19 125
+#201
+tooth brush~
+a tooth brush~
+A well used tooth brush has been dropped here.~
+~
+8 0 8193
+0 1 6 11
+5 1000 0
+#202
+cookie~
+a freshly baked cookie~
+A freshly baked cookie tempts you to eat it.~
+~
+19 64 8193
+48 48 6 11
+5 1000 0
+#0
+
+
+#ROOMS
+#200
+Entrance to Candyland~
+The gates to Candyland stand open.  Just to the north the sound of machinery can be heard as more delicious treats are created.  A large sign hangs on the stone wall surrounding the factory.  It reads: Welcome to Candyland! Don't forget to brush!
+~
+2 4 1
+D0
+
+~
+~
+0 -1 201
+S
+#201
+Main Corridor~
+The main corridor leads to the north through the center of the factory.  Smaller corridors branch off it, leading to other areas of the factory.  The sweet smell of success lingers in the air!
+~
+2 0 1
+D0
+
+~
+~
+0 -1 202
+D1
+
+~
+~
+0 -1 204
+D2
+
+~
+~
+0 -1 200
+D3
+
+~
+~
+0 -1 205
+S
+#202
+Main Corridor~
+Every inch of the factory is sparkling clean.  The floors are highly polished and free of trash.  A janitor brushes by you as he goes about his cleaning duties.  The corridor continues to the north.
+~
+2 0 1
+D0
+
+~
+~
+0 -1 203
+D1
+
+~
+~
+0 -1 206
+D2
+
+~
+~
+0 -1 201
+D3
+
+~
+~
+0 -1 207
+S
+#203
+Main Corridor~
+The low hum of machinery vibrates the floor, filling the ears with a pleasant distraction.  Each section of the factory is filled with the tasty treats we all love to eat.  Candy canes, chocolate drops, gummy bears...all can be found here.
+~
+2 0 0
+D0
+
+~
+~
+0 -1 212
+D1
+
+~
+~
+0 -1 208
+D2
+
+~
+~
+0 -1 202
+D3
+
+~
+~
+0 -1 209
+S
+#204
+Production Area East~
+The low hum of machinery vibrates quietly in the factory.  Everything is immaculately clean.  Large vats filled with sugary substances bubble and steam nearby.
+~
+2 0 1
+D0
+
+~
+~
+0 -1 206
+D3
+
+~
+~
+0 -1 201
+S
+#205
+Production Area West~
+The smell of sweet treats lingers in the air.  Bottles of colored flavor sit on a low shelf near a vat filled with a bubbling, gooey mixture made just for candies.  It is intoxicating.
+~
+2 0 1
+D1
+
+~
+~
+0 -1 201
+D3
+
+~
+~
+0 -1 218
+S
+#206
+Production Area East~
+The smell of sweet treats lingers in the air.  Bottles of colored flavor sit on a low shelf near a vat filled with a bubbling, gooey mixture made just for candies.  It is intoxicating.
+~
+2 0 1
+D0
+
+~
+~
+0 -1 208
+D2
+
+~
+~
+0 -1 204
+D3
+
+~
+~
+0 -1 202
+S
+#207
+Production Area West~
+Conveyor belts attached to a pulley system run from nearby vats to the presses.  Each candy is pressed into shape, then painted with an airbrush in another part of the factory.  The quiet hum of machinery is overwhelmed by the clanking conveyor belt.
+~
+2 0 1
+D1
+
+~
+~
+0 -1 202
+D3
+
+~
+~
+0 -1 219
+S
+#208
+Production Area East~
+The low hum of machinery vibrates quietly in the factory.  Everything is immaculately clean.  Large vats filled with sugary substances bubble and steam nearby.
+~
+2 0 1
+D0
+
+~
+~
+0 -1 214
+D2
+
+~
+~
+0 -1 206
+D3
+
+~
+~
+0 -1 203
+S
+#209
+Production Area West~
+The smell of sweet treats lingers in the air.  Bottles of colored flavor sit on a low shelf near a vat filled with a bubbling, gooey mixture made just for candies.  It is intoxicating.
+~
+2 0 1
+D1
+
+~
+~
+0 -1 203
+D3
+
+~
+~
+0 -1 220
+S
+#210
+The stairway~
+A circular stairway leads up to a dark room.  It is eerily quiet here.  A solitary light hangs from a thin wire.  The flickering light does little to ease the sense of unease that fills the stairway.
+~
+2 4 1
+D0
+
+~
+~
+1 -1 211
+D5
+
+~
+~
+0 -1 213
+S
+#211
+Candy Man's Office~
+Plaques line the walls of the office.  The floor is covered in thick, crimson carpet.  A sturdy leather chair sits behind the heavy wooden desk which sits in the center of the room.  There is not a speck of dust anywhere.  The office is as clean as the factory.
+~
+2 0 1
+D2
+
+~
+~
+1 -1 210
+S
+#212
+Main Corridor~
+The floor is immaculately clean and shining.  Irridescent light reflects from a line of glowing pale blue light strips overhead.  Production areas lie to the east and west.  The main corridor continues to the north.
+~
+2 0 1
+D0
+
+~
+~
+0 -1 213
+D1
+
+~
+~
+0 -1 214
+D2
+
+~
+~
+0 -1 203
+D3
+
+~
+~
+0 -1 215
+S
+#213
+Main Corridor~
+The floor is immaculately clean and shining.  Irridescent light reflects from a line of glowing pale blue light strips overhead.  Production areas lie to the east and west.
+~
+2 0 1
+D0
+
+~
+~
+0 -1 223
+D1
+
+~
+~
+0 -1 216
+D2
+
+~
+~
+0 -1 212
+D3
+
+~
+~
+0 -1 217
+D4
+
+~
+~
+0 -1 210
+S
+#214
+Production Area East~
+Conveyor belts attached to a pulley system run from nearby vats to the presses.  Each candy is pressed into shape, then painted with an airbrush in another part of the factory.  The quiet hum of machinery is overwhelmed by the clanking conveyor belt.
+~
+2 0 1
+D0
+
+~
+~
+0 -1 216
+D2
+
+~
+~
+0 -1 208
+D3
+
+~
+~
+0 -1 212
+S
+#215
+Production Area West~
+Conveyor belts attached to a pulley system run from nearby vats to the presses.  Each candy is pressed into shape, then painted with an airbrush in another part of the factory.  The quiet hum of machinery is overwhelmed by the clanking conveyor belt.
+~
+2 0 1
+D1
+
+~
+~
+0 -1 212
+D3
+
+~
+~
+0 -1 221
+S
+#216
+Production Area East~
+Conveyor belts attached to a pulley system run from nearby vats to the presses.  Each candy is pressed into shape, then painted with an airbrush in another part of the factory.  The quiet hum of machinery is overwhelmed by the clanking conveyor belt.
+~
+2 0 1
+D2
+
+~
+~
+0 -1 214
+D3
+
+~
+~
+0 -1 213
+S
+#217
+Production Area West~
+The low hum of machinery vibrates quietly in the factory.  Everything is immaculately clean.  Large vats filled with sugary substances bubble and steam nearby.
+~
+2 0 1
+D1
+
+~
+~
+0 -1 213
+S
+#218
+Production Area West~
+The smell of sweet treats lingers in the air.  Bottles of colored flavor sit on a low shelf near a vat filled with a bubbling, gooey mixture made just for candies.  It is intoxicating.
+~
+2 0 1
+D0
+
+~
+~
+0 -1 219
+D1
+
+~
+~
+0 -1 205
+S
+#219
+Production Area West~
+The smell of sweet treats lingers in the air.  Bottles of colored flavor sit on a low shelf near a vat filled with a bubbling, gooey mixture made just for candies.  It is intoxicating.
+~
+2 0 1
+D0
+
+~
+~
+0 -1 220
+D1
+
+~
+~
+0 -1 207
+D2
+
+~
+~
+0 -1 218
+S
+#220
+Production Area West~
+Conveyor belts attached to a pulley system run from nearby vats to the presses.  Each candy is pressed into shape, then painted with an airbrush in another part of the factory.  The quiet hum of machinery is overwhelmed by the clanking conveyor belt.
+~
+2 0 1
+D0
+
+~
+~
+0 -1 221
+D1
+
+~
+~
+0 -1 209
+D2
+
+~
+~
+0 -1 219
+S
+#221
+Production Area West~
+Bright pots of paint sit on a low table.  Each candy is individually painted for that special, unique appearance.  This is the only area of the factory that isn't spotlessly clean.  Splotches of rainbow colored paint are splattered on the table and floor.
+~
+2 0 1
+D0
+
+~
+~
+0 -1 222
+D1
+
+~
+~
+0 -1 215
+D2
+
+~
+~
+0 -1 220
+S
+#222
+Production Area West~
+The low hum of machinery vibrates quietly in the factory.  Everything is immaculately clean.  Large vats filled with sugary substances bubble and steam nearby.
+~
+2 0 1
+D2
+
+~
+~
+0 -1 221
+S
+#223
+Production Area North~
+The smell of sweet treats lingers in the air.  Bottles of colored flavor sit on a low shelf near a vat filled with a bubbling, gooey mixture made just for candies.  It is intoxicating.
+~
+2 0 1
+D0
+
+~
+~
+0 -1 224
+D2
+
+~
+~
+0 -1 213
+S
+#224
+Production Area North~
+Bright pots of paint sit on a low table.  Each candy is individually painted for that special, unique appearance.  This is the only area of the factory that isn't spotlessly clean.  Splotches of rainbow colored paint are splattered on the table and floor.
+~
+2 0 1
+D0
+
+~
+~
+0 -1 225
+D2
+
+~
+~
+0 -1 223
+S
+#225
+Production Area North~
+The smell of sweet treats lingers in the air.  Bottles of colored flavor sit on a low shelf near a vat filled with a bubbling, gooey mixture made just for candies.  It is intoxicating.
+~
+2 0 1
+D1
+
+~
+~
+0 -1 226
+D2
+
+~
+~
+0 -1 224
+D3
+
+~
+~
+0 -1 229
+S
+#226
+Production Area Northeast~
+The low hum of machinery vibrates quietly in the factory.  Everything is immaculately clean.  Large vats filled with sugary substances bubble and steam nearby.
+~
+2 0 1
+D0
+
+~
+~
+0 -1 227
+D3
+
+~
+~
+0 -1 225
+S
+#227
+Production Area Northeast~
+Bright pots of paint sit on a low table.  Each candy is individually painted for that special, unique appearance.  This is the only area of the factory that isn't spotlessly clean.  Splotches of rainbow colored paint are splattered on the table and floor.
+~
+2 0 1
+D0
+
+~
+~
+0 -1 228
+D2
+
+~
+~
+0 -1 226
+S
+#228
+Production Area Northeast~
+Brightly colored dispensers of foil and tissue wrap hang on a nearby wall.  Each candy is wrapped to showcase its delicious, sugary perfection.
+~
+2 0 1
+D2
+
+~
+~
+0 -1 227
+S
+#229
+Production Area Northwest~
+Brightly colored dispensers of foil and tissue wrap hang on a nearby wall.  Each candy is wrapped to showcase its delicious, sugary perfection.
+~
+2 0 1
+D0
+
+~
+~
+0 -1 230
+D1
+
+~
+~
+0 -1 225
+S
+#230
+Production Area Northwest~
+The low hum of machinery vibrates quietly in the factory.  Everything is immaculately clean.  Large vats filled with sugary substances bubble and steam nearby.
+~
+2 0 1
+D0
+
+~
+~
+0 -1 231
+D2
+
+~
+~
+0 -1 229
+S
+#231
+Production Area Northwest~
+A large refrigerator filled with gallons of milk stands near one wall.  Comfortable chairs surround a low table.  This is the taste testing area.  Several taste testers lie unconcious on the floor! The candies have revolted!
+~
+2 0 1
+D1
+
+~
+~
+0 -1 232
+D2
+
+~
+~
+0 -1 230
+S
+#232
+Entrance to the Loading Dock~
+The loading dock is separated from the rest of the factory with a heavy plastic curtain.  Dollies and boxes are stacked against the walls.  Each box of candy is gently shipped to its final destination in this very place.
+~
+2 0 1
+D0
+
+~
+~
+0 -1 233
+D3
+
+~
+~
+0 -1 231
+S
+#233
+Loading Dock~
+The loading dock is strangely deserted.  Boxes, pallets, and dollies are scattered about everywhere.  The sound of giggles echo through the dock.
+~
+2 0 1
+D1
+
+~
+~
+0 -1 234
+D2
+
+~
+~
+0 -1 232
+S
+#234
+Loading Dock~
+The loading dock is strangely deserted.  Boxes, pallets, and dollies are scattered about everywhere.  The sound of giggles echo through the dock.
+~
+2 0 1
+D0
+
+~
+~
+0 -1 235
+D3
+
+~
+~
+0 -1 233
+S
+#235
+Loading Dock~
+The loading dock is strangely deserted.  Boxes, pallets, and dollies are scattered about everywhere.  The sound of giggles echo through the dock.
+~
+2 0 1
+D0
+
+~
+~
+0 -1 236
+D2
+
+~
+~
+0 -1 234
+S
+#236
+Loading Dock~
+The loading dock is strangely deserted.  Boxes, pallets, and dollies are scattered about everywhere.  The sound of giggles echo through the dock.
+~
+2 0 1
+D2
+
+~
+~
+0 -1 235
+D5
+
+~
+~
+0 -1 237
+S
+#237
+A Ramp~
+The ramp leads down to a gravel covered lot.  A cool breeze blows in from the east.  There is nothing special here.
+~
+2 0 1
+D4
+
+~
+~
+0 -1 236
+S
+#238
+Entryway~
+Do not proceed past this point if you are not ready to test your skills!  You have been WARNED!!!
+~
+2 516 1
+D4
+
+~
+~
+0 -1 239
+S
+#239
+The Stairway~
+A narrow stairway rises to the next level.  The stones shake with each step.  A narrow barred window allows a tiny bit of light to filter into this place.  The cries of the dead and dying echo in the still air.
+~
+2 516 1
+D0
+
+~
+~
+0 -1 258
+D1
+
+~
+~
+0 -1 249
+D3
+
+~
+~
+0 -1 240
+D5
+
+~
+~
+0 -1 238
+S
+#240
+Level I~
+
+~
+2 0 1
+D0
+
+~
+~
+0 -1 241
+D1
+
+~
+~
+0 -1 239
+S
+#241
+Level I~
+
+~
+2 0 1
+D0
+
+~
+~
+0 -1 242
+D2
+
+~
+~
+0 -1 240
+S
+#242
+Level I~
+
+~
+2 0 1
+D0
+
+~
+~
+0 -1 243
+D2
+
+~
+~
+0 -1 241
+S
+#243
+Level I~
+
+~
+2 0 1
+D0
+
+~
+~
+0 -1 244
+D2
+
+~
+~
+0 -1 242
+S
+#244
+Level I~
+
+~
+2 0 1
+D2
+
+~
+~
+0 -1 243
+D3
+
+~
+~
+0 -1 245
+S
+#245
+Level I~
+
+~
+2 0 1
+D0
+
+~
+~
+0 -1 246
+D1
+
+~
+~
+0 -1 244
+S
+#246
+Level I~
+
+~
+2 0 1
+D0
+
+~
+~
+0 -1 247
+D2
+
+~
+~
+0 -1 245
+S
+#247
+Level I~
+
+~
+2 0 1
+D0
+
+~
+~
+0 -1 248
+D2
+
+~
+~
+0 -1 246
+S
+#248
+Level I~
+
+~
+2 0 1
+D2
+
+~
+~
+0 -1 247
+D4
+
+~
+~
+0 -1 238
+S
+#249
+Level II~
+
+~
+2 0 1
+D2
+
+~
+~
+0 -1 250
+D3
+
+~
+~
+0 -1 239
+S
+#250
+Level II~
+
+~
+2 0 1
+D0
+
+~
+~
+0 -1 249
+D2
+
+~
+~
+0 -1 251
+S
+#251
+Level II~
+
+~
+2 0 1
+D0
+
+~
+~
+0 -1 250
+D2
+
+~
+~
+0 -1 252
+S
+#252
+Level II~
+
+~
+2 0 1
+D0
+
+~
+~
+0 -1 251
+D1
+
+~
+~
+0 -1 253
+S
+#253
+Level II~
+
+~
+2 0 1
+D2
+
+~
+~
+0 -1 254
+D3
+
+~
+~
+0 -1 252
+S
+#254
+Level II~
+
+~
+2 0 1
+D0
+
+~
+~
+0 -1 253
+D2
+
+~
+~
+0 -1 255
+S
+#255
+Level II~
+
+~
+2 0 1
+D0
+
+~
+~
+0 -1 254
+D2
+
+~
+~
+0 -1 256
+S
+#256
+Level II~
+
+~
+2 0 1
+D0
+
+~
+~
+0 -1 255
+D2
+
+~
+~
+0 -1 257
+S
+#257
+Level II~
+
+~
+2 0 1
+D0
+
+~
+~
+0 -1 256
+D4
+
+~
+~
+0 -1 238
+S
+#258
+Level III~
+
+~
+2 0 1
+D1
+
+~
+~
+0 -1 259
+D2
+
+~
+~
+0 -1 239
+S
+#259
+Level III~
+
+~
+2 0 1
+D0
+
+~
+~
+0 -1 260
+D3
+
+~
+~
+0 -1 258
+S
+#260
+Level III~
+
+~
+2 0 1
+D1
+
+~
+~
+0 -1 261
+D2
+
+~
+~
+0 -1 259
+S
+#261
+Level III~
+
+~
+2 0 1
+D1
+
+~
+~
+0 -1 262
+D3
+
+~
+~
+0 -1 260
+S
+#262
+Level III~
+
+~
+2 0 1
+D0
+
+~
+~
+0 -1 263
+D3
+
+~
+~
+0 -1 261
+S
+#263
+Level III~
+
+~
+2 0 1
+D2
+
+~
+~
+0 -1 262
+D3
+
+~
+~
+0 -1 264
+S
+#264
+Level III~
+
+~
+2 0 1
+D1
+
+~
+~
+0 -1 263
+D3
+
+~
+~
+0 -1 265
+S
+#265
+Level III~
+
+~
+2 0 1
+D0
+
+~
+~
+0 -1 266
+D1
+
+~
+~
+0 -1 264
+S
+#266
+Level III~
+
+~
+2 0 1
+D0
+
+~
+~
+0 -1 267
+D2
+
+~
+~
+0 -1 265
+S
+#267
+Level III~
+
+~
+2 0 1
+D1
+
+~
+~
+0 -1 268
+D2
+
+~
+~
+0 -1 266
+S
+#268
+Level III~
+
+~
+2 0 1
+D0
+
+~
+~
+0 -1 270
+D3
+
+~
+~
+0 -1 267
+S
+#269
+Dark Chamber~
+Shimmering portals stand on each wall.  Only two are active, shimmering with life and electrical sparks.  The others lie flat and lifeless.  Proceed north to Candyland.  Only the brave dare go up, to test the Gauntlet.
+~
+2 5 1
+D0
+
+~
+~
+0 -1 200
+D4
+
+~
+~
+0 -1 238
+D5
+~
+~
+0 -1 8903
+S
+#270
+Level III~
+
+~
+2 8193 1
+D2
+
+~
+~
+0 -1 268
+S
+#0
+
+
+#RESETS
+M 0 200 2 201  * a factory worker -> Main Corridor
+M 0 200 2 202  * a factory worker -> Main Corridor
+M 0 200 2 203  * a factory worker -> Main Corridor
+M 0 200 2 212  * a factory worker -> Main Corridor
+M 0 200 2 213  * a factory worker -> Main Corridor
+M 0 200 2 222  * a factory worker -> Production Area West
+M 0 200 2 233  * a factory worker -> Loading Dock
+M 0 201 2 205  * a lemon drop -> Production Area West
+M 0 201 2 206  * a lemon drop -> Production Area East
+M 0 202 3 205  * a candy cane -> Production Area West
+M 0 202 4 206  * a candy cane -> Production Area East
+M 0 202 3 204  * a candy cane -> Production Area East
+M 0 202 4 208  * a candy cane -> Production Area East
+M 0 202 4 212  * a candy cane -> Main Corridor
+M 0 202 2 220  * a candy cane -> Production Area West
+M 0 204 3 220  * a peppermint patty -> Production Area West
+M 0 204 2 208  * a peppermint patty -> Production Area East
+M 0 204 4 218  * a peppermint patty -> Production Area West
+M 0 204 4 216  * a peppermint patty -> Production Area East
+M 0 204 4 225  * a peppermint patty -> Production Area North
+M 0 205 4 219  * a wacky taffy -> Production Area West
+M 0 205 4 217  * a wacky taffy -> Production Area West
+M 0 205 4 233  * a wacky taffy -> Loading Dock
+M 0 206 3 207  * cotton candy -> Production Area West
+M 0 206 3 214  * cotton candy -> Production Area East
+M 0 206 2 223  * cotton candy -> Production Area North
+M 0 207 2 207  * a ginger snap -> Production Area West
+M 0 207 4 209  * a ginger snap -> Production Area West
+M 0 207 3 226  * a ginger snap -> Production Area Northeast
+M 0 208 4 215  * a chocolate drop -> Production Area West
+M 0 208 2 229  * a chocolate drop -> Production Area Northwest
+M 0 209 2 224  * a gummy bear -> Production Area North
+M 0 209 4 234  * a gummy bear -> Loading Dock
+M 0 209 2 237  * a gummy bear -> A Ramp
+M 0 210 2 230  * a gingerbread man -> Production Area Northwest
+M 0 210 2 228  * a gingerbread man -> Production Area Northeast
+M 0 210 2 235  * a gingerbread man -> Loading Dock
+M 0 211 1 211  * the candy man -> Candy Man's Office
+E 0 200 1 6  * candyman's top hat
+G 0 201 100  * a tooth brush
+M 0 212 1 240  * Jandalar -> Level I
+M 0 213 1 241  * Kogishi -> Level I
+M 0 214 1 242  * Ciana -> Level I
+M 0 215 1 243  * Alisade -> Level I
+M 0 216 1 244  * Loyaz -> Level I
+M 0 217 1 245  * Zandra -> Level I
+M 0 218 1 246  * Jasmin -> Level I
+M 0 219 1 247  * Dominic -> Level I
+M 0 220 1 248  * Aken -> Level I
+M 0 220 1 249  * Aken -> Level II
+M 0 221 1 250  * Tralier -> Level II
+M 0 222 1 251  * Yasmina -> Level II
+M 0 223 1 252  * Denaris -> Level II
+M 0 224 1 253  * Gerbon -> Level II
+M 0 225 1 254  * Celtis -> Level II
+M 0 226 1 255  * Raetan -> Level II
+M 0 227 1 256  * Israd -> Level II
+M 0 228 1 257  * Camilla -> Level II
+M 0 229 1 258  * Sorcha -> Level III
+M 0 230 1 259  * Rahj -> Level III
+M 0 231 1 260  * Tazmon -> Level III
+M 0 232 1 261  * Poppi -> Level III
+M 0 233 1 262  * Belzis -> Level III
+M 0 234 1 263  * Cinbar -> Level III
+M 0 235 1 264  * Laertia -> Level III
+M 0 236 1 265  * Giand -> Level III
+M 0 237 1 266  * Xaviana -> Level III
+M 0 238 1 267  * Mikhael -> Level III
+M 0 239 1 268  * Dimitri -> Level III
+M 0 240 1 270  * Junlei -> Level III
+S
+
+
+#SHOPS
+0
+
+
+#SPECIALS
+M 200 spec_poison  * a factory worker
+M 201 spec_breath_acid  * a lemon drop
+M 202 spec_breath_fire  * a candy cane
+M 203 spec_breath_frost  * a gumball
+M 204 spec_breath_gas  * a peppermint patty
+M 205 spec_breath_lightning  * a wacky taffy
+M 206 spec_cast_judge  * cotton candy
+M 207 spec_cast_undead  * a ginger snap
+M 208 spec_cast_undead  * a chocolate drop
+M 209 spec_cast_undead  * a gummy bear
+M 210 spec_breath_any  * a gingerbread man
+M 211 spec_rogue  * the candy man
+M 212 spec_breath_any  * Jandalar
+M 213 spec_breath_any  * Kogishi
+M 214 spec_breath_any  * Ciana
+M 215 spec_breath_any  * Alisade
+M 216 spec_breath_any  * Loyaz
+M 217 spec_breath_any  * Zandra
+M 218 spec_breath_any  * Jasmin
+M 219 spec_breath_any  * Dominic
+M 220 spec_breath_any  * Aken
+M 221 spec_cast_mage  * Tralier
+M 222 spec_cast_mage  * Yasmina
+M 223 spec_cast_mage  * Denaris
+M 224 spec_cast_mage  * Gerbon
+M 225 spec_cast_mage  * Celtis
+M 226 spec_cast_mage  * Raetan
+M 227 spec_cast_mage  * Israd
+M 228 spec_cast_mage  * Camilla
+M 229 spec_rogue  * Sorcha
+M 230 spec_rogue  * Rahj
+M 231 spec_cast_judge  * Tazmon
+M 232 spec_cast_judge  * Poppi
+M 233 spec_cast_undead  * Belzis
+M 234 spec_cast_undead  * Cinbar
+M 235 spec_cast_undead  * Laertia
+M 236 spec_cast_mage  * Giand
+M 237 spec_cast_mage  * Xaviana
+M 238 spec_cast_judge  * Mikhael
+M 239 spec_breath_any  * Dimitri
+M 240 spec_cast_mage  * Junlei
+S
+
+#$
+

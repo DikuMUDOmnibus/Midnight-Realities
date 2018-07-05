@@ -1,0 +1,1205 @@
+
+#AREA { 20-80 } M.Z.F.  Nightmare~
+
+
+#MOBILES
+#20000
+maggot~
+a maggot~
+A maggot writhes slowly toward a rotting corpse.
+~
+Slime covers the eerily pale body of the maggot.  It is bloated with a feast on rotting flesh.
+~
+64 0 0 S
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#20001
+rotting corpse~
+a rotting corpse~
+A rotting corpse lies here.
+~
+The corpse has badly decomposed.  The facial features are nearly gone.  There is no way of knowing who, or what, it once was.
+~
+64 524416 0 S
+30 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#20002
+slug~
+a slug~
+A slug slithers across the floor.
+~
+The slug is covered in slime.  Nothing could be more disgusting.
+~
+64 0 0 S
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#20003
+skeleton~
+a skeleton~
+A bloody skeleton stalks about.
+~
+The bones are still bloody from where the flesh has just been ripped free.
+~
+64 0 0 S
+40 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#20004
+demonic apparation~
+a demonic apparition~
+A demonic apparition
+~
+A demonic apparition stares back nightmarish red eyes.
+~
+64 524416 0 S
+45 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#20005
+sopiro liata~
+Sopiro Liata~
+Yellowish eyes stare back at you from the darkness.
+~
+A writhing mass of tentacles is all that can be seen besides the glowing, yellow eyes.  The stench of death is heavy in this place.  Gnawed bones are scattered about.
+~
+102 532648 0 S
+60 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#20006
+flame~
+a flame~
+A flame dances about.
+~
+Burn baby burn!
+~
+100 532648 0 S
+50 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#20000
+Beginning of the nightmare~
+Nightmares always come when least expected.  In the dead of night they creep upon the unsuspecting mind.  It is too late to turn back now.
+~
+200 5 10
+D0
+
+~
+~
+0 -1 20001
+S
+#20001
+A Dark Twisting Corridor~
+Ethereal mists swirl just above the floor, if there is one.  A tapping sound echoes about the corridor from the north.  Strange rustling movements seem to come from all directions.  Something slimy touches your bare feet, seeming to suck a the very flesh.  The air is cold and damp.  A smell of burning sulfur permeates the air.
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20002
+D2
+
+~
+~
+0 -1 20000
+S
+#20002
+Further Down the Corridor~
+The corridor twists and turns.  The echoing sound grows louder, more insistent.  It creeps into the unsuspecting mind.  A feeling of foreboding seems to fill the corridor.
+~
+200 1 0
+D2
+
+~
+~
+0 -1 20001
+D4
+
+~
+~
+0 -1 20003
+S
+#20003
+Rickety Stairway~
+A rickety stairway leads up from the corridor below.  The mists have risen from the floor to reveal the cold stone steps that lie here.  A door lies to the north, framed in an unholy light.
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20004
+D5
+
+~
+~
+0 -1 20002
+S
+#20004
+Level I~
+A cold breeze flows through the room. There seems to be no end to the shifting mists that cloak the things that lurk here. A haunting moan followed by a low growl are enough proof that something ELSE is here.
+~
+200 0 0
+D0
+
+~
+~
+0 -1 20009
+D1
+
+~
+~
+0 -1 20010
+D2
+
+~
+~
+0 -1 20003
+D3
+
+~
+~
+0 -1 20005
+S
+#20005
+Level I~
+A heavy, shifting mist obscures a clear view of this place.  The floor seems to move constantly.  Wet, sucking sounds come from beneath the heavy covering of mists.
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20006
+D1
+
+~
+~
+0 -1 20004
+S
+#20006
+Level I~
+A heavy, shifting mist obscures a clear view of this place.  The floor seems to move constantly.  Wet, sucking sounds come from beneath the heavy covering of mists.  Something slithers across your foot.  What could it be?
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20007
+D2
+
+~
+~
+0 -1 20005
+S
+#20007
+Level I~
+Something squishes beneath your foot.  A shrieking moan dies away into nothing.  The stench that comes from beneath the mist is sickening.
+~
+200 1 0
+D1
+
+~
+~
+0 -1 20008
+D2
+
+~
+~
+0 -1 20006
+S
+#20008
+Level I~
+A heavy, shifting mist obscures a clear view of this place.  The floor seems to move constantly.  Wet, sucking sounds come from beneath the heavy covering of mists.
+~
+200 1 0
+D1
+
+~
+~
+0 -1 20012
+D2
+
+~
+~
+0 -1 20009
+D3
+
+~
+~
+0 -1 20007
+S
+#20009
+Level I~
+A heavy, shifting mist obscures a clear view of this place.  The floor seems to move constantly.  Wet, sucking sounds come from beneath the heavy covering of mists.
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20008
+D1
+
+~
+~
+0 -1 20011
+D2
+
+~
+~
+0 -1 20004
+D4
+
+~
+~
+0 -1 20013
+S
+#20010
+Level I~
+A heavy, shifting mist obscures a clear view of this place.  The floor seems to move constantly.  Wet, sucking sounds come from beneath the heavy covering of mists.
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20011
+D3
+
+~
+~
+0 -1 20004
+S
+#20011
+Level I~
+There seems to be no end to the confusing mists.  Strange sounds come from everywhere.  Perhas there is no escape, no exit to be found.
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20012
+D2
+
+~
+~
+0 -1 20010
+D3
+
+~
+~
+0 -1 20009
+S
+#20012
+Level I~
+A heavy, shifting mist obscures a clear view of this place.  The floor seems to move constantly.  Wet, sucking sounds come from beneath the heavy covering of mists.
+~
+200 1 0
+D2
+
+~
+~
+0 -1 20011
+D3
+
+~
+~
+0 -1 20008
+S
+#20013
+Level II~
+The swirling mists of the lower level have given way to a swamp filled with sucking mud.  The stench is nearly unbearable.  A smell of death and decay lingers here.  There is no obvious exit or safe haven from the creatures that lurk here.
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20017
+D1
+
+~
+~
+0 -1 20014
+D5
+
+~
+~
+0 -1 20009
+S
+#20014
+Level II~
+The thick mud sucks and pulls at your feet and ankles as you explore.  Low growls come from all directions.  Reddish eyes glow in the darkness, blink, and disappear.  Something is waiting out there.
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20015
+D3
+
+~
+~
+0 -1 20013
+S
+#20015
+Level II~
+Strange twisting trees grow out of the watery muck.  The trees resemble skeletal forms more than any tree.  The branches seem to almost reach toward you in hopes of ensnaring prey.
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20016
+D2
+
+~
+~
+0 -1 20014
+D3
+
+~
+~
+0 -1 20017
+S
+#20016
+Level II~
+The muck deepens even more, rising almost to your knees.  Thick vegetation grows alongside the semblance of a path that twists through the swamp.  Something crashes through vegetation, howls and is gone.  The temperature has dropped to nearly freezing.
+~
+200 1 0
+D2
+
+~
+~
+0 -1 20015
+D4
+
+~
+~
+0 -1 20037
+S
+#20017
+Level II~
+Strange twisting trees grow out of the watery muck.  The trees resemble skeletal forms more than any tree.  The branches seem to almost reach toward you in hopes of ensnaring prey.
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20018
+D1
+
+~
+~
+0 -1 20015
+D2
+
+~
+~
+0 -1 20013
+D3
+
+~
+~
+0 -1 20022
+S
+#20018
+Level II~
+Murky water covers the path.  The muck still sucks at your feet as the path is traversed.  Strange sounds echo through the quiet air.  A sliver of moon peeks through the dark covering of clouds that hover low in the sky.  The witching hour has arrived.
+~
+200 1 0
+D2
+
+~
+~
+0 -1 20017
+D3
+
+~
+~
+0 -1 20019
+S
+#20019
+Level II~
+Murky water covers the path.  The muck still sucks at your feet as the path is traversed.  Strange sounds echo through the quiet air.  A slimy body curls about your ankle beneath the murky water.
+~
+200 1 0
+D1
+
+~
+~
+0 -1 20018
+D3
+
+~
+~
+0 -1 20020
+S
+#20020
+Level II~
+Strange twisting trees grow out of the watery muck.  The trees resemble skeletal forms more than any tree.  The branches seem to almost reach toward you in hopes of ensnaring prey.
+~
+200 1 0
+D1
+
+~
+~
+0 -1 20019
+D2
+
+~
+~
+0 -1 20021
+S
+#20021
+Level II~
+There is no end in sight! The path twists and curves through the swamp.  The more the path is traversed, the more confusing this place becomes.
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20020
+D1
+
+~
+~
+0 -1 20022
+D2
+
+~
+~
+0 -1 20024
+S
+#20022
+Level II~
+Exhaustion is almost eminent now.  The sucking mud pulls relentlessly at your feet.  There is no easy way out of this place. Perhaps trapping you here is what the strange creatures intended all along? Without hope, all is lost.
+~
+200 1 0
+D1
+
+~
+~
+0 -1 20017
+D2
+
+~
+~
+0 -1 20023
+D3
+
+~
+~
+0 -1 20021
+S
+#20023
+Level II~
+Strange twisting trees grow out of the watery muck.  The trees resemble skeletal forms more than any tree.  The branches seem to almost reach toward you in hopes of ensnaring prey.
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20022
+D3
+
+~
+~
+0 -1 20024
+S
+#20024
+Level II~
+Strange twisting trees grow out of the watery muck.  The trees resemble skeletal forms more than any tree.  The branches seem to almost reach toward you in hopes of ensnaring prey.
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20021
+D1
+
+~
+~
+0 -1 20023
+S
+#20025
+Level III~
+A tunnel made entirely of cold grey marble stands here.  The tunnel branches in many directions.  Water drips from the top of the tunnel.  The floor is slick with slime and water.  A faint light reflects from the stone, but has no obvious source.
+~
+200 8193 0
+D0
+
+~
+~
+0 -1 20046
+D1
+
+~
+~
+0 -1 20026
+D5
+
+~
+~
+0 -1 20016
+S
+#20026
+Level III~
+The echoing sound of footsteps...it nearly drives those who come here insane.  The sound echoes in the air.  Never do you see the others who roam through the tunnels.  There is merely the feeling that someone else is lost here.
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20043
+D1
+
+~
+~
+0 -1 20027
+D3
+
+~
+~
+0 -1 20025
+S
+#20027
+Level III~
+Twisting, turning, how many directions can the tunnels go in? The echo of the footsteps rises in cadence, ceases.  There is quiet but for a moment.  Then the footsteps begin again.  Someone screams "STOP!" Stop stop stop stop stop...the one word repeats over and over within the depths of the tunnels.
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20040
+D1
+
+~
+~
+0 -1 20028
+D3
+
+~
+~
+0 -1 20026
+S
+#20028
+Level III~
+The tunnel appears to never end.  Perhaps there is no hope of escape? The dark grasp of death awaits those who give up.  So many tunnel branches, but which one to take?
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20037
+D1
+
+~
+~
+0 -1 20029
+D3
+
+~
+~
+0 -1 20027
+S
+#20029
+Level III~
+The tunnel appears to never end.  Perhaps there is no hope of escape? The dark grasp of death awaits those who give up.  So many tunnel branches, but which one to take?
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20034
+D1
+
+~
+~
+0 -1 20030
+D3
+
+~
+~
+0 -1 20028
+S
+#20030
+Level III~
+The tunnel appears to never end.  Perhaps there is no hope of escape? The dark grasp of death awaits those who give up.  So many tunnel branches, but which one to take?
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20031
+D3
+
+~
+~
+0 -1 20029
+S
+#20031
+Level III~
+The tunnel appears to never end.  Perhaps there is no hope of escape? The dark grasp of death awaits those who give up.  So many tunnel branches, but which one to take?
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20032
+D2
+
+~
+~
+0 -1 20030
+D3
+
+~
+~
+0 -1 20034
+S
+#20032
+Level III~
+The tunnel appears to never end.  Perhaps there is no hope of escape? The dark grasp of death awaits those who give up.  So many tunnel branches, but which one to take?
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20033
+D2
+
+~
+~
+0 -1 20031
+D3
+
+~
+~
+0 -1 20035
+S
+#20033
+Level III~
+The tunnel appears to never end.  Perhaps there is no hope of escape? The dark grasp of death awaits those who give up.  So many tunnel branches, but which one to take?
+~
+200 1 0
+D2
+
+~
+~
+0 -1 20032
+D3
+
+~
+~
+0 -1 20036
+S
+#20034
+Level III~
+The tunnel appears to never end.  Perhaps there is no hope of escape? The dark grasp of death awaits those who give up.  So many tunnel branches, but which one to take?
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20035
+D1
+
+~
+~
+0 -1 20031
+D2
+
+~
+~
+0 -1 20029
+D3
+
+~
+~
+0 -1 20037
+S
+#20035
+Level III~
+The echoing footsteps rise in cadence yet again.  A shimmering apparition appears in the air.  A raven preens its feathers, squawks and is gone.  Only a shiny black feather is left behind.
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20036
+D1
+
+~
+~
+0 -1 20032
+D2
+
+~
+~
+0 -1 20034
+D3
+
+~
+~
+0 -1 20038
+S
+#20036
+Level III~
+The tunnel appears to never end.  Perhaps there is no hope of escape? The dark grasp of death awaits those who give up.  So many tunnel branches, but which one to take?
+~
+200 1 0
+D1
+
+~
+~
+0 -1 20033
+D2
+
+~
+~
+0 -1 20035
+D3
+
+~
+~
+0 -1 20039
+S
+#20037
+Level III~
+The tunnel appears to never end.  Perhaps there is no hope of escape? The dark grasp of death awaits those who give up.  So many tunnel branches, but which one to take?
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20038
+D1
+
+~
+~
+0 -1 20034
+D2
+
+~
+~
+0 -1 20028
+D3
+
+~
+~
+0 -1 20040
+D5
+
+~
+~
+0 -1 20016
+S
+#20038
+Level III~
+The tunnel appears to never end.  Perhaps there is no hope of escape? The dark grasp of death awaits those who give up.  So many tunnel branches, but which one to take?
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20039
+D1
+
+~
+~
+0 -1 20035
+D2
+
+~
+~
+0 -1 20037
+D3
+
+~
+~
+0 -1 20041
+S
+#20039
+Level III~
+The tunnel appears to never end.  Perhaps there is no hope of escape? The dark grasp of death awaits those who give up.  So many tunnel branches, but which one to take?
+~
+200 1 0
+D1
+
+~
+~
+0 -1 20036
+D2
+
+~
+~
+0 -1 20038
+D3
+
+~
+~
+0 -1 20042
+S
+#20040
+Level III~
+Tap, tap, tap...the echoing footsteps continue.  Insanity awaits you within its warm embrace.
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20041
+D1
+
+~
+~
+0 -1 20037
+D2
+
+~
+~
+0 -1 20027
+D3
+
+~
+~
+0 -1 20043
+S
+#20041
+Level III~
+The tunnel appears to never end.  Perhaps there is no hope of escape? The dark grasp of death awaits those who give up.  So many tunnel branches, but which one to take?
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20042
+D1
+
+~
+~
+0 -1 20038
+D2
+
+~
+~
+0 -1 20040
+D3
+
+~
+~
+0 -1 20044
+S
+#20042
+Level III~
+The tunnel appears to never end.  Perhaps there is no hope of escape? The dark grasp of death awaits those who give up.  So many tunnel branches, but which one to take?
+~
+200 1 0
+D1
+
+~
+~
+0 -1 20039
+D2
+
+~
+~
+0 -1 20041
+D3
+
+~
+~
+0 -1 20045
+S
+#20043
+Level III~
+The tunnel appears to never end.  Perhaps there is no hope of escape? The dark grasp of death awaits those who give up.  So many tunnel branches, but which one to take?
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20044
+D1
+
+~
+~
+0 -1 20040
+D2
+
+~
+~
+0 -1 20026
+S
+#20044
+Level III~
+The tunnel appears to never end.  Perhaps there is no hope of escape? The dark grasp of death awaits those who give up.  So many tunnel branches, but which one to take?
+~
+200 1 0
+D0
+
+~
+~
+0 -1 20045
+D1
+
+~
+~
+0 -1 20041
+D2
+
+~
+~
+0 -1 20043
+S
+#20045
+Level III~
+The tunnel appears to never end.  Perhaps there is no hope of escape? The dark grasp of death awaits those who give up.  So many tunnel branches, but which one to take?
+~
+200 1 0
+D1
+
+~
+~
+0 -1 20042
+D2
+
+~
+~
+0 -1 20044
+S
+#20046
+Hall of Flames~
+Dancing flames dance along every part of the hall.  The air is filled with the acrid smell of smoke and flames.  A haze of smoke hangs in the air.  The hallway continues to the north.
+~
+200 8709 0
+D0
+
+~
+~
+0 -1 20047
+D2
+
+~
+~
+0 -1 20025
+S
+#20047
+Hall of Flames~
+Dancing flames dance along every part of the hall.  The air is filled with the acrid smell of smoke and flames.  A haze of smoke hangs in the air.  The hallway continues to the north.
+~
+200 8193 0
+D0
+
+~
+~
+0 -1 20048
+D2
+
+~
+~
+0 -1 20046
+S
+#20048
+Hall of Flames~
+Dancing flames dance along every part of the hall.  The air is filled with the acrid smell of smoke and flames.  A haze of smoke hangs in the air.  The hallway continues to the north.
+~
+200 8193 0
+D2
+
+~
+~
+0 -1 20047
+D5
+
+~
+~
+0 -1 20049
+S
+#20049
+The Chute~
+Down, down, down!! You are falling at an incredible rate of speed.  There seems to be no bottom to the tunnel.  Hope vanishes.  It is strangely peaceful, even though certain death awaits at the bottom of this chute.
+~
+200 8705 0
+D4
+
+~
+~
+0 -1 20048
+D5
+
+~
+~
+0 -1 20050
+S
+#20050
+The Chute~
+Down, down, down!! You are falling at an incredible rate of speed.  There seems to be no bottom to the tunnel.  Hope vanishes.  It is strangely peaceful, even though certain death awaits at the bottom of this chute.
+~
+200 8705 0
+D4
+
+~
+~
+0 -1 20049
+D5
+
+~
+~
+0 -1 20051
+S
+#20051
+The Chute~
+A writhing mass of tentacles lies at the bottom of the chute, awaiting a victim.  Lunch has been served.
+~
+200 8193 0
+D4
+
+~
+~
+0 -1 20050
+D5
+
+~
+~
+0 -1 20052
+S
+#20052
+The Lair~
+
+~
+200 8705 0
+D4
+
+~
+~
+0 -1 20051
+S
+#0
+
+
+#RESETS
+R 0 20021 2  * Level II
+R 0 20026 2  * Level III
+R 0 20028 2  * Level III
+R 0 20030 2  * Level III
+R 0 20032 1  * Level III
+R 0 20037 1  * Level III
+R 0 20038 1  * Level III
+R 0 20039 1  * Level III
+R 0 20044 1  * Level III
+M 0 20000 1 20004  * a maggot -> Level I
+M 0 20001 1 20004  * a rotting corpse -> Level I
+M 0 20002 1 20004  * a slug -> Level I
+M 0 20003 1 20004  * a skeleton -> Level I
+M 0 20004 1 20004  * a demonic apparition -> Level I
+M 0 20000 1 20007  * a maggot -> Level I
+M 0 20001 1 20007  * a rotting corpse -> Level I
+M 0 20002 1 20007  * a slug -> Level I
+M 0 20003 1 20007  * a skeleton -> Level I
+M 0 20004 1 20007  * a demonic apparition -> Level I
+M 0 20000 1 20011  * a maggot -> Level I
+M 0 20001 1 20011  * a rotting corpse -> Level I
+M 0 20002 1 20011  * a slug -> Level I
+M 0 20003 1 20011  * a skeleton -> Level I
+M 0 20004 1 20011  * a demonic apparition -> Level I
+M 0 20000 1 20013  * a maggot -> Level II
+M 0 20001 1 20013  * a rotting corpse -> Level II
+M 0 20002 1 20013  * a slug -> Level II
+M 0 20003 1 20013  * a skeleton -> Level II
+M 0 20004 1 20013  * a demonic apparition -> Level II
+M 0 20000 1 20016  * a maggot -> Level II
+M 0 20001 1 20016  * a rotting corpse -> Level II
+M 0 20002 1 20016  * a slug -> Level II
+M 0 20003 1 20016  * a skeleton -> Level II
+M 0 20004 1 20016  * a demonic apparition -> Level II
+M 0 20000 1 20019  * a maggot -> Level II
+M 0 20001 1 20019  * a rotting corpse -> Level II
+M 0 20002 1 20019  * a slug -> Level II
+M 0 20003 1 20019  * a skeleton -> Level II
+M 0 20004 1 20019  * a demonic apparition -> Level II
+M 0 20000 1 20022  * a maggot -> Level II
+M 0 20001 1 20022  * a rotting corpse -> Level II
+M 0 20002 1 20022  * a slug -> Level II
+M 0 20003 1 20022  * a skeleton -> Level II
+M 0 20004 1 20022  * a demonic apparition -> Level II
+M 0 20000 1 20025  * a maggot -> Level III
+M 0 20001 1 20025  * a rotting corpse -> Level III
+M 0 20002 1 20025  * a slug -> Level III
+M 0 20003 1 20025  * a skeleton -> Level III
+M 0 20004 1 20025  * a demonic apparition -> Level III
+M 0 20000 1 20028  * a maggot -> Level III
+M 0 20001 1 20028  * a rotting corpse -> Level III
+M 0 20002 1 20028  * a slug -> Level III
+M 0 20003 1 20028  * a skeleton -> Level III
+M 0 20004 1 20028  * a demonic apparition -> Level III
+M 0 20000 1 20031  * a maggot -> Level III
+M 0 20001 1 20031  * a rotting corpse -> Level III
+M 0 20002 1 20031  * a slug -> Level III
+M 0 20003 1 20031  * a skeleton -> Level III
+M 0 20004 1 20031  * a demonic apparition -> Level III
+M 0 20000 1 20035  * a maggot -> Level III
+M 0 20001 1 20035  * a rotting corpse -> Level III
+M 0 20002 1 20035  * a slug -> Level III
+M 0 20003 1 20035  * a skeleton -> Level III
+M 0 20004 1 20035  * a demonic apparition -> Level III
+M 0 20000 1 20038  * a maggot -> Level III
+M 0 20001 1 20038  * a rotting corpse -> Level III
+M 0 20002 1 20038  * a slug -> Level III
+M 0 20003 1 20038  * a skeleton -> Level III
+M 0 20004 1 20038  * a demonic apparition -> Level III
+M 0 20006 3 20046  * a flame -> Hall of Flames
+M 0 20006 2 20047  * a flame -> Hall of Flames
+M 0 20006 5 20048  * a flame -> Hall of Flames
+M 0 20005 1 20052  * Sopiro Liata -> The Lair
+S
+
+
+#SHOPS
+0
+
+
+#SPECIALS
+M 20000 spec_poison  * a maggot
+M 20005 spec_breath_acid  * Sopiro Liata
+M 20006 spec_breath_fire  * a flame
+S
+
+#$
+

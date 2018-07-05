@@ -1,0 +1,2797 @@
+#register
+#AREA Isle of Dispair - Nemesis/Nightfall~
+
+
+#MOBILES
+#4800
+Zombie~
+Zombie~
+The zombie sloughs toward you
+~
+This zombie sloughs toward you with a hunger you can sense.  As it comes forward, you see its eyeball fall out of its socket, and is caught in another fold of rotting flesh....GROSS!!
+~
+4|32|64 8|32|512 -1000 S
+122 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4801
+Skeleton~
+Skeleton~
+The skeleton comes crumbling toward you
+~
+The skeleton is falling apart, but is determined to take your head with it.  Each time a part falls off, it stops to reattach it, then attack again.
+~
+4|32|64 8|32|512 -1000 S
+107 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#4802
+Weapons Keeper~
+Weapons Keeper~
+The weapons keeper stands here waiting for requests
+~
+The weapons keeper looks as if he has seen many battles, and knows how to use every weapon ever made.  Now he has retired to this position of handing out weapons to new recruits..
+~
+2|4|64 2|8|32|128|512 0 S
+5000 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4803
+Drunk~
+Drunk~
+The drunk wanders around mumbling about bricks
+~
+This man is obviously drunk and disorderly...could be why he is in the dungeon...
+~
+4|64 8|32|512 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#4804
+Man at arms~
+Man-at-arms~
+The man-at-arms is crouched, ready to fight
+~
+The man-at-arms looks you over and says "You need a LOT of training!!  Come on and fight me!"
+~
+64 0 1000 S
+200 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#4800
+Ravaged Arm~
+ravaged Arm~
+Looks like it was ripped right out of the socket!~
+~
+13 16|128 1|16384
+0 0 0 0 
+5 0 0
+#4801
+Shovel~
+shovel~
+A shovel rests here.~
+~
+18 0 1|8192|16384
+0 0 0 0 
+5 0 0
+#4802
+Ravaged Leg~
+ravaged Leg~
+It looks like it was ripped right from the socket!~
+~
+13 16|128 1|16384
+0 0 0 0 
+5 0 0
+#4803
+Bony Hand~
+bony Hand~
+A hand grasps a shovel like it would have saved the owners life~
+~
+15 0 1
+20 1 -1 11 
+2000 0 0
+#4804
+Skull~
+skull~
+A skull lies here grinning evilly at you~
+~
+13 16|512 1
+0 1 6 11 
+5 0 0
+#4805
+King~
+king~
+The king sits here upon his throne~
+~
+23 32 0
+0 1 6 11 
+5 0 0
+E
+King~
+The king sits upon his throne, staring at you with a stoney gaze.  He eventually asks, "What do you want here?  All we have to offer is our curse, and your death."  He does not seem to be challenging you, more that he is just stating facts.~
+#4806
+Queen~
+queen~
+The queen pierces you with her icy glare~
+~
+23 32 0
+0 1 6 11 
+5 0 0
+E
+Queen~
+The queen sits upon her throne and stares down at you the way you might stare at a nicely cooked steak.  You are starting to feel VERY uncomfortable in her presence.  Some how, it feels more like she is picking you apart with her eyes...seeing every weakness, every fear..~
+#4807
+Table~
+table~
+A long table runs the length of the room~
+~
+12 0 0
+0 1 6 11 
+1000 0 0
+#4808
+Prybar~
+prybar~
+A prybar lies discarded here.~
+~
+18 1|64 1|16384
+0 0 0 0 
+5 0 0
+#4809
+Crypt Unsung Hero~
+crypt~
+A long sealed crypt dominates the room.~
+~
+15 1|32|64 0
+0 15 4808 11 
+4899 0 0
+E
+crypt unsung hero~
+You look around the crypt and notice the worn inscription inlaid on the top.  You brush away the debris, and try to clean the inscription as best you can.  It reads, "Here lies the Unsung Hero, who gave his life to save ours".  You notice a small inscription at the bottom of the crypt that is abrely perceivable that reads "too bad it was a waste".~
+#4810
+Executioner's Block~
+executioner's Block~
+A short, bloody block sits here waiting for its next victim~
+~
+12 0 0
+0 0 0 0 
+5 0 0
+E
+executioner's block~
+As you examine the gore on the block, you notice a trench leading the blood away to a hole in the ground next to the block.~
+#4811
+basic sword~
+a basic sword~
+A sword rests here.~
+~
+5 0 1|8192
+0 1 2 1 
+5 0 0
+#4812
+simple spear~
+a sword~
+A sword rests here.~
+~
+5 0 1|8192
+0 1 6 2 
+5 0 0
+#0
+
+
+#ROOMS
+#4800
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D0
+~
+~
+0 -1 4831
+D1
+~
+~
+0 -1 4801
+S
+#4801
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D0
+~
+~
+0 -1 4832
+D1
+~
+~
+0 -1 4802
+D3
+~
+~
+0 -1 4800
+S
+#4802
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D0
+~
+~
+0 -1 4842
+D1
+~
+~
+0 -1 4803
+D3
+~
+~
+0 -1 4801
+S
+#4803
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D0
+~
+~
+0 -1 4843
+D1
+~
+~
+0 -1 4804
+D3
+~
+~
+0 -1 4802
+S
+#4804
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D0
+~
+~
+0 -1 4844
+D1
+~
+~
+0 -1 4805
+D3
+~
+~
+0 -1 4803
+S
+#4805
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D0
+~
+~
+0 -1 4806
+D3
+~
+~
+0 -1 4804
+S
+#4806
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D0
+~
+~
+0 -1 4850
+D1
+~
+~
+0 -1 4807
+D2
+~
+~
+0 -1 4805
+D3
+~
+~
+0 -1 4844
+S
+#4807
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D0
+~
+~
+0 -1 4808
+D3
+~
+~
+0 -1 4806
+S
+#4808
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D0
+~
+~
+0 -1 4809
+D2
+~
+~
+0 -1 4807
+D3
+~
+~
+0 -1 4850
+S
+#4809
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D0
+~
+~
+0 -1 4810
+D2
+~
+~
+0 -1 4808
+D3
+~
+~
+0 -1 4853
+S
+#4810
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D0
+~
+~
+0 -1 4811
+D2
+~
+~
+0 -1 4809
+D3
+~
+~
+0 -1 4857
+S
+#4811
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D0
+~
+~
+0 -1 4812
+D2
+~
+~
+0 -1 4810
+D3
+~
+~
+0 -1 4861
+S
+#4812
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D2
+~
+~
+0 -1 4811
+D3
+~
+~
+0 -1 4813
+S
+#4813
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D0
+~
+~
+0 -1 4814
+D1
+~
+~
+0 -1 4812
+D2
+~
+~
+0 -1 4861
+D3
+~
+~
+0 -1 4866
+S
+#4814
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D2
+~
+~
+0 -1 4813
+D3
+~
+~
+0 -1 4815
+S
+#4815
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D0
+~
+~
+0 -1 4816
+D1
+~
+~
+0 -1 4814
+D2
+~
+~
+0 -1 4866
+D3
+~
+~
+0 -1 4868
+S
+#4816
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D2
+~
+~
+0 -1 4815
+D3
+~
+~
+0 -1 4817
+S
+#4817
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D1
+~
+~
+0 -1 4816
+D2
+~
+~
+0 -1 4868
+D3
+~
+~
+0 -1 4818
+S
+#4818
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D1
+~
+~
+0 -1 4817
+D2
+~
+~
+0 -1 4867
+D3
+~
+~
+0 -1 4819
+S
+#4819
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D1
+~
+~
+0 -1 4818
+D2
+~
+~
+0 -1 4820
+S
+#4820
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D0
+~
+~
+0 -1 4819
+D1
+~
+~
+0 -1 4867
+D2
+~
+~
+0 -1 4863
+D3
+~
+~
+0 -1 4821
+S
+#4821
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D1
+~
+~
+0 -1 4820
+D2
+~
+~
+0 -1 4862
+D3
+~
+~
+0 -1 4822
+S
+#4822
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D1
+~
+~
+0 -1 4821
+D2
+~
+~
+0 -1 4823
+S
+#4823
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D0
+~
+~
+0 -1 4822
+D1
+~
+~
+0 -1 4862
+D2
+~
+~
+0 -1 4858
+D3
+~
+~
+0 -1 4824
+S
+#4824
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D1
+~
+~
+0 -1 4823
+D2
+~
+~
+0 -1 4825
+S
+#4825
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D0
+~
+~
+0 -1 4824
+D1
+~
+~
+0 -1 4858
+D2
+~
+~
+0 -1 4826
+S
+#4826
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D0
+~
+~
+0 -1 4825
+D1
+~
+~
+0 -1 4854
+D2
+~
+~
+0 -1 4827
+S
+#4827
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D0
+~
+~
+0 -1 4826
+D1
+~
+~
+0 -1 4828
+S
+#4828
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D0
+~
+~
+0 -1 4854
+D1
+~
+~
+0 -1 4851
+D2
+~
+~
+0 -1 4829
+D3
+~
+~
+0 -1 4827
+S
+#4829
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D0
+~
+~
+0 -1 4828
+D1
+~
+~
+0 -1 4845
+D2
+~
+~
+0 -1 4830
+S
+#4830
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 10
+D0
+~
+~
+0 -1 4829
+D1
+~
+~
+0 -1 4831
+S
+#4831
+Shores of the Isle of Dispair~
+You are standing on the shore of the Isle of Dispair.  Inland you see many palm trees and shrubs.  Actually, it seems to be a beautiful island.  You think it would be a beautiful place to live and watch sunsets...if it werent for those pesky undead!!
+~
+0 0 1
+D0
+~
+~
+0 -1 4845
+D1
+~
+~
+0 -1 4832
+D2
+~
+~
+0 -1 4800
+D3
+~
+~
+0 -1 4830
+S
+#4832
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4846
+D1
+~
+~
+0 -1 4842
+D2
+~
+~
+0 -1 4801
+D3
+~
+~
+0 -1 4831
+S
+#4833
+Formation of Palms~
+You are standing next to several twisted palm trees.  You think that a hurricane must have come through to make them lean toward the center of the island like that, but somehow it doesnt look natural.  For some strange reason these trees look like a warning..as if you NEED any more warning signs..
+~
+0 4 4
+D0
+~
+~
+0 -1 4841
+D1
+~
+~
+0 -1 4835
+D2
+~
+~
+0 -1 4846
+D3
+~
+~
+0 -1 4851
+S
+#4834
+Circle of Trees~
+You have breached the circle of trees to get to the very center of the island.  Things do NOT look normal here.  Overhead you see dark thunderclouds swirling over this spot.
+~
+0 4 3
+D0
+~
+~
+0 -1 4839
+D1
+~
+~
+0 -1 4837
+D2
+~
+~
+0 -1 4835
+D3
+~
+~
+0 -1 4841
+D5
+~
+hole~
+2 4801 4869
+S
+#4835
+Formation of Palms~
+You are standing next to several twisted palm trees.  You think that a hurricane must have come through to make them lean toward the center of the island like that, but somehow it doesnt look natural.  For some strange reason these trees look like a warning..as if you NEED any more warning signs..
+~
+0 4 4
+D0
+~
+~
+0 -1 4834
+D1
+~
+~
+0 -1 4836
+D2
+~
+~
+0 -1 4847
+D3
+~
+~
+0 -1 4833
+S
+#4836
+Formation of Palms~
+You are standing next to several twisted palm trees.  You think that a hurricane must have come through to make them lean toward the center of the island like that, but somehow it doesnt look natural.  For some strange reason these trees look like a warning..as if you NEED any more warning signs..
+~
+0 4 4
+D0
+~
+~
+0 -1 4837
+D1
+~
+~
+0 -1 4852
+D2
+~
+~
+0 -1 4848
+D3
+~
+~
+0 -1 4835
+S
+#4837
+Formation of Palms~
+You are standing next to several twisted palm trees.  You think that a hurricane must have come through to make them lean toward the center of the island like that, but somehow it doesnt look natural.  For some strange reason these trees look like a warning..as if you NEED any more warning signs..
+~
+0 4 4
+D0
+~
+~
+0 -1 4838
+D1
+~
+~
+0 -1 4856
+D2
+~
+~
+0 -1 4836
+D3
+~
+~
+0 -1 4834
+S
+#4838
+Formation of Palms~
+You are standing next to several twisted palm trees.  You think that a hurricane must have come through to make them lean toward the center of the island like that, but somehow it doesnt look natural.  For some strange reason these trees look like a warning..as if you NEED any more warning signs..
+~
+0 4 4
+D0
+~
+~
+0 -1 4865
+D1
+~
+~
+0 -1 4860
+D2
+~
+~
+0 -1 4837
+D3
+~
+~
+0 -1 4839
+S
+#4839
+Formation of Palms~
+You are standing next to several twisted palm trees.  You think that a hurricane must have come through to make them lean toward the center of the island like that, but somehow it doesnt look natural.  For some strange reason these trees look like a warning..as if you NEED any more warning signs..
+~
+0 4 4
+D0
+~
+~
+0 -1 4864
+D1
+~
+~
+0 -1 4838
+D2
+~
+~
+0 -1 4834
+D3
+~
+~
+0 -1 4840
+S
+#4840
+Formation of Palms~
+You are standing next to several twisted palm trees.  You think that a hurricane must have come through to make them lean toward the center of the island like that, but somehow it doesnt look natural.  For some strange reason these trees look like a warning..as if you NEED any more warning signs..
+~
+0 4 4
+D0
+~
+~
+0 -1 4863
+D1
+~
+~
+0 -1 4839
+D2
+~
+~
+0 -1 4841
+D3
+~
+~
+0 -1 4859
+S
+#4841
+Formation of Palms~
+You are standing next to several twisted palm trees.  You think that a hurricane must have come through to make them lean toward the center of the island like that, but somehow it doesnt look natural.  For some strange reason these trees look like a warning..as if you NEED any more warning signs..
+~
+0 4 4
+D0
+~
+~
+0 -1 4840
+D1
+~
+~
+0 -1 4834
+D2
+~
+~
+0 -1 4833
+D3
+~
+~
+0 -1 4855
+S
+#4842
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4847
+D1
+~
+~
+0 -1 4843
+D2
+~
+~
+0 -1 4802
+D3
+~
+~
+0 -1 4832
+D4
+~
+~
+0 -1 4881
+S
+#4843
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4848
+D1
+~
+~
+0 -1 4844
+D2
+~
+~
+0 -1 4803
+D3
+~
+~
+0 -1 4842
+S
+#4844
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4849
+D1
+~
+~
+0 -1 4806
+D2
+~
+~
+0 -1 4804
+D3
+~
+~
+0 -1 4843
+S
+#4845
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4851
+D1
+~
+~
+0 -1 4846
+D2
+~
+~
+0 -1 4831
+D3
+~
+~
+0 -1 4829
+S
+#4846
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4833
+D1
+~
+~
+0 -1 4847
+D2
+~
+~
+0 -1 4832
+D3
+~
+~
+0 -1 4845
+S
+#4847
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4835
+D1
+~
+~
+0 -1 4848
+D2
+~
+~
+0 -1 4842
+D3
+~
+~
+0 -1 4846
+S
+#4848
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4836
+D1
+~
+~
+0 -1 4849
+D2
+~
+~
+0 -1 4843
+D3
+~
+~
+0 -1 4847
+S
+#4849
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4852
+D1
+~
+~
+0 -1 4850
+D2
+~
+~
+0 -1 4844
+D3
+~
+~
+0 -1 4848
+S
+#4850
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4853
+D1
+~
+~
+0 -1 4808
+D2
+~
+~
+0 -1 4806
+D3
+~
+~
+0 -1 4849
+S
+#4851
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4855
+D1
+~
+~
+0 -1 4833
+D2
+~
+~
+0 -1 4845
+D3
+~
+~
+0 -1 4828
+S
+#4852
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4856
+D1
+~
+~
+0 -1 4853
+D2
+~
+~
+0 -1 4849
+D3
+~
+~
+0 -1 4836
+S
+#4853
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4857
+D1
+~
+~
+0 -1 4809
+D2
+~
+~
+0 -1 4850
+D3
+~
+~
+0 -1 4852
+S
+#4854
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4858
+D1
+~
+~
+0 -1 4855
+D2
+~
+~
+0 -1 4828
+D3
+~
+~
+0 -1 4826
+S
+#4855
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4859
+D1
+~
+~
+0 -1 4841
+D2
+~
+~
+0 -1 4851
+D3
+~
+~
+0 -1 4854
+S
+#4856
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4860
+D1
+~
+~
+0 -1 4857
+D2
+~
+~
+0 -1 4852
+D3
+~
+~
+0 -1 4837
+S
+#4857
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4861
+D1
+~
+~
+0 -1 4810
+D2
+~
+~
+0 -1 4853
+D3
+~
+~
+0 -1 4856
+S
+#4858
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4823
+D1
+~
+~
+0 -1 4859
+D2
+~
+~
+0 -1 4854
+D3
+~
+~
+0 -1 4825
+S
+#4859
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4862
+D1
+~
+~
+0 -1 4840
+D2
+~
+~
+0 -1 4855
+D3
+~
+~
+0 -1 4858
+S
+#4860
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4866
+D1
+~
+~
+0 -1 4861
+D2
+~
+~
+0 -1 4856
+D3
+~
+~
+0 -1 4838
+S
+#4861
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4813
+D1
+~
+~
+0 -1 4811
+D2
+~
+~
+0 -1 4857
+D3
+~
+~
+0 -1 4860
+S
+#4862
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4821
+D1
+~
+~
+0 -1 4863
+D2
+~
+~
+0 -1 4859
+D3
+~
+~
+0 -1 4823
+S
+#4863
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4820
+D1
+~
+~
+0 -1 4864
+D2
+~
+~
+0 -1 4840
+D3
+~
+~
+0 -1 4862
+S
+#4864
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4867
+D1
+~
+~
+0 -1 4865
+D2
+~
+~
+0 -1 4839
+D3
+~
+~
+0 -1 4863
+S
+#4865
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4868
+D1
+~
+~
+0 -1 4866
+D2
+~
+~
+0 -1 4838
+D3
+~
+~
+0 -1 4864
+S
+#4866
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4815
+D1
+~
+~
+0 -1 4813
+D2
+~
+~
+0 -1 4860
+D3
+~
+~
+0 -1 4865
+S
+#4867
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4818
+D1
+~
+~
+0 -1 4868
+D2
+~
+~
+0 -1 4864
+D3
+~
+~
+0 -1 4820
+S
+#4868
+In the Brush~
+All around you is miles of sand, seaweed, and bushes.  Closer to the center of the island are some palm trees in a strange formation..almost like a pyramid.  A tropical breeze blows in and feels great against your face...unfortunately the smell of rotting flesh comes wafting up at you with the breeze.  Is this paradise or hell?  Right now you are leaning toward the latter..
+~
+0 4 4
+D0
+~
+~
+0 -1 4817
+D1
+~
+~
+0 -1 4815
+D2
+~
+~
+0 -1 4865
+D3
+~
+~
+0 -1 4867
+S
+#4869
+In a hole~
+This place gets stranger and stranger..
+Right now you are standing in a hole that YOU dug, but there is ANOTHER hole just below you!  A freezing wind drifts up from the hole...but it isnt what makes this room feel so cold...
+~
+0 1|4|8192 0
+D4
+~
+~
+2 -1 4834
+D5
+~
+~
+0 -1 4870
+S
+#4870
+Further down~
+The further you go, the colder it gets.  As you reach the bottom of the hole you see a rough set of stairs cut from the stone itself.  Where could they lead to?  Who made them?
+~
+0 1|4|8192 1
+D4
+~
+~
+0 -1 4869
+D5
+~
+~
+0 -1 4871
+S
+#4871
+More stairs~
+Wow! you have come a looong way down!  What is this place?  Further down, you see marble stairs leading down to a floor below...wait a minute! A FLOOR!!
+~
+0 1|4|8192 1
+D4
+~
+~
+0 -1 4870
+D5
+~
+~
+0 -1 4872
+S
+#4872
+On the Stairs~
+One day soon you may be at the bottom!  Sure do wish you had brought a coat of some sort..it is REAL cold down here!  One last flight of stairs and you will be at the bottom!
+~
+0 1|4|8192 1
+D4
+~
+~
+0 -1 4871
+D5
+~
+~
+0 -1 4873
+S
+#4873
+Before the Portcullis~
+You finally reach the bottom of the stairs only to be confronted by ANOTHER mystery...the portcullis standing in front of you.  How and why would someone want to build a gate down here??  It looks very old and sad.  You can imagine that the gate was once a soul screaming from misery...
+~
+0 0 1
+D0
+~
+gate portcullis~
+1 -1 4874
+D4
+~
+~
+0 -1 4872
+S
+#4874
+Before the Castle~
+You feel like the earth opened and swallowed the castle before you.  It seems you are standing in a bubble of some kind under the surface of the ground.  The thing is, there is an entire castle standing in this bubble!  The castle looks almost as sad as the gate..  It was probably once magnificent, but now it is crumbling in decay.  The towers jut up toward the ceiling like a pair of tusks, the front doors look as though they havent been opened in centuries..
+  &RThere is a SIGN saying: &YUNDER CONSTRUCTION!&x
+~
+0 0 1
+D0
+~
+~
+0 -1 4885
+D1
+~
+~
+0 -1 4883
+D2
+~
+~
+1 -1 4873
+S
+#4875
+Isle Mob Room~
+Skeletons and Zombies
+~
+0 4 1
+D0
+~
+~
+0 -1 4801
+D1
+~
+~
+0 -1 4851
+D2
+~
+~
+0 -1 4842
+D3
+~
+~
+0 -1 4829
+D4
+~
+~
+0 -1 4846
+D5
+~
+~
+0 -1 4831
+S
+#4876
+Isle Mob Room~
+Skeletons and Zombies
+~
+0 4 1
+D0
+~
+~
+0 -1 4850
+D1
+~
+~
+0 -1 4848
+D2
+~
+~
+0 -1 4805
+D3
+~
+~
+0 -1 4844
+D4
+~
+~
+0 -1 4807
+D5
+~
+~
+0 -1 4803
+S
+#4877
+Isle Mob Room~
+Skeletons and Zombies
+~
+0 4 1
+D0
+~
+~
+0 -1 4837
+D1
+~
+~
+0 -1 4841
+D2
+~
+~
+0 -1 4852
+D3
+~
+~
+0 -1 4809
+D4
+~
+~
+0 -1 4857
+D5
+~
+~
+0 -1 4835
+S
+#4878
+Isle Mob Room~
+Skeletons and Zombies
+~
+0 4 1
+D0
+~
+~
+0 -1 4811
+D1
+~
+~
+0 -1 4860
+D2
+~
+~
+0 -1 4825
+D3
+~
+~
+0 -1 4859
+D4
+~
+~
+0 -1 4839
+D5
+~
+~
+0 -1 4854
+S
+#4879
+Isle Mob Room~
+Skeletons and Zombies
+~
+0 4 1
+D0
+~
+~
+0 -1 4819
+D1
+~
+~
+0 -1 4821
+D2
+~
+~
+0 -1 4865
+D3
+~
+~
+0 -1 4814
+D4
+~
+~
+0 -1 4816
+D5
+~
+~
+0 -1 4863
+S
+#4880
+Isle Mob Room~
+Skeletons and Zombies
+~
+0 4 1
+D2
+~
+~
+0 -1 4825
+D3
+~
+~
+0 -1 4827
+D5
+~
+~
+0 -1 4823
+S
+#4881
+Entrance~
+You are standing in room #4881.
+~
+0 0 1
+D5
+~
+~
+0 -1 4842
+S
+#4882
+Grand Hallway~
+Along this hallway are various portraits of what look like very regal and elegant men and women.  The paintings are hung so that the marble columns act as seperators between them.  You notice the floor is solid marble as well.  Everything around you looks beautiful, but for some reason the cold chill is still with you, and now the hair on the back of your neck is standing on end as well...
+~
+0 4|8 0
+D0
+~
+~
+0 -1 4890
+D1
+~
+~
+1 -1 4921
+D2
+~
+~
+0 -1 4887
+D3
+~
+~
+0 -1 4888
+S
+#4883
+Before the Castle~
+You feel like the earth opened and swallowed the castle before you.  It seems you are standing in a bubble of some kind under the surface of the ground.  The thing is, there is an entire castle standing in this bubble!  The castle looks almost as sad as the gate..  It was probably once magnificent, but now it is crumbling in decay.  The towers jut up toward the ceiling like a pair of tusks, the front doors look as though they havent been opened in centuries..
+~
+0 0 1
+D0
+~
+~
+0 -1 4884
+D3
+~
+~
+0 -1 4874
+S
+#4884
+At the Front Gates~
+You stand before two monsterous doors in front of the castle.  These doors look like they would protect the inhabitants of this decrepid castle very well, and based on the battle scars, they probably have.  They also look very heavy, and you dont think you could move them if you had to...luckily they are slightly ajar, and you believe you can slip through them.
+~
+0 4 1
+D0
+~
+~
+1 -1 4887
+D2
+~
+~
+0 -1 4883
+D3
+~
+~
+0 -1 4885
+S
+#4885
+At the Front Gates~
+You stand before two monsterous doors in front of the castle.  These doors look like they would protect the inhabitants of this decrepid castle very well, and based on the battle scars, they probably have.  They also look very heavy, and you dont think you could move them if you had to...luckily they are slightly ajar, and you believe you can slip through them.
+~
+0 4 1
+D0
+~
+~
+1 -1 4886
+D1
+~
+~
+0 -1 4884
+D2
+~
+~
+0 -1 4874
+S
+#4886
+Foyer of Castle Gilgamas~
+You are standing in the foyer of the castle.  There are beautiful marble columns lining each side of the room.  You expected to be entering a ruin, but instead the interior of this decrepid old castle is beautiful...and clean.  Could someone be living down here?
+~
+0 8 0
+D0
+~
+~
+0 -1 4888
+D1
+~
+~
+0 -1 4887
+D2
+~
+~
+1 -1 4885
+S
+#4887
+Foyer of Castle Gilgamas~
+You are standing in the foyer of the castle.  There are beautiful marble columns lining each side of the room.  You expected to be entering a ruin, but instead the interior of this decrepid old castle is beautiful...and clean.  Could someone be living down here?
+~
+0 8 0
+D0
+~
+~
+0 -1 4882
+D2
+~
+~
+1 -1 4884
+D3
+~
+~
+0 -1 4886
+S
+#4888
+Grand Hallway~
+Along this hallway are various portraits of what look like very regal and elegant men and women.  The paintings are hung so that the marble columns act as seperators between them.  You notice the floor is solid marble as well.  Everything around you looks beautiful, but for some reason the cold chill is still with you, and now the hair on the back of your neck is standing on end as well...
+~
+0 8 0
+D0
+~
+~
+0 -1 4889
+D1
+~
+~
+0 -1 4882
+D2
+~
+~
+0 -1 4886
+D3
+~
+~
+1 -1 4891
+S
+#4889
+Throne of the King~
+The King of the castle sits here in deep thought.  He is very pale, and very handsome.  He finally notices you, but says nothing.  His eyes pierce you, but you see fear and something else there as well...could it be longing?
+~
+0 8 0
+D1
+~
+~
+0 -1 4890
+D2
+~
+~
+0 -1 4888
+S
+#4890
+Throne of the Queen~
+Here sits the queen.  She is very beautiful, but looks like ice.  She is very pale, with pale blue eyes and a coldness in her manner.  You are almost afraid to touch her because of the fear of her coldness engulfing you and freezing your soul.
+~
+0 8 0
+D2
+~
+~
+0 -1 4882
+D3
+~
+~
+0 -1 4889
+S
+#4891
+West Wing of Gilgamas~
+The beautiful setting continues throughout the castle.  You can smell food being prepared.  It smells wonderful and you are starting to get very hungry.
+~
+0 8 0
+D0
+~
+~
+0 -1 4892
+D1
+~
+~
+1 -1 4888
+D2
+~
+~
+0 -1 4896
+D3
+~
+~
+0 -1 4894
+S
+#4892
+Next to the Kitchen~
+The beautiful setting continues throughout the castle.  The smell of food is even stronger.  Your mouth is watering at the notion of whatever meal is being prepared.  You have never smelled anything quite so exotic and delicious.
+~
+0 8 0
+D0
+~
+~
+1 -1 4907
+D2
+~
+~
+0 -1 4891
+D3
+~
+~
+0 -1 4893
+S
+#4893
+West Wing of Gilgamas~
+The beautiful setting continues throughout the castle.  You can smell food being prepared.  It smells wonderful and you are starting to get very hungry.
+~
+0 8 0
+D1
+~
+~
+0 -1 4892
+D2
+~
+~
+0 -1 4894
+S
+#4894
+Bottom of the Stairs~
+There is a red carpet flowing down a very ornate spiral staircase.  You notice that the handrail is carved with scenes of beauty, such as the garden of eden, bouquets of flowers, and men and women making love.  The baristers on the other hand show scenes of extreme evil, like murder, rape, and betrayal.
+~
+0 8 0
+D0
+~
+~
+0 -1 4893
+D1
+~
+~
+0 -1 4891
+D2
+~
+~
+0 -1 4895
+D4
+~
+~
+0 -1 4897
+S
+#4895
+Royal Dining Area~
+There is a very elegant table here, stocked with a wonderful smelling merlot, a full roasted pig, tossed greens, and the most succulent custard you could imagine.  Your stomach rumbles and your mouth waters just looking at it.  You want to steal a piece off of the table, but you already know the consequences if you are caught and think better of it..
+~
+0 8 0
+D0
+~
+~
+0 -1 4894
+D1
+~
+~
+0 -1 4896
+S
+#4896
+Mess Hall of Gilgamas~
+This looks like the main dining room for the castle.  Many of the tables have long benches for large groups of people to sit and eat.  You also notice that the tables are already set and waiting for people to sit down and eat..
+~
+0 8 0
+D0
+~
+~
+0 -1 4891
+D3
+~
+~
+0 -1 4895
+S
+#4897
+Kings Chambers~
+This room is incredibly luxurious.  A huge bed occupies the northern part of this room while there are doors to the south.  The entire room is painted blood red, and trimmed in gold.  There are fine tapestries hung on the west wall, although the subject material is rather disturbing.  The rugs on the floor here depict a great slaughter by a faceless mass with red glowing eyes..
+~
+0 8 0
+D0
+~
+~
+0 -1 4899
+D1
+~
+~
+0 -1 4901
+D2
+~
+~
+1 -1 4898
+D4
+~
+~
+0 -1 4903
+D5
+~
+~
+0 -1 4894
+S
+#4898
+Kings Bathroom~
+As you examine the room, you notice a large tub, and a firepit close to it.  You wonder why there is a firepit in a bathroom, but quickly realize that the hot coals from the fire are used to heat water.  Looks like the king likes hot baths...
+~
+0 8 0
+D0
+~
+~
+1 -1 4897
+S
+#4899
+Kings Chambers~
+This room is incredibly luxurious.  A huge bed seems to be calling you from the east..it looks so comfortable and relaxing..  Now that you can see the bed in detail, you notice two abnormalities about it.  First, there are chains coming from the posts.  Second, there is a small, movable trench attached to the headboard.  The entire room is painted blood red, and trimmed in gold.  There are fine tapestries hung on the west wall, although the subject material is rather disturbing.  The rugs on the floor here depict a great slaughter by a faceless mass with red glowing eyes..
+~
+0 8 0
+D1
+~
+~
+0 -1 4900
+D2
+~
+~
+0 -1 4897
+S
+#4900
+On the Bed~
+Ohhhhhh!  This bed is SOOOOO comfortable!  You arent sure you could EVER get back up from this bed.  It feels like you are laying on feathers, or clouds.  You can just imagine falling asleep here and never waking up..
+~
+0 8 0
+D2
+~
+~
+0 -1 4901
+D3
+~
+~
+0 -1 4899
+S
+#4901
+Kings Chambers~
+This room is incredibly luxurious.  A huge bed occupies the northern part of this room while there are doors to the south.  The entire room is painted blood red, and trimmed in gold.  There are fine tapestries hung on the west wall, although the subject material is rather disturbing.  The rugs on the floor here depict a great slaughter by a faceless mass with red glowing eyes..
+~
+0 8 0
+D0
+~
+~
+0 -1 4900
+D2
+~
+~
+2 -1 4902
+D3
+~
+~
+0 -1 4897
+S
+#4902
+Kings Closet~
+Now what are these whips and paddles doing in here?  Shouldn't they be in the main weapons storage?  Hmmmm...wonder what they could be used for in here!
+~
+0 8 0
+D0
+~
+~
+2 -1 4901
+S
+#4903
+King's Parapet~
+You are standing in the tower above the king's rooms.  There would be a wonderful view of the northwestern portion of the kingdom..if there was a kingdom to look at.  Being inside this hole only leaves a view of rock and mud..
+~
+0 0 1
+D1
+~
+~
+0 -1 4904
+D2
+~
+~
+0 -1 4906
+D5
+~
+~
+0 -1 4897
+S
+#4904
+King's Parapet~
+You are standing in the tower above the king's rooms.  There would be a wonderful view of the northeastern portion of the kingdom..if there was a kingdom to look at.  Being inside this hole only leaves a view of rock and mud..
+~
+0 0 1
+D2
+~
+~
+0 -1 4905
+D3
+~
+~
+0 -1 4903
+S
+#4905
+King's Parapet~
+You are standing in the tower above the king's rooms.  There would be a wonderful view of the southeastern portion of the kingdom..if there was a kingdom to look at.  Being inside this hole only leaves a view of rock and mud..
+~
+0 0 1
+D0
+~
+~
+0 -1 4904
+D3
+~
+~
+0 -1 4906
+S
+#4906
+King's Parapet~
+You are standing in the tower above the king's rooms.  There would be a wonderful view of the southwestern portion of the kingdom..if there was a kingdom to look at.  Being inside this hole only leaves a view of rock and mud..
+~
+0 0 1
+D0
+~
+~
+0 -1 4903
+D1
+~
+~
+0 -1 4905
+S
+#4907
+Kitchen Area~
+You are standing in room #4907.
+~
+0 0 1
+D1
+~
+~
+0 -1 4909
+D2
+~
+~
+1 -1 4892
+D3
+~
+~
+0 -1 4908
+S
+#4908
+Kitchen Area~
+You are standing in room #4908.
+~
+0 0 1
+D0
+~
+~
+1 -1 4910
+D1
+~
+~
+0 -1 4907
+S
+#4909
+Kitchen Area~
+You are standing in room #4909.
+~
+0 0 1
+D3
+~
+~
+0 -1 4907
+S
+#4910
+Barracks~
+You are standing in room #4910.
+~
+0 0 1
+D1
+~
+~
+0 -1 4911
+D2
+~
+~
+1 -1 4908
+S
+#4911
+Barracks~
+You are standing in room #4911.
+~
+0 0 1
+D1
+~
+~
+0 -1 4912
+D3
+~
+~
+0 -1 4910
+S
+#4912
+Barracks~
+You are standing in room #4912.
+~
+0 0 1
+D1
+~
+~
+0 -1 4913
+D3
+~
+~
+0 -1 4911
+S
+#4913
+Barracks~
+You are standing in room #4913.
+~
+0 0 1
+D1
+~
+~
+0 -1 4914
+D3
+~
+~
+0 -1 4912
+S
+#4914
+Barracks~
+You are standing in room #4914.
+~
+0 0 1
+D1
+~
+~
+0 -1 4915
+D3
+~
+~
+0 -1 4913
+S
+#4915
+Barracks~
+You are standing in room #4915.
+~
+0 0 1
+D2
+~
+~
+1 -1 4916
+D3
+~
+~
+0 -1 4914
+S
+#4916
+Man-at-arms room~
+You are standing in room #4916.
+~
+0 0 1
+D0
+~
+~
+1 -1 4915
+D2
+~
+~
+1 -1 4919
+D3
+~
+~
+0 -1 4917
+S
+#4917
+Man-at-arms room~
+You are standing in room #4917.
+~
+0 0 1
+D1
+~
+~
+0 -1 4916
+D3
+~
+~
+0 -1 4918
+S
+#4918
+Man-at-arms room~
+You are standing in room #4918.
+~
+0 0 1
+D1
+~
+~
+0 -1 4917
+S
+#4919
+East Wing of Gilamas~
+You are standing in room #4919.
+~
+0 0 1
+D0
+~
+~
+1 -1 4916
+D2
+~
+~
+0 -1 4922
+D3
+~
+~
+0 -1 4920
+S
+#4920
+East Wing of Gilamas~
+You are standing in room #4920.
+~
+0 0 1
+D1
+~
+~
+0 -1 4919
+D2
+~
+~
+0 -1 4921
+S
+#4921
+East Wing of Gilamas~
+You are standing in room #4921.
+~
+0 0 1
+D0
+~
+~
+0 -1 4920
+D1
+~
+~
+0 -1 4922
+D2
+~
+~
+0 -1 4924
+D3
+~
+~
+1 -1 4882
+S
+#4922
+East Wing of Gilamas~
+You are standing in room #4922.
+~
+0 0 1
+D0
+~
+~
+0 -1 4919
+D2
+~
+~
+0 -1 4923
+D3
+~
+~
+0 -1 4921
+D4
+~
+~
+0 -1 4925
+S
+#4923
+East Wing of Gilamas~
+You are standing in room #4923.
+~
+0 0 1
+D0
+~
+~
+0 -1 4922
+D3
+~
+~
+0 -1 4924
+S
+#4924
+East Wing of Gilamas~
+You are standing in room #4924.
+~
+0 0 1
+D0
+~
+~
+0 -1 4921
+D1
+~
+~
+0 -1 4923
+S
+#4925
+Queen's Chambers~
+You are standing in room #4925.
+~
+0 0 1
+D0
+~
+~
+0 -1 4926
+D1
+~
+~
+0 -1 4928
+D5
+~
+~
+0 -1 4922
+S
+#4926
+Queen's Chambers~
+You are standing in room #4926.
+~
+0 0 1
+D1
+~
+~
+0 -1 4927
+D2
+~
+~
+0 -1 4925
+S
+#4927
+Queen's Chambers~
+You are standing in room #4927.
+~
+0 0 1
+D2
+~
+~
+0 -1 4928
+D3
+~
+~
+0 -1 4926
+S
+#4928
+Queen's Chambers~
+You are standing in room #4928.
+~
+0 0 1
+D0
+~
+~
+0 -1 4927
+D2
+~
+~
+0 -1 4930
+D3
+~
+~
+0 -1 4925
+S
+#4929
+Queen's Chambers~
+You are standing in room #4929.
+~
+0 0 1
+D1
+~
+~
+0 -1 14928
+S
+#4930
+Queen's Closet~
+You are standing in room #4930.
+~
+0 0 1
+D0
+~
+~
+0 -1 4928
+D3
+~
+~
+0 -1 4931
+S
+#4931
+Queen's Closet~
+You are standing in room #4931.
+~
+0 0 1
+D1
+~
+~
+0 -1 4930
+S
+#4932
+mob cannon~
+Mob cannon.
+~
+0 0 1
+D0 ~~0 -1 4838
+D1 ~~0 -1 4833
+D2 ~~0 -1 4841
+D3 ~~0 -1 4865
+D4 ~~0 -1 4852
+S
+#0
+
+
+#RESETS
+O 1 4803 1 4834			; body hand
+P 1 4801 1 4803                 ; shovel to hand
+D 1 4869 4 1			; In a hole Close Up
+D 1 4834 5 2			; Circle of Trees Lock Down
+D 1 4873 0 1			; Before the Portcullis Close North
+D 1 4885 0 0			; At the Front Gates Open North
+D 1 4885 0 0			; At the Front Gates Open North
+D 1 4887 2 0			; Foyer of Castle Gilgamas Open South
+D 1 4891 1 1			; West Wing of Gilgamas Close East
+D 1 4888 3 1			; Grand Hallway Close West
+D 1 4898 0 1			; Kings Bathroom Close North
+D 1 4897 2 1			; Kings Chambers Close South
+D 1 4907 2 2			; Kitchen Area Lock South
+D 1 4892 0 2			; Next to the Kitchen Lock North
+D 1 4910 2 2			; Barracks Lock South
+D 1 4908 0 2			; Kitchen Area Lock North
+D 1 4916 0 2			; Man-at-arms room Lock North
+D 1 4919 0 2			; East Wing of Gilamas Lock North
+D 1 4916 2 2			; Man-at-arms room Lock South
+D 1 4882 1 1			; Grand Hallway Close East
+*
+****
+M 5 4800 254 4932			Zombie to Isle Mob Room
+M 5 4801 254 4932			Skeleton to Isle Mob Room
+M 5 4800 254 4932			Zombie to Isle Mob Room
+M 5 4801 254 4932			Skeleton to Isle Mob Room
+M 5 4800 254 4932			Zombie to Isle Mob Room
+M 5 4801 254 4932			Skeleton to Isle Mob Room
+****
+M 5 4800 254 4875			Zombie to Isle Mob Room
+*
+M 5 4801 254 4875			Skeleton to Isle Mob Room
+*
+M 5 4800 254 4876			Zombie to Isle Mob Room
+*
+M 5 4801 254 4876			Skeleton to Isle Mob Room
+*
+M 5 4800 254 4877			Zombie to Isle Mob Room
+*
+M 5 4801 254 4877			Skeleton to Isle Mob Room
+*
+M 5 4800 254 4878			Zombie to Isle Mob Room
+*
+M 5 4801 254 4878			Skeleton to Isle Mob Room
+*
+M 5 4800 254 4879			Zombie to Isle Mob Room
+*
+M 5 4801 254 4879			Skeleton to Isle Mob Room
+*
+M 5 4800 254 4880			Zombie to Isle Mob Room
+*
+M 5 4801 254 4880			Skeleton to Isle Mob Room
+*
+*
+M 5 4800 254 4875			Zombie to Isle Mob Room
+*
+M 5 4801 254 4875			Skeleton to Isle Mob Room
+*
+M 5 4800 254 4876			Zombie to Isle Mob Room
+*
+M 5 4801 254 4876			Skeleton to Isle Mob Room
+*
+M 5 4800 254 4877			Zombie to Isle Mob Room
+*
+M 5 4801 254 4877			Skeleton to Isle Mob Room
+*
+M 5 4800 254 4878			Zombie to Isle Mob Room
+*
+M 5 4801 254 4878			Skeleton to Isle Mob Room
+*
+M 5 4800 254 4879			Zombie to Isle Mob Room
+*
+M 5 4801 254 4879			Skeleton to Isle Mob Room
+*
+M 5 4800 254 4880			Zombie to Isle Mob Room
+*
+M 5 4801 254 4880			Skeleton to Isle Mob Room
+*
+*
+M 5 4800 254 4875			Zombie to Isle Mob Room
+*
+M 5 4801 254 4875			Skeleton to Isle Mob Room
+*
+M 5 4800 254 4876			Zombie to Isle Mob Room
+*
+M 5 4801 254 4876			Skeleton to Isle Mob Room
+*
+M 5 4800 254 4877			Zombie to Isle Mob Room
+*
+M 5 4801 254 4877			Skeleton to Isle Mob Room
+*
+M 5 4800 254 4878			Zombie to Isle Mob Room
+*
+M 5 4801 254 4878			Skeleton to Isle Mob Room
+*
+M 5 4800 254 4879			Zombie to Isle Mob Room
+*
+M 5 4801 254 4879			Skeleton to Isle Mob Room
+*
+M 5 4800 254 4880			Zombie to Isle Mob Room
+*
+M 5 4801 254 4880			Skeleton to Isle Mob Room
+*
+*
+M 5 4800 254 4875			Zombie to Isle Mob Room
+*
+M 5 4801 254 4875			Skeleton to Isle Mob Room
+*
+M 5 4800 254 4876			Zombie to Isle Mob Room
+*
+M 5 4801 254 4876			Skeleton to Isle Mob Room
+*
+M 5 4800 254 4877			Zombie to Isle Mob Room
+*
+M 5 4801 254 4877			Skeleton to Isle Mob Room
+*
+M 5 4800 254 4878			Zombie to Isle Mob Room
+*
+M 5 4801 254 4878			Skeleton to Isle Mob Room
+*
+M 5 4800 254 4879			Zombie to Isle Mob Room
+*
+M 5 4801 254 4879			Skeleton to Isle Mob Room
+*
+M 5 4800 254 4880			Zombie to Isle Mob Room
+*
+M 5 4801 254 4880			Skeleton to Isle Mob Room
+*
+*
+M 5 4800 254 4875			Zombie to Isle Mob Room
+*
+M 5 4801 254 4875			Skeleton to Isle Mob Room
+*
+M 5 4800 254 4876			Zombie to Isle Mob Room
+*
+M 5 4801 254 4876			Skeleton to Isle Mob Room
+*
+M 5 4800 254 4877			Zombie to Isle Mob Room
+*
+M 5 4801 254 4877			Skeleton to Isle Mob Room
+*
+M 5 4800 254 4878			Zombie to Isle Mob Room
+*
+M 5 4801 254 4878			Skeleton to Isle Mob Room
+*
+M 5 4800 254 4879			Zombie to Isle Mob Room
+*
+M 5 4801 254 4879			Skeleton to Isle Mob Room
+*
+M 5 4800 254 4880			Zombie to Isle Mob Room
+*
+M 5 4801 254 4880			Skeleton to Isle Mob Room
+*
+*
+M 1 4802 1 4918			Weapons Keeper to Man-at-arms room
+S
+
+
+#SHOPS
+4802 0 0 0 0 0 5 100 6 20			(mobile is from another zone)
+0
+
+
+#$

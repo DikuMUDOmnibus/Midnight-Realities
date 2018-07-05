@@ -1,0 +1,47 @@
+register
+
+global greeting 'Welcome to the creation of Midnight Realities 2.5'
+global hello '
+&BEnter thy name, dreamer: '
+
+#openstage is like..beta, alpha, open, etc
+global openstage ''
+
+#the muds homepage
+global webpage 'Currently None-Existant'
+
+#info-entry is the display message for someone entering the game
+#info-exit is the display message for someone quitting the game
+#the symbol '%s' represents the player, and may only be used once.
+global info-entry '&Y%s&G succumbs into the illusion of their dreams.&x'
+global info-exit  '&W%s awakens from the fright of their life.&x'
+
+#newbie safe period
+global newbiehours 9  ; safe for the first 9 hours
+#                     ; if this doesn't exist, it defaults to 5
+
+#all exp is multiplied by this: (can't be 0 or exp will be 0)
+global expmult 2.32 ;this used to be 1 until I took out the hour bonuses
+
+#and devided by this: (you'll probably only want to use one of the two)
+#this will CRASH if it is 0, set it to 1 for no effect!
+global expdiv  .7
+
+#max ammount of quest points per quest card; You'll probably want this
+#higher but I like challenges.
+global maxquest 100
+
+#this will prepend all the echos, it could be a color code, or simply echo->
+#I chose to have none. place it inbetween the ' and the other '
+global echo '&G'
+
+#max stats..(hp/mana/mv)
+global max_stat 25000
+
+#bonus kill mobs
+ #how often a bonus kill occurs
+  global bonuskill 800
+ #the multiplied exp
+  global bonusexp 150
+
+global kingdom_datafile '../kingdoms.dat'

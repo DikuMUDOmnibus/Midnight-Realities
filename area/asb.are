@@ -1,0 +1,149 @@
+register
+#area       A-S-B Kabal~
+
+#mobiles
+#800
+Pansie~
+Pansie~
+Pansie pansie pansie pansie, you are a pansie
+~
+~
+0 128 900 S
+1 2 2 1d1+30000 1d8+32
+100000 0
+8 8 1
+K - [ a s b ] -~
+x 210000 100 100
+#801
+gPansie~
+Pansay~
+Pansay pansay pansay pansay, you are a pansay
+~
+~
+0 128 900 S
+1 2 2 1d1+30000 1d8+32
+100000 0
+8 8 1
+K - [ a s b ] -~
+x 210000 100 100
+#802
+gPansie~
+Pansay~
+Pansay pansay pansay pansay, you are a pansay
+~
+~
+0 128 900 S
+1 2 2 1d1+30000 1d8+32
+100000 0
+8 8 1
+K - [ a s b ] -~
+x 210000 100 100
+#803
+Healerguy~
+A healer-type-guy~
+A healer-type-guy offers you medical pot.
+~
+~
+0 128|2 900 S
+1 2 2 1d1+30000 1d8+32
+100000 0
+8 8 1
+K - [ a s b ] -~
+x 2100000 100 100
+#0
+
+#rooms
+#800
+Entrance to the land of people who are always smoking bomb~
+Lots of smoke...LOTS of smoke..it drains your eyesight.. lots of
+people smoking bomb.
+~
+0 0 0
+D0
+It is hard to see past the huge wooden gate. You are, however,
+able to peer through a slot in the door, and you notice a mess.
+~
+~
+0 -1 801
+S
+#801
+First room of the drug addicts~
+$$startdesc_kingdom|
+~
+0 0 4
+D2
+~
+~
+0 -1 800
+D1 ~~ 0 -1 802
+T
+vittain~
+$n is engulfed in flames and vanishes into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 3001 0
+K - [ a s b ] -~
+S
+#802
+Halls of ASB~
+There is a misty-type feeling to the air, after breathing in
+and breathing out, the air turns red-ish.
+~
+0 0 4
+D3
+~
+~
+0 -1 801
+D2
+~~ 0 -1 803
+K - [ a s b ] -~
+D1 ~ ~ 0 -1 805
+S
+#803
+Room of Worship~
+This room is here fore one reason, to pray to Alamonde that he will teach
+you his knowledge. Being the greatest sorcerer, there is lots for you to
+learn from him. About the realities, and the laws, and how they can be
+bent. [Hehe. Matrix-Style]
+~
+0 0 4
+K - [ a s b ] -~
+D0 ~~ 0 -1 802
+D3 ~~ 0 -1 804
+S
+#804
+Alamonde's Porno Vault~
+This room is filled and filled with a plethora of Porno vids.
+~
+0 0 4
+K - [ a s b ] -~
+D1 ~~ 0 -1 803
+S
+#805
+The ASB Sir Smokesalot Ball Room~
+This room is purely for smoking mother sommamabitches like you and me.
+Remember to contribute to the Bud collective... a full bowl is a happy
+whole...
+~
+0 0 4
+K - [ a s b ] -~
+D3 ~~ 0 -1 802
+S
+#0
+
+ 
+#SPECIALS
+M 800 kguard  ; kingdom guard 1
+M 801 kguard  ; kingdom guard 2
+M 802 kguard  ; kingdom guard 3
+M 803 khealer  ; kingdom healer
+S
+ 
+#resets
+M 1 800 1 801 ; kingdom guard
+M 1 801 1 801 ; kingdom guard
+M 1 802 1 801 ; kingdom guard
+M 1 803 1 803 ; kingdom healer
+S 
+
+#$

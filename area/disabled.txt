@@ -1,0 +1,4 @@
+challenge 12 Smoo
+dice 12 Smoo
+deus 12 Jeremy
+END

@@ -1,0 +1,91 @@
+register
+#AREA	Succubus HQ - Nightfall/Nemesis~
+
+
+#MOBILES
+#9335
+weaponsmaster genghis kehn~
+Genghis Kehn~
+Genghis Kehn is practicing the killing arts with the lovely demonesses
+~
+He glances at you instilling fear within your heart!!
+~
+2|64|512|1024 8|32|128|512|1048576 -1000 S
+5000 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#9336
+Rasputin Healer~
+Rasputin~
+Rasputin is here caring for all of the lovely ladies
+~
+Rasputin is here to take care of all the young demonesses, unfortunate for him that the powers have put his eyes out so he can not see who he treats!
+~
+2|64 8|32|128|512|1048576 -1000 S
+5000 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#ROOMS
+#9335
+Hellish Brothel~
+You are standing in a room filled by wanton lust!  There are demonic mistresses flaunting themselves in every direction!  Unfortunately for the males who accompany them, they are used by each particular succubus in whatever way pleases the succubus, then eaten alive!
+~
+0 0 1
+D0
+~
+~
+0 -1 9336
+D1
+~
+~
+0 -1 9338
+D2
+~
+~
+0 -1 9337
+S
+#9336
+Portals of Flame~
+There are flames rising to the ceiling on every wall.  You can peer through the flames to see distant places..If only you dare to jump through them!
+~
+0 0 1
+D2
+~
+~
+0 -1 9335
+S
+#9337
+Relaxation Room~
+You see a lounge where all of the Succubi are relaxing and mending wounds
+~
+0 0 1
+D0
+~
+~
+0 -1 9335
+S
+#9338
+War Criminal's Room~
+You recognize the man standing in the center of this room...it is Genghis Kehn, the most feared weaponsmaster in the world!  He is
+training these lovely demons how to be more proficient in there killing frenzies!
+~
+0 0 1
+D3
+~
+~
+0 -1 9335
+S
+#0
+
+
+#SPECIALS
+M  9336 spec_cast_cleric			Rasputin
+S
+
+
+#$
+
+

@@ -1,0 +1,740 @@
+register
+#AREA Coluseum of Great Rome - Nightfall~
+
+
+#MOBILES
+#130
+Centurion guard bodyguard~
+Centurion bodyguard~
+The Centurion looks bored....but deadly
+~
+The centurion is very well armed, and looks like he really knows how to use what he is equipped with...it probably wouldnt be advisable to attack him.
+~
+2|4|64 2|8|32|128|512|1048576 0 S
+800 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#131
+Centurion guard~
+Centurion~
+The Centurion is watching your every move
+~
+He is your typical peace-keeper..half watching the crowd, and half watching the events in the arena.  Of course, then he spots you...
+~
+4|64 2|8|32|128|512|1048576 0 S
+500 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#132
+Vendors~
+Vendor~
+A vendor is here demonstrating his wares
+~
+Here is another would-be salesman, trying to peddle his goods to you..
+Don't you love how obnoxious he is?
+~
+2|4|64 8|32|512 0 S
+1 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#133
+Lion~
+Lion~
+A ferocious looking lion waits to rip your spine out
+~
+A ferocious, half-starved lion is charging at you!!
+~
+4|32|64 8|32|512|1048576 0 S
+300 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#134
+Roman Fan~
+Fan~
+A fan is here cheering on his favorite gladiator!
+~
+You are standing in the way of this fan, and boy does he look mad!!
+~
+4|32|64 8|32|512|1048576 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#135
+Gladiator~
+Gladiator~
+A gladiator is here fighting the lions!
+~
+A strong young man is here fighting off lions with every ounce of strength he possesses!  You certainly hope everything turns out ok for him..
+~
+4|64 8|32|128|512|1048576 0 S
+100 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+#136
+Julius Caesar~
+Julius Caesar~
+The man-god himself!
+~
+You stand in awe of this conquerer.  With a single finger, he can decide the fates of thousands, what makes you think you arent one of them?
+~
+2|4|64 2|8|32|128|512|8192|32768|524288|1048576 0 S
+1000 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#130
+Caesar Laurel Wreath~
+caesar's Laurel Wreath~
+A leafy headpiece lays on the floor~
+~
+9 1|32|64|4096 1|16
+0 1 6 11 
+1 0 0
+A
+13 0
+A
+19 0
+A
+18 0
+#131
+breastplate plate centurion chest~
+Centurion Breastplate~
+A dull metal plate sits in the sun~
+~
+9 1|128|512|1024 1|8
+0 1 6 11 
+5 0 0
+A
+1 0
+A
+17 0
+#132
+sword centurion~
+Centurion Longsword~
+A long blade with an inscription on the handle~
+~
+5 64|128 1|8192
+0 1 6 1 
+5 0 0
+A
+18 0
+A
+19 0
+A
+1 0
+#133
+gladiator whip~
+Gladiator Whip~
+a long black coil of leather lies on the ground~
+~
+5 0 1|8192
+0 1 6 4 
+5 0 0
+E
+vampiric~
+~
+#134
+Fan~
+Fan~
+An ornately painted fan is lying here~
+~
+8 0 1|16384
+0 1 6 11 
+5 0 0
+A
+2 0
+#0
+
+
+#ROOMS
+#130
+Entrance to Colluseum~
+You are standing before the mighty gates of the colluseum.  The sheer size and majesty of this arena is awe inspiring.  To the east is the entranceway.  Up leads back to Vittitain.
+~
+0 8192 1
+D1
+~
+~
+2 -1 131
+D2
+~
+~
+0 -1 14900
+S
+#131
+In the tunnels~
+You are standing below the crowds in the stands.  There are vendors to the north, and a stairwell leading up to the stands to the east.  There is also a trapdoor leading down to the arena.
+~
+0 4|8|8192 1
+D0
+~
+~
+0 -1 135
+D1
+~
+~
+0 -1 134
+D3
+~
+~
+2 -1 130
+D5
+~
+~
+2 -1 133
+S
+#133
+Slave pits~
+You have entered a fetid area under the stands.  It is dark, crowded with slaves, and you realize the smell is fear from these poor souls.  You hear footsteps approaching and there is a visible apprehention in all of the slaves who still value their lives.  Exits are up and east.
+~
+0 0 1
+D1
+~
+~
+0 -1 149
+D4
+~
+~
+1 -1 131
+S
+#134
+Stairwell to seats~
+There is a set of stairs leading up to the seats.Exits are up and west.
+~
+0 0 1
+D3
+~
+~
+0 -1 131
+D4
+~
+~
+0 -1 136
+S
+#135
+Vendor booths~
+Before you are the vendors, selling lamb meat, and showing their many wares.  The only exit is to the south.
+~
+0 1024 1
+D2
+~
+~
+0 -1 131
+S
+#136
+Stands~
+You are in the stands of the great colluseum.  Vendors are selling som strange meat you cant identify.  You stand at the railing.  What a view of the action below!  From here you can see gladiators battling against each other or occationally the lions are set free to ravage some poor soul.  You sure are glad you arent one of the gladiators!  Exits are down, north and south.
+~
+0 0 1
+D0
+~
+~
+0 -1 137
+D2
+~
+~
+0 -1 138
+D5
+~
+~
+0 -1 134
+S
+#137
+Stands~
+You are in the stands of the great colluseum.  Vendors are selling som strange meat you cant identify.  You stand at the railing.  What a view of the action below!  From here you can see gladiators battling against each other or occationally the lions are set free to ravage some poor soul.  You sure are glad you arent one of the gladiators!  Exits are east and south.
+~
+0 0 1
+D1
+~
+~
+0 -1 140
+D2
+~
+~
+0 -1 136
+S
+#138
+Stands~
+You are in the stands of the great colluseum.  Vendors are selling som strange meat you cant identify.  You stand at the railing.  What a view of the action below!  From here you can see gladiators battling against each other or occationally the lions are set free to ravage some poor soul.  You sure are glad you arent one of the gladiators!  Exits are north and south.
+~
+0 0 1
+D0
+~
+~
+0 -1 136
+D2
+~
+~
+0 -1 148
+S
+#140
+Stands~
+You are in the stands of the great colluseum.  Vendors are selling som strange meat you cant identify.  You stand at the railing.  What a view of the action below!  From here you can see gladiators battling against each other or occationally the lions are set free to ravage some poor soul.  You sure are glad you arent one of the gladiators!  Exits are east and west.
+~
+0 0 1
+D1
+~
+~
+0 -1 141
+D3
+~
+~
+0 -1 137
+S
+#141
+Stands~
+You are in the stands of the great colluseum.  Vendors are selling som strange meat you cant identify.  You stand at the railing.  What a view of the action below!  From here you can see gladiators battling against each other or occationally the lions are set free to ravage some poor soul.  You sure are glad you arent one of the gladiators!  Exits are east and west.
+~
+0 0 1
+D1
+~
+~
+0 -1 142
+D3
+~
+~
+0 -1 140
+S
+#142
+Stands~
+You are in the stands of the great colluseum.  Vendors are selling som strange meat you cant identify.  You stand at the railing.  What a view of the action below!  From here you can see gladiators battling against each other or occationally the lions are set free to ravage some poor soul.  You sure are glad you arent one of the gladiators!  Exits are north and south.
+~
+0 0 1
+D2
+~
+~
+0 -1 143
+D3
+~
+~
+0 -1 141
+S
+#143
+Stands~
+You are in the stands of the great colluseum.  Vendors are selling som strange meat you cant identify.  You stand at the railing.  What a view of the action below!  From here you can see gladiators battling against each other or occationally the lions are set free to ravage some poor soul.  You sure are glad you arent one of the gladiators!  Exits are north and south.
+~
+0 0 1
+D0
+~
+~
+0 -1 142
+D2
+~
+~
+0 -1 144
+S
+#144
+Caesars Box~
+You are standing in the presence of the glorious Caesar!  He is draped head to toe in a beautiful blood red cape...and you think it may be from ACTUAL blood!  He is watching the games intently, with several armed guards at his side.  Exists are north and south.
+~
+0 0 1
+D0
+~
+~
+0 -1 143
+D2
+~
+~
+0 -1 145
+S
+#145
+Stands~
+You are in the stands of the great colluseum.  Vendors are selling som strange meat you cant identify.  You stand at the railing.  What a view of the action below!  From here you can see gladiators battling against each other or occationally the lions are set free to ravage some poor soul.  You sure are glad you arent one of the gladiators!  Exits are north and south.
+~
+0 0 1
+D0
+~
+~
+0 -1 144
+D3
+~
+~
+0 -1 146
+S
+#146
+Stands~
+You are in the stands of the great colluseum.  Vendors are selling som strange meat you cant identify.  You stand at the railing.  What a view of the action below!  From here you can see gladiators battling against each other or occationally the lions are set free to ravage some poor soul.  You sure are glad you arent one of the gladiators!  Exits are west and south.
+~
+0 0 1
+D1
+~
+~
+0 -1 145
+D3
+~
+~
+0 -1 147
+S
+#147
+Stands~
+You are in the stands of the great colluseum.  Vendors are selling som strange meat you cant identify.  You stand at the railing.  What a view of the action below!  From here you can see gladiators battling against each other or occationally the lions are set free to ravage some poor soul.  You sure are glad you arent one of the gladiators!  Exits are east and west.
+~
+0 0 1
+D1
+~
+~
+0 -1 146
+D3
+~
+~
+0 -1 148
+S
+#148
+Stands~
+You are in the stands of the great colluseum.  Vendors are selling som strange meat you cant identify.  You stand at the railing.  What a view of the action below!  From here you can see gladiators battling against each other or occationally the lions are set free to ravage some poor soul.  You sure are glad you arent one of the gladiators!  Exits are north and east.
+~
+0 0 1
+D0
+~
+~
+0 -1 138
+D1
+~
+~
+0 -1 147
+S
+#149
+Arena~
+You see lions charging out of their pens!  You know they smell fresh meat and are starving for more.  Wait a minute!  You are the only person out here!  They are headed straight for you!
+~
+0 0 1
+D0
+~
+~
+0 -1 155
+D1
+~
+~
+0 -1 150
+D2
+~
+~
+0 -1 154
+D3
+~
+~
+0 -1 133
+S
+#150
+Arena~
+You see lions charging out of their pens!  You know they smell fresh meat and are starving for more.  Wait a minute!  You are the only person out here!  They are headed straight for you!
+~
+0 0 1
+D0
+~
+~
+0 -1 156
+D1
+~
+~
+0 -1 151
+D2
+~
+~
+0 -1 153
+D3
+~
+~
+0 -1 149
+S
+#151
+Arena~
+You see lions charging out of their pens!  You know they smell fresh meat and are starving for more.  Wait a minute!  You are the only person out here!  They are headed straight for you!
+~
+0 0 1
+D0
+~
+~
+0 -1 157
+D2
+~
+~
+0 -1 152
+D3
+~
+~
+0 -1 150
+S
+#152
+Arena~
+You see lions charging out of their pens!  You know they smell fresh meat and are starving for more.  Wait a minute!  You are the only person out here!  They are headed straight for you!
+~
+0 0 1
+D0
+~
+~
+0 -1 151
+D3
+~
+~
+0 -1 153
+S
+#153
+Arena~
+You see lions charging out of their pens!  You know they smell fresh meat and are starving for more.  Wait a minute!  You are the only person out here!  They are headed straight for you!
+~
+0 0 1
+D0
+~
+~
+0 -1 150
+D1
+~
+~
+0 -1 152
+D3
+~
+~
+0 -1 154
+S
+#154
+Arena~
+You see lions charging out of their pens!  You know they smell fresh meat and are starving for more.  Wait a minute!  You are the only person out here!  They are headed straight for you!
+~
+0 0 1
+D0
+~
+~
+0 -1 149
+D1
+~
+~
+0 -1 153
+S
+#155
+Arena~
+You see lions charging out of their pens!  You know they smell fresh meat and are starving for more.  Wait a minute!  You are the only person out here!  They are headed straight for you!
+~
+0 0 1
+D1
+~
+~
+0 -1 156
+D2
+~
+~
+0 -1 149
+S
+#156
+Arena~
+You see lions charging out of their pens!  You know they smell fresh meat and are starving for more.  Wait a minute!  You are the only person out here!  They are headed straight for you!
+~
+0 0 1
+D1
+~
+~
+0 -1 157
+D2
+~
+~
+0 -1 150
+D3
+~
+~
+0 -1 155
+S
+#157
+Arena~
+You see lions charging out of their pens!  You know they smell fresh meat and are starving for more.  Wait a minute!  You are the only person out here!  They are headed straight for you!
+~
+0 0 1
+D2
+~
+~
+0 -1 151
+D3
+~
+~
+0 -1 156
+S
+#158
+mob generator 1~
+You are standing in room #158.
+~
+0 1|1024 1
+D0
+~
+~
+0 -1 149
+D1
+~
+~
+0 -1 150
+D2
+~
+~
+0 -1 151
+D3
+~
+~
+0 -1 152
+D4
+~
+~
+0 -1 154
+D5
+~
+~
+0 -1 153
+S
+#159
+mob generator 2~
+You are standing in room #159.
+~
+0 1|1024 1
+D0
+~
+~
+0 -1 156
+D1
+~
+~
+0 -1 155
+D2
+~
+~
+0 -1 153
+D3
+~
+~
+0 -1 152
+D4
+~
+~
+0 -1 157
+D5
+~
+~
+0 -1 154
+S
+#0
+
+
+#RESETS
+*
+M 1 135 15 133			Gladiator to Slave pits
+*
+M 1 132 3 135			Vendor to Vendor booths
+*
+M 1 130 1 130			Centurion bodyguard to Entrance to Colluseum
+*
+M 1 134 4 130			Fan to Entrance to Colluseum
+*
+M 1 134 6 136			Fan to Stands
+E 1 134 100 17
+*
+M 1 136 1 144			Julius Caesar to Caesars Box
+E 1 130 100 6
+*
+M 1 130 4 144			Centurion bodyguard to Caesars Box
+E 1 131 100 5
+E 1 132 100 62
+*
+M 1 133 30 158			Lion to mob generator 1
+*
+M 1 135 15 158			Gladiator to mob generator 1
+*
+M 1 135 15 158			Gladiator to mob generator 1
+E 1 133 100 62
+*
+M 1 135 15 159			Gladiator to mob generator 2
+*
+M 1 135 15 159			Gladiator to mob generator 2
+E 1 133 100 62
+*
+M 1 133 30 159			Lion to mob generator 2
+*
+M 3 134 62 136			Fan to Stands
+*
+M 3 134 62 137			Fan to Stands
+E 1 134 100 17
+*
+M 3 134 62 137			Fan to Stands
+*
+M 3 134 62 140			Fan to Stands
+E 1 134 100 17
+*
+M 3 134 62 140			Fan to Stands
+*
+M 3 134 62 141			Fan to Stands
+*
+M 3 134 62 141			Fan to Stands
+E 1 134 100 17
+*
+M 3 134 62 142			Fan to Stands
+*
+M 3 134 62 142			Fan to Stands
+E 1 134 100 17
+*
+M 3 134 62 143			Fan to Stands
+*
+M 3 134 62 143			Fan to Stands
+E 1 134 100 17
+*
+M 3 134 62 145			Fan to Stands
+E 1 134 100 17
+*
+M 3 134 62 145			Fan to Stands
+*
+M 3 134 62 146			Fan to Stands
+E 1 134 100 17
+*
+M 3 134 62 146			Fan to Stands
+*
+M 3 134 62 147			Fan to Stands
+*
+M 1 134 62 147			Fan to Stands
+E 1 134 100 17
+*
+M 1 134 62 148			Fan to Stands
+*
+M 1 134 62 148			Fan to Stands
+E 1 134 100 17
+*
+M 1 134 62 147			Fan to Stands
+*
+M 1 134 62 147			Fan to Stands
+E 1 134 100 17
+*
+M 1 134 62 148			Fan to Stands
+*
+M 1 134 62 148			Fan to Stands
+E 1 134 100 17
+*
+M 1 134 62 147			Fan to Stands
+*
+M 1 134 62 147			Fan to Stands
+E 1 134 100 17
+*
+M 1 134 62 148			Fan to Stands
+*
+M 1 134 62 148			Fan to Stands
+E 1 134 100 17
+*
+M 1 134 62 138			Fan to Stands
+*
+M 1 134 62 138			Fan to Stands
+E 1 134 100 17
+*
+M 1 131 1 136			Centurion to Stands
+E 1 132 100 62
+*
+M 1 131 1 144			Centurion to Stands
+E 1 132 100 62
+S
+
+
+#SPECIALS
+M  130 spec_breath_any			Centurion bodyguard
+M  131 spec_fido			Centurion
+M  133 spec_fido			Lion
+M  134 spec_cast_mage			Fan
+M  135 spec_cast_judge			Gladiator
+M  136 spec_cast_undead			Julius Caesar
+S
+
+
+#$

@@ -1,0 +1,210 @@
+register
+#area        Spirit Lords Kabal~
+
+#MOBILES
+#700
+Mjoro~
+Mjoro~
+Mjoro, protector of Spirit Lords, is here (protecting spirit lords)
+~
+~
+0 128 900 S
+1 2 2 1d1+30000 1d8+32
+100000 0
+8 8 1 
+K Spirit Lords~
+x 210000 100 100
+#701
+Mjoro disciple~
+Mjoro's Disciple~
+A disciple of Mjoro, being trained to guard the honourable Spirit Lords
+~
+~
+0 128 900 S
+1 2 2 1d1+30000 1d8+32
+100000 0
+8 8 1 
+K Spirit Lords~
+x 210000 100 100
+#702
+Mjoro disciple~
+Mjoro's Disciple~
+A disciple of Mjoro, being trained to guard the honourable Spirit Lords
+~
+~
+0 128 900 S
+1 2 2 1d1+30000 1d8+32
+100000 0
+8 8 1 
+K Spirit Lords~
+x 210000 100 100
+#703
+Mjoro disciple~
+Mjoro's Disciple~
+A disciple of Mjoro, being trained to guard the honourable Spirit Lords
+~
+~
+0 128 900 S
+1 2 2 1d1+30000 1d8+32
+100000 0
+8 8 1 
+K Spirit Lords~
+x 210000 100 100
+#704
+Mjoro disciple~
+Mjoro's Disciple~
+A disciple of Mjoro, being trained to guard the honourable Spirit Lords
+~
+~
+0 128 900 S
+1 2 2 1d1+30000 1d8+32
+100000 0
+8 8 1 
+K Spirit Lords~
+x 210000 100 100
+#705 
+priest mjoro~ 
+Priest of Mjoro~ 
+The Priest of Mjoro prays over you.
+~
+~
+0 128 900 S 
+1 2 2 1d1+30000 1d8+32 
+100000 0 
+8 8 1 
+K Spirit Lords~ 
+x 2100000 100 100
+#0
+
+#rooms
+#700
+&WGateway of the Spirit Lords~
+Standing in front of a huge gate to a kingdom, you notice
+a gate guard peering through a slot in the door. Asking
+him where you are, you soon find out you are in front of
+one of the most feared, nutorious kingdoms in the land.
+~
+0 0 0
+D0
+It is hard to see past the huge wooden gate. You are, however,
+able to peer through a slot in the door, and you notice elegance
+at it's finest.
+~
+~
+0 -1 701
+S
+#701
+Guard's Barracks~
+You stand in the halls of the disciples of Mjoro. He stands teaching
+them all of the techniques which the Spirit Lords themselves have
+taught him. Each of them following his every move precisely willing
+to die for their teacher.
+~
+0 0 4
+D2
+You notice the outside world as its blant self. This is the gates
+to the outer world.
+~
+~
+0 -1 700
+T
+bitch~
+$n is engulfed in flames and vanishes into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 3001 0
+K Spirit lords~
+D5
+~~ 0 -1 702
+D3
+~~ 0 -1 704
+D1
+~~ 0 -1 705
+S
+
+#702
+Crypt of Galon~
+You stand in a room dedicated to the deadliest drow ever to live. Skulls
+of those fallen before him lay about the room in piles and a few weapons
+he has taken and used throughout his career as an assassin hang upon the
+walls. Galon sometimes returns to this room, so you best make haste,
+otherwise he may decide to show you his skill, for fun. Something of which
+none who have crossed him live to tell about.... .. &CG&Ba&cl&bo&Cn
+~
+0 0 4
+K Spirit lords~
+D4
+~~ 0 -1 701
+S
+#703
+Healing Temple~
+The priest sits in meditation here. Willing to heal those who follow
+the paths of the Spirit Lords. A few Mjoro disciples lay here as the priest
+chants over them and their wounds are healed upon which they return to
+the barracks for training again.
+~
+0 0 4
+D2
+~
+~
+0 -1 705
+K Spirit lords~
+S
+#704
+Letum's Library~
+Books align the shelves and a few writings are even on the very walls of
+this room. Your breath is nearly taken while you stand here, you can feel
+the power of the words from which Letum has wrote many books on the magics.
+Letum works tirelessly in the corner scribing out a new scroll from which he
+will bring the power of death to his very fingertips.
+~
+0 0 4
+D1
+~
+~
+0 -1 701
+K Spirit lords~
+S
+#705
+Myzery's Hall~
+The day has come the time of reckoning. Who will perish in dreaded 
+hell and whose soul will be content within the measures of heaven. Looking 
+past these word's spoken with a wicked tongue and looking past the evil 
+deeds done with one's life. But instead looking into the conscious of man. 
+Those who are rejected at the gates of heaven shall be dragged off into the 
+pits of hell. Viciously torn from this life by the non-living. The Phantom's 
+of the dead. These beasts take the form of demonic fiends. Led by one. 
+One who was created by your own evil.  One who will judge your very fate. 
+The one known as.... &yM&Yy&Wze&Yr&yy.&x
+~
+0 0 4
+D0
+~
+~
+0 -1 703
+D3
+~~ 0 -1 701
+
+K Spirit lords~
+S
+#0
+
+#SPECIALS
+M 700 kguard  ; kingdom guard 1-Mjoro
+M 701 kguard  ; kingdom guard 2-Disciple
+M 702 kguard  ; kingdom guard 3-Disciple
+M 703 kguard  ; kingdom guard 4-Disciple
+M 704 kguard  ; kingdom guard 5-Disciple
+M 705 khealer ; kingdom healer
+S
+
+#resets
+M 1 700 1 701 ; kingdom guard
+M 1 701 1 701 ; kingdom guard
+M 1 702 1 701 ; kingdom guard
+M 1 703 1 701 ; kingdom guard
+M 1 704 1 701 ; kingdom guard
+M 1 705 1 703 ; kingdom healer
+S
+
+#$

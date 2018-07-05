@@ -1,0 +1,205 @@
+register
+#AREA	Bryantos  Miscelaneous~
+
+#OBJECTS
+#8920
+stupid boy ring~
+a stupid boys ring~
+A ring made out of toilet paper lies here.~
+~
+9 0 3
+25 0 0 0
+1 1000000 1
+A
+12 -100
+A
+13 -100
+#8921
+stupid boy collar~
+a stupid boys collar~
+A collar lies here.~
+~
+9 0 5
+25 0 0 0
+1 1000000 1
+A
+12 -100
+A
+13 -100
+#8922
+stupid boy tunic~
+a stupid boys tunic~
+A tunic lies here.~
+~
+9 0 9
+25 0 0 0
+1 1000000 1
+A
+12 -100
+A
+13 -100
+A
+17 -15
+#8923
+A stupid boys hat~
+A stupid boys hat~
+A hat lies here.~
+~
+9 0 17
+25 0 0 0
+1 1000000 1
+A
+12 -100
+A
+13 -100
+A
+17 -15
+#8924
+A stupid boys briches~
+A stupid boys briches~
+A pair of briches lies here.~
+~
+9 0 33
+25 0 0 0
+1 1000000 1
+A
+12 -100
+A
+13 -100
+A
+17 -15
+#8925
+A stupid boys shoes~
+A stupid boys shoes~
+A pair of shoes lie here.~
+~
+9 0 65
+25 0 0 0
+1 1000000 1
+A
+12 -100
+A
+13 -100
+A
+17 -15
+#8927
+A stupid boys mittens~
+A stupid boys mittens~
+A pair of mittens lie here.~
+~
+9 0 129
+25 0 0 0
+1 1000000 1
+A
+12 -100
+A
+13 -100
+A
+17 -15
+#8928
+A stupid boys sleeves~
+A stupid boys sleeves~
+A pair of sleeves lie here.~
+~
+9 0 257
+25 0 0 0
+1 1000000 1
+A
+12 -100
+A
+13 -100
+A
+17 -15
+#8929
+A stupid boys cloak~
+A stupid boys cloak~
+A cloak lies here.~
+~
+9 0 1025
+25 0 0 0
+1 1000000 1
+A
+12 -100
+A
+13 -100
+A
+17 -15
+#8930
+A stupid boysbelt~
+A stupid boysbelt~
+A belt lies here.~
+~
+9 0 2049
+25 0 0 0
+1 1000000 1
+A
+12 -100
+A
+13 -100
+A
+17 -15
+#8931
+A stupid boys bracer~
+A stupid boys bracer~
+A bracer lies here.~
+~
+9 0 4097
+25 0 0 0
+1 1000000 1
+A
+12 -100
+A
+13 -100
+A
+17 -15
+#8932
+A stupid boys glasses~
+A stupid boys glasses~
+spectacles lie here.~
+~
+9 0 32769
+25 0 0 0
+1 1000000 1
+A
+12 -100
+A
+13 -100
+A
+17 -15
+#8933
+A stupid boys stick~
+A stupid boys stick~
+A stick lies here.~
+~
+5 16384 8193
+18000 25 50 1
+1 1000000 1
+A
+12 -100
+A
+13 -100
+#0
+
+
+
+#ROOMS
+#0
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#SPECIALS
+S
+
+
+
+#$

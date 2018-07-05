@@ -1,0 +1,1244 @@
+register
+
+#AREA King kais training grounds~
+
+
+#MOBILES
+#32000
+Lame Joke~
+A Lame joke~
+A lame joke stands here waiting to See if you can beat his Jokes
+~
+Man this is one of the lamest jokes youve
+ever seen but you have to laugh or else
+King Kai May take offense and refuse to 
+train you *snaps his fingers*
+~
+64 0 0 S
+260 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32001
+Bubbles~
+Bubbles The Monkey~
+Bubbles the monkey is here QUICK!! try to catch him
+~
+You See Bubbles the Monkey The Vital key to your next quest Quickly you better catch him before he gets away!!!!
+~
+64 524288 0 S
+560 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32002
+Spiritual Ancestor~
+Spiritual Ancestor~
+Spiritual Ancestor stands here helping your wounds
+~
+The Spiritual Ancestor Is Here to help you For your next challenges are extremely tough
+~
+66 128 0 S
+560 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32003
+Gregory~
+Gregory the Grasshoper~
+Gregory The Grasshoper is here panting so hard from running that hes gonna keel
+~
+Gregory the Grasshopper is the next part
+of your adventure Hurry up and try to 
+catch him before he gets away again!!!!
+~
+64 622592 0 S
+360 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32004
+King Kai~
+King Kai~
+Here is King Kai The Ultimate Warrior
+~
+King Kai Is one of the ultimate warriors
+If you cant beat him even without his 
+special powers ...your toast against 
+Vegeta And Napa .....
+~
+66 532480 0 S
+470 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#32005
+namek soul~
+A Namek soul~
+A namek Lost soul is standing here wondering where King Kai is.
+~
+*Ki charge* SUPA BEAM!!!!!!!
+=========================(((()))) |
+                                 - -
+                                  |
+~
+64 0 0 S
+500 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+#0
+
+
+#OBJECTS
+#32000
+Magical Fountain~
+a Magical Fountain~
+A Ancient Sasuke Water Spring Bubbles From the Ancestors Tomb~
+~
+25 0 0
+0 1 6 11
+5 1000 0
+#0
+
+
+#ROOMS
+#32000
+Entrance To King Kai's~
+You gleam Around taking a look at what 
+you just discovered and you say "WOW!
+Its King Kai's place man" ...you knew
+That whole trip across snake way wasnt
+just a waste of time ...now finally you
+can achieve the skills to be one of 
+the ultimate warriors....
+~
+320 8 1
+D0
+
+~
+~
+0 -1 32001
+S
+#32001
+King Kai's  Training yard~
+You have now entered King Kai's Training yard ...You can see him outside standing Somly Waiting for you to Complete his challenges ... Now First thing first he mentioned something about beating his jokes ....you wonder what that means...
+~
+320 8 1
+D0
+
+~
+~
+0 -1 32002
+D1
+
+~
+~
+0 -1 32004
+D2
+
+~
+~
+0 -1 32000
+D3
+
+~
+~
+0 -1 32003
+S
+#32002
+The joke Challenge~
+You are now at King Kais First Challenge 
+You Must Defeat his lame Joke With a 
+Counter of a better *ooc:killhim* Now 
+If you can succesfully do this you may
+continue
+~
+320 8 1
+D0
+
+~
+~
+0 -1 32005
+D2
+
+~
+~
+0 -1 32001
+S
+#32003
+a resting chamber~
+You are now In A Quiet Resting Chamber ..
+feel free to take a sip of the nice 
+fountains that lie here just for yer comfort.....
+~
+320 8 1
+D1
+
+~
+~
+0 -1 32001
+S
+#32004
+A Resting chamber~
+This Is a Room Of Peace ...feel free to Stay And rest if you want because there are more challenges to come!!!!!
+~
+320 1032 1
+D3
+
+~
+~
+0 -1 32001
+S
+#32005
+Detox~
+eww!!! man You stink That Joke was Lame 
+but i guess with King Kai's Sense of
+humor he will let anything go .... Now 
+this is the Detox room where you have a
+chance to chill and think of a new 
+strategy because your next challenged 
+is gonna be one of the hardest ...catch
+bubbles!!!!!!!!
+~
+320 8 0
+D0
+
+~
+~
+0 -1 32006
+D2
+
+~
+~
+0 -1 32002
+S
+#32006
+a Path in the forest~
+You are standing in the forest Waiting to complete your quest ...."hmmm..." you say
+to yourself "this is gonna be harder 
+than i thought" You hear a russel in the 
+bushes...what could that be....... And 
+ZzzZZZzZZWWwwwooosSSShhHH Your off Trying
+to get that monkey.
+~
+320 8 3
+D0
+
+~
+~
+0 -1 32007
+D1
+
+~
+~
+0 -1 32012
+D2
+
+~
+~
+0 -1 32005
+D3
+
+~
+~
+0 -1 32013
+S
+#32007
+A path in the Forest~
+You are standing in the forest Waiting to complete your quest ...."hmmm..." you say
+to yourself "this is gonna be harder 
+than i thought" You hear a russel in the 
+bushes...what could that be....... And 
+ZzzZZZzZZWWwwwooosSSShhHH Your off Trying
+to get that monkey.
+~
+320 8 3
+D1
+
+~
+~
+0 -1 32015
+D2
+
+~
+~
+0 -1 32006
+D3
+
+~
+~
+0 -1 32008
+S
+#32008
+A path in the forest~
+You are standing in the forest Waiting to complete your quest ...."hmmm..." you say
+to yourself "this is gonna be harder 
+than i thought" ....
+~
+320 8 3
+D1
+
+~
+~
+0 -1 32007
+D3
+
+~
+~
+0 -1 32009
+S
+#32009
+a Path in the forest~
+You are standing in the forest Waiting to complete your quest ...."hmmm..." you say
+to yourself "this is gonna be harder 
+than i thought" ....
+~
+320 8 3
+D1
+
+~
+~
+0 -1 32008
+D3
+
+~
+~
+0 -1 32010
+S
+#32010
+a path in the forest~
+You are standing in the forest Waiting to complete your quest ...."hmmm..." you say
+to yourself "this is gonna be harder 
+than i thought" ....
+~
+320 8 3
+D1
+
+~
+~
+0 -1 32009
+D2
+
+~
+~
+0 -1 32011
+S
+#32011
+a path in the forest~
+You are standing in the forest Waiting to complete your quest ...."hmmm..." you say
+to yourself "this is gonna be harder 
+than i thought" ....
+~
+320 8 3
+D0
+
+~
+~
+0 -1 32010
+D1
+
+~
+~
+0 -1 32012
+D3
+
+~
+~
+0 -1 32020
+S
+#32012
+a path in the forest~
+You are standing in the forest Waiting to complete your quest ...."hmmm..." you say
+to yourself "this is gonna be harder 
+than i thought" ....
+~
+320 8 3
+D3
+
+~
+~
+0 -1 32006
+S
+#32013
+a path in the forest~
+You are standing in the forest Waiting to complete your quest ...."hmmm..." you say
+to yourself "this is gonna be harder 
+than i thought" ....
+~
+320 8 3
+D1
+
+~
+~
+0 -1 32006
+D3
+
+~
+~
+0 -1 32014
+S
+#32014
+a Wall~
+You hit The Wall of The arena hmm perhaps
+You should try and go the other way ....
+Wait you think you can see him LETS GO!!
+~
+320 8 3
+D1
+
+~
+~
+0 -1 32013
+S
+#32015
+a path in the forest~
+You are standing in the forest Waiting to complete your quest ...."hmmm..." you say
+to yourself "this is gonna be harder 
+than i thought" ....
+~
+320 8 3
+D1
+
+~
+~
+0 -1 32016
+D3
+
+~
+~
+0 -1 32007
+S
+#32016
+A path in the forest~
+You are standing in the forest Waiting to complete your quest ...."hmmm..." you say
+to yourself "this is gonna be harder 
+than i thought" ....
+~
+320 8 3
+D1
+
+~
+~
+0 -1 32017
+D3
+
+~
+~
+0 -1 32015
+S
+#32017
+A wall~
+WHAM!!! you Collid into the wall of the 
+arena ...perhaps you should turn around
+and keep goin.....
+~
+320 8 3
+D2
+
+~
+~
+0 -1 32018
+D3
+
+~
+~
+0 -1 32016
+S
+#32018
+a path in the forest~
+You are standing in the forest Waiting to complete your quest ...."hmmm..." you say
+to yourself "this is gonna be harder 
+than i thought" ....
+~
+320 8 3
+D0
+
+~
+~
+0 -1 32017
+D1
+
+~
+~
+0 -1 32024
+D3
+
+~
+~
+0 -1 32019
+S
+#32019
+a path in the forest~
+You are standing in the forest Waiting to complete your quest ...."hmmm..." you say
+to yourself "this is gonna be harder 
+than i thought" ....
+~
+320 8 3
+D1
+
+~
+~
+0 -1 32018
+D3
+
+~
+~
+0 -1 32020
+S
+#32020
+a path in the forest~
+You are standing in the forest Waiting to complete your quest ...."hmmm..." you say
+to yourself "this is gonna be harder 
+than i thought" ....
+~
+320 8 3
+D1
+
+~
+~
+0 -1 32011
+S
+#32024
+Exit Out of the Forest~
+Whew!! After Succesfully capturing 
+Bubbles and Bugging him till he told you where the exit was ....you can finally 
+relax and wait for the next challenge
+~
+320 8 3
+D0
+
+~
+~
+0 -1 32025
+D3
+
+~
+~
+0 -1 32018
+S
+#32025
+Meditation Chamber~
+Now it is Time for yer 2nd to Final Challenge you must Find And beat Gregory
+This will take all the meditation and 
+resources necesary .....good luck ...
+~
+320 1032 3
+D0
+
+~
+~
+0 -1 32026
+D2
+
+~
+~
+0 -1 32024
+S
+#32026
+A Large Room in the Forest Dome~
+Man Everywhere is clotted with thick vines and other assorted things ...wow
+Its gonna be hard to find gregory in this place ....you better start lookin now...
+~
+320 1032 3
+D0
+
+~
+~
+0 -1 32029
+D2
+
+~
+~
+0 -1 32025
+D3
+
+~
+~
+0 -1 32027
+S
+#32027
+Another Large room in the forest dome~
+eesh Mine the vines are still thick but 
+its a lot cooler than it was maybe This 
+just might become an advantage ...who 
+knows .......
+~
+320 8 3
+D0
+
+~
+~
+0 -1 32028
+D1
+
+~
+~
+0 -1 32026
+S
+#32028
+another room in the Forest dome~
+eesh Man the vines are still thick but 
+its a lot cooler than it was maybe This 
+just might become an advantage ...who 
+knows .......
+~
+320 8 3
+D1
+
+~
+~
+0 -1 32029
+D2
+
+~
+~
+0 -1 32027
+D3
+
+~
+~
+0 -1 32043
+S
+#32029
+Another large room in the forest dome~
+eesh Man the vines are still thick but 
+its a lot cooler than it was maybe This 
+just might become an advantage ...who 
+knows .......
+~
+320 8 3
+D0
+
+~
+~
+0 -1 32046
+D1
+
+~
+~
+0 -1 32030
+D2
+
+~
+~
+0 -1 32026
+D3
+
+~
+~
+0 -1 32028
+D4
+
+~
+~
+0 -1 32031
+S
+#32030
+Another large room in the forest dome~
+eesh Man the vines are still thick but 
+its a lot cooler than it was maybe This 
+just might become an advantage ...who 
+knows .......
+~
+320 8 3
+D3
+
+~
+~
+0 -1 32029
+S
+#32031
+Among the treetops~
+Wow ee-gads!! The jungle is huge!! you 
+cant see anything up here ....but wait 
+there looks like a little green Bug 
+flying across the sky ....Maybe its Him!!
+~
+320 8 9
+D0
+
+~
+~
+0 -1 32036
+D1
+
+~
+~
+0 -1 32037
+D3
+
+~
+~
+0 -1 32032
+D5
+
+~
+~
+0 -1 32029
+S
+#32032
+A space above the treetops~
+God this place is immense ...You better 
+continue the search since you didnt have
+any luck with finding him inside the 
+jungle....
+~
+320 8 9
+D1
+
+~
+~
+0 -1 32031
+D3
+
+~
+~
+0 -1 32033
+S
+#32033
+a space above the treetops~
+God this place is immense ...You better 
+continue the search since you didnt have
+any luck with finding him inside the 
+jungle....
+~
+320 8 9
+D0
+
+~
+~
+0 -1 32034
+D1
+
+~
+~
+0 -1 32032
+S
+#32034
+A space above the treetops~
+God this place is immense ...You better 
+continue the search since you didnt have
+any luck with finding him inside the 
+jungle....
+~
+320 8 9
+D1
+
+~
+~
+0 -1 32035
+D2
+
+~
+~
+0 -1 32033
+S
+#32035
+A space above the treetops~
+God this place is immense ...You better 
+continue the search since you didnt have
+any luck with finding him inside the 
+jungle....
+~
+320 8 9
+D1
+
+~
+~
+0 -1 32036
+D3
+
+~
+~
+0 -1 32034
+S
+#32036
+a space above the treetops~
+God this place is immense ...You better 
+continue the search since you didnt have
+any luck with finding him inside the 
+jungle....
+~
+320 8 9
+D1
+
+~
+~
+0 -1 32041
+D2
+
+~
+~
+0 -1 32031
+D3
+
+~
+~
+0 -1 32035
+S
+#32037
+a space above the treetops~
+God this place is immense ...You better 
+continue the search since you didnt have
+any luck with finding him inside the 
+jungle....
+~
+320 8 9
+D1
+
+~
+~
+0 -1 32038
+D3
+
+~
+~
+0 -1 32031
+S
+#32038
+a space above the treetops~
+God this place is immense ...You better 
+continue the search since you didnt have
+any luck with finding him inside the 
+jungle....
+~
+320 8 9
+D1
+
+~
+~
+0 -1 32039
+D3
+
+~
+~
+0 -1 32037
+S
+#32039
+a space above the treetops~
+God this place is immense ...You better 
+continue the search since you didnt have
+any luck with finding him inside the 
+jungle....
+~
+320 8 9
+D1
+
+~
+~
+0 -1 32040
+D3
+
+~
+~
+0 -1 32038
+S
+#32040
+A Dome wall~
+Aggh another wall ....Man you better find 
+Gregory soon ... Or Else King kai might 
+get mad and that is bad....
+~
+320 8 9
+D3
+
+~
+~
+0 -1 32039
+S
+#32041
+a space above the treetops~
+God this place is immense ...You better 
+continue the search since you didnt have
+any luck with finding him inside the 
+jungle....
+~
+320 8 9
+D1
+
+~
+~
+0 -1 32042
+D3
+
+~
+~
+0 -1 32036
+S
+#32042
+a space above the treetops `~
+God this place is immense ...You better 
+continue the search since you didnt have
+any luck with finding him inside the 
+jungle....
+~
+320 8 9
+D3
+
+~
+~
+0 -1 32041
+S
+#32043
+another room in the forest dome~
+eesh Man the vines are still thick but 
+its a lot cooler than it was maybe This 
+just might become an advantage ...who 
+knows .......
+~
+320 8 3
+D0
+
+~
+~
+0 -1 32044
+D1
+
+~
+~
+0 -1 32028
+S
+#32044
+another room in the forest dome~
+eesh Man the vines are still thick but 
+its a lot cooler than it was maybe This 
+just might become an advantage ...who 
+knows .......
+~
+320 8 3
+D1
+
+~
+~
+0 -1 32045
+D2
+
+~
+~
+0 -1 32043
+S
+#32045
+another room in the forest dome~
+eesh Man the vines are still thick but 
+its a lot cooler than it was maybe This 
+just might become an advantage ...who 
+knows .......
+~
+320 8 3
+D1
+
+~
+~
+0 -1 32046
+D3
+
+~
+~
+0 -1 32044
+S
+#32046
+another room in the forest dome~
+eesh Man the vines are still thick but 
+its a lot cooler than it was maybe This 
+just might become an advantage ...who 
+knows .......
+~
+320 8 3
+D1
+
+~
+~
+0 -1 32047
+D2
+
+~
+~
+0 -1 32029
+D3
+
+~
+~
+0 -1 32045
+S
+#32047
+another room in the forest dome~
+eesh Man the vines are still thick but 
+its a lot cooler than it was maybe This 
+just might become an advantage ...who 
+knows .......
+~
+320 8 3
+D1
+
+~
+~
+0 -1 32048
+D3
+
+~
+~
+0 -1 32046
+S
+#32048
+another room in the forset dome~
+eesh Man the vines are still thick but 
+its a lot cooler than it was maybe This 
+just might become an advantage ...who 
+knows .......
+~
+320 8 3
+D0
+
+~
+~
+0 -1 32049
+D3
+
+~
+~
+0 -1 32047
+S
+#32049
+The end of your quest~
+Woohooo You got gregory and bubbles and 
+beat the Lame Joke Congrats yourself 
+because the final part is the hardest...
+~
+320 1032 3
+D0
+
+~
+~
+0 -1 32050
+D2
+
+~
+~
+0 -1 32048
+S
+#32050
+King Kai's Sparring room~
+Now Stand up straight and BOX!!! Prepare
+for King Kai Because He Wants to see if 
+your man enough to take him on without
+even his special attacks ..." Lets go" 
+he shouts and *phwam* yer off....
+~
+320 8 0
+D2
+
+~
+~
+0 -1 32049
+S
+#0
+
+
+#RESETS
+O 0 32000 100 32003  * a Magical Fountain -> a resting chamber
+M 0 32000 3 32002  * A Lame joke -> The joke Challenge
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32015  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32015  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32015  * Bubbles The Monkey -> a path in the forest
+M 0 32002 1 32004  * Spiritual Ancestor -> A Resting chamber
+M 0 32001 1 32009  * Bubbles The Monkey -> a Path in the forest
+M 0 32001 1 32020  * Bubbles The Monkey -> a path in the forest
+M 0 32003 1 32030  * Gregory the Grasshoper -> Another large room in the forest dome
+M 0 32003 1 32030  * Gregory the Grasshoper -> Another large room in the forest dome
+M 0 32003 1 32030  * Gregory the Grasshoper -> Another large room in the forest dome
+M 0 32003 1 32042  * Gregory the Grasshoper -> a space above the treetops `
+M 0 32003 1 32048  * Gregory the Grasshoper -> another room in the forset dome
+M 0 32003 1 32047  * Gregory the Grasshoper -> another room in the forest dome
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32005 4 32000  * A Namek soul -> Entrance To King Kai's
+M 0 32005 1 32000  * A Namek soul -> Entrance To King Kai's
+M 0 32005 2 32001  * A Namek soul -> King Kai's  Training yard
+M 0 32005 1 32001  * A Namek soul -> King Kai's  Training yard
+M 0 32000 3 32002  * A Lame joke -> The joke Challenge
+M 0 32001 3 32006  * Bubbles The Monkey -> a Path in the forest
+M 0 32001 1 32024  * Bubbles The Monkey -> Exit Out of the Forest
+M 0 32002 1 32025  * Spiritual Ancestor -> Meditation Chamber
+M 0 32003 4 32029  * Gregory the Grasshoper -> Another large room in the forest dome
+M 0 32003 1 32029  * Gregory the Grasshoper -> Another large room in the forest dome
+M 0 32003 4 32048  * Gregory the Grasshoper -> another room in the forset dome
+M 0 32002 1 32049  * Spiritual Ancestor -> The end of your quest
+M 0 32004 3 32050  * King Kai -> King Kai's Sparring room
+M 0 32000 3 32002  * A Lame joke -> The joke Challenge
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32015  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32015  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32015  * Bubbles The Monkey -> a path in the forest
+M 0 32002 1 32004  * Spiritual Ancestor -> A Resting chamber
+M 0 32001 1 32009  * Bubbles The Monkey -> a Path in the forest
+M 0 32001 1 32020  * Bubbles The Monkey -> a path in the forest
+M 0 32003 1 32030  * Gregory the Grasshoper -> Another large room in the forest dome
+M 0 32003 1 32030  * Gregory the Grasshoper -> Another large room in the forest dome
+M 0 32003 1 32030  * Gregory the Grasshoper -> Another large room in the forest dome
+M 0 32003 1 32042  * Gregory the Grasshoper -> a space above the treetops `
+M 0 32003 1 32048  * Gregory the Grasshoper -> another room in the forset dome
+M 0 32003 1 32047  * Gregory the Grasshoper -> another room in the forest dome
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32005 4 32000  * A Namek soul -> Entrance To King Kai's
+M 0 32005 1 32000  * A Namek soul -> Entrance To King Kai's
+M 0 32005 2 32001  * A Namek soul -> King Kai's  Training yard
+M 0 32005 1 32001  * A Namek soul -> King Kai's  Training yard
+M 0 32000 3 32002  * A Lame joke -> The joke Challenge
+M 0 32001 3 32006  * Bubbles The Monkey -> a Path in the forest
+M 0 32001 1 32024  * Bubbles The Monkey -> Exit Out of the Forest
+M 0 32002 1 32025  * Spiritual Ancestor -> Meditation Chamber
+M 0 32003 4 32029  * Gregory the Grasshoper -> Another large room in the forest dome
+M 0 32003 1 32029  * Gregory the Grasshoper -> Another large room in the forest dome
+M 0 32003 4 32048  * Gregory the Grasshoper -> another room in the forset dome
+M 0 32002 1 32049  * Spiritual Ancestor -> The end of your quest
+M 0 32004 3 32050  * King Kai -> King Kai's Sparring room
+M 0 32000 3 32002  * A Lame joke -> The joke Challenge
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32015  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32015  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32015  * Bubbles The Monkey -> a path in the forest
+M 0 32002 1 32004  * Spiritual Ancestor -> A Resting chamber
+M 0 32001 1 32009  * Bubbles The Monkey -> a Path in the forest
+M 0 32001 1 32020  * Bubbles The Monkey -> a path in the forest
+M 0 32003 1 32030  * Gregory the Grasshoper -> Another large room in the forest dome
+M 0 32003 1 32030  * Gregory the Grasshoper -> Another large room in the forest dome
+M 0 32003 1 32030  * Gregory the Grasshoper -> Another large room in the forest dome
+M 0 32003 1 32042  * Gregory the Grasshoper -> a space above the treetops `
+M 0 32003 1 32048  * Gregory the Grasshoper -> another room in the forset dome
+M 0 32003 1 32047  * Gregory the Grasshoper -> another room in the forest dome
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32005 4 32000  * A Namek soul -> Entrance To King Kai's
+M 0 32005 1 32000  * A Namek soul -> Entrance To King Kai's
+M 0 32005 2 32001  * A Namek soul -> King Kai's  Training yard
+M 0 32005 1 32001  * A Namek soul -> King Kai's  Training yard
+M 0 32000 3 32002  * A Lame joke -> The joke Challenge
+M 0 32001 3 32006  * Bubbles The Monkey -> a Path in the forest
+M 0 32001 1 32024  * Bubbles The Monkey -> Exit Out of the Forest
+M 0 32002 1 32025  * Spiritual Ancestor -> Meditation Chamber
+M 0 32003 4 32029  * Gregory the Grasshoper -> Another large room in the forest dome
+M 0 32003 1 32029  * Gregory the Grasshoper -> Another large room in the forest dome
+M 0 32003 4 32048  * Gregory the Grasshoper -> another room in the forset dome
+M 0 32002 1 32049  * Spiritual Ancestor -> The end of your quest
+M 0 32004 3 32050  * King Kai -> King Kai's Sparring room
+M 0 32000 3 32002  * A Lame joke -> The joke Challenge
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32012  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32015  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32015  * Bubbles The Monkey -> a path in the forest
+M 0 32001 1 32015  * Bubbles The Monkey -> a path in the forest
+M 0 32002 1 32004  * Spiritual Ancestor -> A Resting chamber
+M 0 32001 1 32009  * Bubbles The Monkey -> a Path in the forest
+M 0 32001 1 32020  * Bubbles The Monkey -> a path in the forest
+M 0 32003 1 32030  * Gregory the Grasshoper -> Another large room in the forest dome
+M 0 32003 1 32030  * Gregory the Grasshoper -> Another large room in the forest dome
+M 0 32003 1 32030  * Gregory the Grasshoper -> Another large room in the forest dome
+M 0 32003 1 32042  * Gregory the Grasshoper -> a space above the treetops `
+M 0 32003 1 32048  * Gregory the Grasshoper -> another room in the forset dome
+M 0 32003 1 32047  * Gregory the Grasshoper -> another room in the forest dome
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32004 1 32050  * King Kai -> King Kai's Sparring room
+M 0 32005 4 32000  * A Namek soul -> Entrance To King Kai's
+M 0 32005 1 32000  * A Namek soul -> Entrance To King Kai's
+M 0 32005 2 32001  * A Namek soul -> King Kai's  Training yard
+M 0 32005 1 32001  * A Namek soul -> King Kai's  Training yard
+M 0 32000 3 32002  * A Lame joke -> The joke Challenge
+M 0 32001 3 32006  * Bubbles The Monkey -> a Path in the forest
+M 0 32001 1 32024  * Bubbles The Monkey -> Exit Out of the Forest
+M 0 32002 1 32025  * Spiritual Ancestor -> Meditation Chamber
+M 0 32003 4 32029  * Gregory the Grasshoper -> Another large room in the forest dome
+M 0 32003 1 32029  * Gregory the Grasshoper -> Another large room in the forest dome
+M 0 32003 4 32048  * Gregory the Grasshoper -> another room in the forset dome
+M 0 32002 1 32049  * Spiritual Ancestor -> The end of your quest
+M 0 32004 3 32050  * King Kai -> King Kai's Sparring room
+S
+
+
+#SHOPS
+0
+
+
+#SPECIALS
+M 32001 spec_cast_mage  * Bubbles The Monkey
+M 32002 spec_cast_cleric  * Spiritual Ancestor
+M 32003 spec_thief  * Gregory the Grasshoper
+S
+
+#$
+

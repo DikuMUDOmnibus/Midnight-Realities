@@ -1,0 +1,193 @@
+0 8 Change started on Wed Nov 28 10:31:11 2001
+Smoo: the changes posted here are from after help changes01,02,03,04,05,and 06; new changes will be updated to here.
+Smoo: ninja principle 'dokuyaku 5' works properly
+Smoo: command for the above is 'poison'
+Smoo: ningenno 4 (ninja) 'shiroken' works properly. It's an auto-attack
+Smoo: Ninja skill 'Hakunetsu' has been increased in power
+Smoo: long standing problem with demons, where when you first get classes, raise some discs, log out then log back on, the discs would be gone, has been fixed.
+Smoo: Ninjas may no longer create shirokens. The exact object is on a mob anyways...
+Smoo: Sacrificing drow equipment now gives your dps back
+~ Change started on Wed Nov 28 10:31:11 2001~
+1 8 Change started on Wed Nov 28 10:36:36 2001
+Smoo: When a golem gets decapitated in ruby or gold form, it will no longer say "" as their name
+Smoo: New social: embrace, the vampire embrace skill has been changed to vembrace
+Smoo: changes with kingdom guards-> they should now be smarted when choosing who to fight(instead of all three guards attacking one raider, they choose from a raider that is not fighting)
+Smoo: kingdom guards will now remove players from shadowplane and ethereal if they are in it
+Smoo: glorify clear cost has been reduced to 300
+Smoo: glorify james is fixed.
+Smoo: Previously the vampire discipline 'Auspex' had no effect after the third level. It now gives additional PARRY for each level of Auspex.
+Smoo: Affects now no longer show on score. Use the affect command.
+~ Change started on Wed Nov 28 10:36:36 2001~
+2 8 Change started on Wed Nov 28 20:06:46 2001
+Smoo: a bug with stack spells where if you only had one spell stacked (meaning no next.page) then it would have no lag
+Smoo: Bug with mage spells linking together fixed
+Smoo: The pk ratio on klist has been changed to a percent.
+Smoo: Bloodagony is fixed, and undisabled.
+Smoo: Kingdom guards now work properly. They were supposed to hit 10 times a round 1200 damage each time, however there was a slight problem with this that is now fixed. I might have to lower the amount of times it hits later
+Smoo: the bug where nobody hit anybody and wasn't hit by nobody is now fixed (even though beast vampires still hit, although they did not get hit, and certain others....but yeah)
+Smoo: bug with ninja 'shiroken' fixed, it was the crash bug.
+Shih: list 2
+~ Change started on Wed Nov 28 20:06:46 2001~
+3 8 Change started on Fri Nov 30 01:56:25 2001
+Shih: 1
+Smoo: PK fights should now be exactly twice as slow, as the number of attacks each player gets is divided by two
+Smoo: Exp multiplied by 1.2
+Smoo: Ninja's Shiroken now only hits each mob attacking you twice per round instead of three times per round
+Smoo: Help paradox updated
+Smoo: the crash bug with the fight code has been fixed. The only known bug to be left is with the note system, in is_note_to
+Smoo: Ningenno 2 now works. If a ninja is in kakusu, and then attacks, the first attack will be extra-powerful.
+Smoo: Chaosblast now targets the person your fighting instead of yourself, unless you give a target name, then it targets that ptarget
+~ Change started on Fri Nov 30 01:56:25 2001~
+4 8 Change started on Fri Nov 30 21:04:18 2001
+Smoo: Crash bug with is_note_to most likely fixed
+Smoo: Due to constant complaining, the retract command now blocks battle spam, and the brief command now blocks room descriptions
+Smoo: Quest cards from the old code that were 300 qp or above $$maxquest+ are now reset to $$maxquest| (although it will still say 300 when you ident them)
+Smoo: Highstar modified
+Smoo: Kingdom guards now only reset randomly 1 out of every 3 resets
+Smoo: I just realised that I removed the mob that autodecapitate was on a while ago (for shapeshifters), it is now on the dark ethereal knight.
+Smoo: highlanders have a crecall now
+Smoo: Glorify names changed.
+~ Change started on Fri Nov 30 21:04:18 2001~
+5 8 Change started on Sun Dec  2 20:31:32 2001
+Smoo: Max magic resistance is 80, it now works for chants.
+Smoo: the above change was for drow
+Smoo: Demons now get hell regen in every room of their headquarters, not just their crecall room and the room to the north
+Smoo: Vampcreate now works - 5 items, 6 wear locations filled.
+Smoo: Classes may now use their class equipment as a mortal
+Smoo: bug with channel history (ie chat -h) solved, if an immortal said something over a channel, and they were invis, you could look at the history and it would say their name
+Smoo: Mage dodge decreased, Mob dodge decreased[Parry unaffected]
+Smoo: Drow 'strangle' now costs an extra 6k movement points on top of the regular costs, and the damage is more random, lag time lowered to 1 round from 2 rounds (err make that 8k movement points)
+~ Change started on Sun Dec  2 20:31:32 2001~
+6 8 Change started on Mon Dec  3 18:39:29 2001
+Smoo: Mage defence lowered some more
+Smoo: Cost for drow magic resistances increased (up to four times higher since it began working, 2 times higher in this change)
+Smoo: Demon Cerberus's and other bane mobs will now send the player to hell when eaten, instead of limbo
+Smoo: max primal is now 5000, Cost has been increased, You can now train as much at a time as you want
+Smoo: Vampire 'baal' now increases Potence Celerity and Fortitude by 2 each now, instead of 1 each
+Smoo: Bug with Jeritsu in combonation with Kakusu fixed (it crashes, from Hakunetsu)
+Smoo: To fix a crash bug, you may now only train a max of 400 at a time (of anything except hp, mana, or move)
+Smoo: Max reduced down to 50 once again. It was still bugged, should be back to normal now. Sniff..I have to recode train before I can place it back in, it's overloading
+~ Change started on Mon Dec  3 18:39:29 2001~
+7 8 Change started on Thu Dec  6 17:59:26 2001
+Smoo: a crash bug may have been fixed, caused by not being in a room, for some wierd reason, and then a specific spot in the tick update code caused it to crash because it attempted to send a text to everyone in the room. This was also a problem with the fight code before..
+Smoo: Researching disciplines no longer costs primal to begin.
+Smoo: only werewolfs may use bloodline now.
+Smoo: fight code crash bug fixed.
+Smoo: Demon bane's stats have been modified (hp only), they were actually coded to be 5k hp on a cerberus, I have no idea why they were not only 5k..but anyways it will be around 30k per cerberus now instead of 550k
+Smoo: Kingdom guards can no longer attack players in an object's form
+Smoo: Crash bug fixed when certain people had a linkdead quit
+Smoo: The time it takes for a kingdom guard to repop has been further increased.
+~ Change started on Thu Dec  6 17:59:26 2001~
+8 8 Change started on Sun Dec  9 22:27:33 2001
+Smoo: Demon objects no longer remain on the group when a demon goes human after logged out and back in as a weapon
+Jeremy: Help challenge put in with rules for challenging.
+Smoo: Daemonseed no longer has any affect on heads
+Jeremy: Help trivia put in with rules for trivia.
+Smoo: time since the last crash now shows on login - the uptime on the 'time' command resets on reboots(hotboots/copyovers/whatever)
+Smoo: Trivia Points created - they will be used to buy special stuff like the ability for higher stats, and tons of other stuff. I'll get jeremy to stick it in a helpfile, along with what you can purchase.   -- They are awarded through imm-ran quests, and randomly on player kills.
+Smoo: Previously anybody could use the "immortal command" triviatoggle which toggled on and off the trivia channel.
+~ Change started on Sun Dec  9 22:27:33 2001~
+9 8 Change started on Thu Dec 13 21:18:36 2001
+Smoo: Pks/Pds and therefore pk ratios now update for kingdoms (klist/kstat commands affected)
+Smoo: Trivia Points now show up on score
+Smoo: Sacrifice has been changed so that you can sacrifice people up to 15 status under you (You still can't sac status 0's if you are more than 0 status)
+Smoo: Jstep (jedi travel) now only costs 500 movement points instead of 2000, it's grosely weaker than other classes and most classes don't cost anything.
+Smoo: stealsoul now follows the guidelines set by help paradox, the helpfile was also updated to state that you do not gain anything for stealing a soul from someone over 5 status lower than you (You get a paradox, you do not gain anything) unlike decapitate where you would gain status and also get paradoxed until >7
+Smoo: Demons now get a damcap bonus in hell.
+Smoo: Blink modified
+Smoo: Monk's Palm Thrust modified
+~ Change started on Thu Dec 13 21:18:36 2001~
+10 8 Change started on Fri Dec 14 03:38:19 2001
+Smoo: a few minor memory leaks fixed..
+Smoo: Phoenix Sight (druid truesight spell) will no longer be dispelled by dispel magic.
+Smoo: artifacts and relics can no longer be destroyed through tap ( sac all )
+Smoo: Sacrifice range changed to 10 status from 15
+Smoo: Reduced lag on blink, it became way too weak.
+Smoo: Possible bug fix for the crash 3 hours ago, not sure if it completely fixed it, it's really wierd and I have no idea how it could have happend...
+Smoo: Sacrificing a player by a drow now says you sacrifice the player to lloth instead of god
+Smoo: Sacrifice for most classes that don't have a special message will now say you sacrifice the player to the person you're glorifying instead of god
+~ Change started on Fri Dec 14 03:38:19 2001~
+11 8 Change started on Sat Dec 15 16:48:31 2001
+Smoo: jtouch now stops the fighting on the occasion that it stuns
+Smoo: Double heal (shapeshifters) is no longer global
+Smoo: Empower command for monks, raises chi and anger levels - they WILL go down every tick once I get back from supper, the prices might need to be adjusted considering the cost for them is every time you use them. Anger raises attacks, chi raises defence, however your anger level is your anger level - chi level, same for chi level.
+Smoo: Chi/Anger now lowers, each tick, whichever is higher. .. actually I'm making that randomly 1 out of every 2 ticks considering the costs are kinda high
+Smoo: Highlanders are out of autoclass
+Smoo: bug with shapeshifters that are in a mobs form showing wierd characters after their name for certain commands fixed
+Smoo: number of kills inbetween each bonus kill lowered so that high competition isn't as much as a problem
+Smoo: Lag on shiftgate reduced
+~ Change started on Sat Dec 15 16:48:31 2001~
+12 8 Change started on Sun Dec 16 00:50:19 2001
+Smoo: Order can no longer make someone quit.
+Smoo: Guards like to be at work, for some wierd reason. They find working fun and .. yeah, aren't they crazy?
+Smoo: Beast vampires modified
+Smoo: Gamble command introduced. Type gamble for a list of commands
+Smoo: channel -gamble   to turn off gamble notices
+Jeremy: Gamble and triviapoints help files put in
+Smoo: bug fix with kingdom guards, shapes could shift in to them and regen 5000 hp/mana/move every 3 seconds, even though it spammed them with "don't shift in to this mob" messages
+Smoo: Kingdom healers have been created
+~ Change started on Sun Dec 16 00:50:19 2001~
+13 8 Change started on Sun Dec 16 16:57:02 2001
+Smoo: You can no longer hit or stand in blackjack until everyone has made their bid
+Smoo: You can not quit while in a blackjack game.
+Smoo: break_game command added for gamble
+Smoo: Crash bug with kingdom healers fixed before it hit.
+Smoo: '%t' now shows your fight timer on prompts
+Smoo: the code change for kingdom guards now applies to kingdom healers as well (for if they get summoned out of the kingdom hall)
+Smoo: crashes are no longer logged where the code is that puts the time since the last crash on login, if the crash was on a test port.
+Smoo: You no longer lose qps for tying in a game of blackjack.
+~ Change started on Sun Dec 16 16:57:02 2001~
+14 8 Change started on Sun Dec 16 21:04:09 2001
+Smoo: Entropies are in. New shapeshifter power, read help entropy
+Smoo: - [ a s b ] - triggers on asb now, it WAS getting extremely annoying
+Smoo: trivia points are now a LOT harder to get, they were never intended to be like this. Prices are staying the same.
+Smoo: there was apparently a whole set of training equipment created in the area files
+Smoo: Let me try that again, there was apparently a whole set of training equipment created in the area files that doesn't load in the mud, that mages could create through creation spells...you can no longer create them
+Jeremy: list 
+Smoo: DoS people stopped... (Denial of Service), it was lagging the mud.
+Smoo: Detox now works for golems, never knew it didn't...they can still not become gen 1 in any class except golem
+~ Change started on Sun Dec 16 21:04:09 2001~
+15 8 Change started on Mon Dec 17 21:28:41 2001
+Phalic: New power For Werewolves has been put in, but a it has not been assigned a disc.
+Phalic: name Adrenorush
+Phalic: raed 15
+Smoo: The room 'In the Pool' is no longer affected by a permenant drow darkness..if there are any other rooms like this, let me know.
+Smoo: jfade command in, spirit power 7 for jedi - based off of generation. If you want to know how it is based off of generation, ask me tomorrow, it's kinda wierd and I don't want to explain it right now (about to leave)
+Smoo: kingdom banish no longer crashes if you use it on yourself
+Smoo: kingdom pk ratios now work properly
+Smoo: daywalker now saves...
+~ Change started on Mon Dec 17 21:28:41 2001~
+16 8 Change started on Tue Dec 18 23:48:06 2001
+Smoo: drow strangle now makes the mud register the victim as mortally wounded if they die..before they would just go to -10 hp and could walk away or do whatever.
+Smoo: healers SHOULD now stay in one room...
+Smoo: the sleep spell no longer lasts a larger amount of time based on your spell levels... it's random out of 1 to 3 ticks instead of getting up to 50 ticks even (considering there is no immunities.. damn I'll kill whoever starts putting all the newbies to sleep senslessly..luckily it doesn't happen right now)
+Smoo: crash bugs for the past few days fixed
+Smoo: btw it was caused by me putting in a s instead of a d .. thought that was interesting
+Smoo: vampire 'change' command changed to 'arcane' to allow use, it used to default to the changes command (the one you use to read this)
+Smoo: lag on talons lowered
+Smoo: detox bug where if you detox as a drow and then go to certain classes you can't get decapped fixed (if you got decapped like this it would crash)..all the players that were bugged by it are still affected until they tell me and I fix them..
+~ Change started on Tue Dec 18 23:48:06 2001~
+17 8 Change started on Fri Dec 28 21:04:53 2001
+Smoo: Highlanders are open
+Smoo: kingdom healers no longer move
+Smoo: palm fixed up
+Smoo: thank galon for that last change
+Smoo: thank him a LOT
+Smoo: he likes to die
+Smoo: I mean...his name practically means suicide
+Smoo: So he does stupid things
+~ Change started on Fri Dec 28 21:04:53 2001~
+18 8 Change started on Sat Dec 29 05:15:48 2001
+Smoo: and gets killed from them
+Smoo: Committing suicide:) Die galon die
+Smoo: night (no I'm not intoxicated=)
+Smoo: long standing bug with the imm command watch that would crash if an immortal using it quit, found and fixed (never knew about it until now)
+Smoo: Problem with snoop that seemed to appear overnight fixed
+Smoo: TANAIS R SUXORS
+Smoo: Sped up hotboot a LOT..used to take around 10 seconds, now it's near instant. :)
+Smoo: the mud was not giving any output when mobs fled, making it appear as if they just walk away..mobs no longer flee.
+~ Change started on Sat Dec 29 05:15:48 2001~
+19 1 Change started on Sat Dec 29 20:50:33 2001
+Smoo: bug with an immortal thing, using 'multiple' in a workfile, fixed
+~ Change started on Sat Dec 29 20:50:33 2001~
+END

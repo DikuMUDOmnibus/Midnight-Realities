@@ -1,0 +1,148 @@
+At the bottom of the file, there is stuff that even a person that knows how to start up
+godwar muds will want to read.
+
+NORMAL STUFF:
+
+Starting up the mud is basically the same as any other code base, go to the src directory and compile the
+mud through the 'make' command, and then edit the startup file changing the port to the port you want it
+
+in the 'startup' file inside the src directory you should
+see the following line:
+set port = 5555
+5555 might have been replaced with another number.
+
+Replace '5555' with the port you want to start up your mud on.
+
+To start up the mud, in the src directory type:
+./startup&
+
+./startup means run the startup file, & means run it in the background.
+If you forget to run it in the background, press control-z to suspend
+the startup file, and then bg to push it in to the background. If you
+forget the bg command it will act as if the mud is frozen.
+
+
+
+The mud will now be running on the port you entered, if for some reason
+you want to change the port without changing the startup file, type in:
+./startup port&
+
+for example,
+./startup 5656&
+will start the mud up on port 5656 even if the startup file says the default
+is 5555.
+
+
+
+ABNORMAL STUFF YOU WILL WANT TO READ:
+
+The Midnight Realities mud loads extremely different than regular muds, even
+greatly different from Midnight Dreams.
+
+When the mud loads, it first opens the file named 'boot' in the ../ directory
+(right outside of the src directory).
+
+this file begins with 'register'. This means that it is a registered script for
+the mud to execute, without this the mud will not execute the script.
+
+In the script it says "recurse data"
+this means it will go through the data directory and load all the files in there
+the same was the 'boot' file. The mud will only load files that begin with register.
+
+# means comment out the rest of the line, it will act as if the line doesn't even exist.
+
+Now is what you REALLY need to know about these.
+In the file 'boot' you will notice something similar to the following:
+global mudname '&BMidnight realities.... with more color'
+
+This means that the mud name is exactly what it says in quotes. Anywhere in the code
+where it refers to the mud's name, it will say whatever is in those quotes. In helpfiles,
+when you refer to the mud's name, you can put $$mudname| and it will expand to whatever
+is in the quotes, when it is sent to the player.
+
+in the data directory is a file called 'immortals'
+in this file, it says:
+global owner Smoo
+global coders 'Smoo Jeremy'
+
+global Implementors 'Smoo Jeremy'
+      ..highjudges..judges..enforcers..questmakers..builders
+etc
+
+For owner and coders it will only expand in to helpfiles and anywhere else like that,
+however implementors, highjudges, judges, enforcers, questmakers, builders are special.
+If you put a name in there, a player with a name inside there can log on and type 'relevel'
+to become an immortal of that level.
+
+YOU MUST reboot the mud after making any change to these files, for the changes to take affect.
+
+in the file misc is all you will need to get your mud customized without having to do any REAL
+coding. Inside there you can change the newbie safe period (players under the amount of hours
+in there can only attack other players under that number, while players over can only attack
+players that are over)
+
+expmult: experience is multiplied by this number
+expdiv: after the experience is multiplied, it is divided by this number.
+
+maxquest: the maximum value of a quest card.
+
+max_stat: The maximum values that you can train hp/mana/move will be this number for tier one,
+          and it will be that number plus 5000 for tier two.
+
+bonuskill: the number of mobs inbetween each bonus kill ("purple people eater bonus")
+bonusexp: exp is multiplied by this number on bonus kills..
+
+
+Take a look at the other files in the data directory, modify them to how you like.
+
+
+
+
+NEXT: Area files
+Area files load differently too, if you plan on adding an area, you will notice the 'area.lst'
+file does not exist..the mud used to load this file and then read through there, loading each
+area file listed in there.
+
+However, with the new system it simply recurses through the area directory and loads ALL AREA
+FILES that BEGIN WITH THE WORD 'register' at the top of them.
+
+NEXT: core dumps
+
+if you don't know what a core dump is, ignore this. If you do, make a directory called 'core'
+in the root directory of the mud. If you ignore the files in this directory, they can grow
+rather large as each time the mud does a REAL crash (not a copyover on crash crash) then there
+will be a copy of the muds executable in that directory, as well as a copy of the memory that
+was loaded in the mud at the time of the crash, for debugging with gdb. There will be one of
+these for each crash..I recommend not having a directory named 'core' unless you really know
+how to use this feature.
+
+If you are trying to debug and you know how to use core dumps, then on the mud type setabort
+and the next crash will make a core dump instead of copyovering.
+
+NEXT: newbie wipe
+
+the file 'pwipe' in the src directory is a script.
+It loads a copy of the mud, and goes through all the players in the player directory, loading
+them, and checking their stats to see if they are low enough to be a "newbie"..if they are a
+newbie and they haven't logged in in a certain amount of time, determined by what their stats
+are, then the mud will "delete" them, although it will actually just move them to the pwipe
+directory incase the players want that character back. Each time a new newbie wipe is initiated,
+it will clear out the pwipe directory.
+
+After the newbie wipe is complete, the real mud will automatically post a note saying which players
+were deleted, and copyover.
+
+FINALLY:
+
+If you have any questions, email me at smoo@hosting.smoolabs.net .. this email address isn't currently
+100% working, if you get a responce back saying it was undeliverable, send the original email to
+mptldc@yahoo.com .. please try the hosting.smoolabs.net one first, once it is working I will get the
+emails practically instantly..
+
+Also, I haven't made this yet, but there will be a website at hosting.smoolabs.net/realities for bug
+updates, and any information you might want on the codebase.
+
+Right after this is released, the original mud on port 5555 of hosting.smoolabs.net will be renamed to
+Indigo 3.1, as I am getting tired of the Dream/Midnight whatever theme.
+
+Have fun!

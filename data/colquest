@@ -1,0 +1,18 @@
+#register
+#color codes for the & color code.
+global COL:CLEAR     [0;35m
+global COL:RED       [0;36m
+global COL:GREEN     [1;35m
+global COL:ORANGE    [0;34m
+global COL:BLUE      [0;36m
+global COL:MAGENTA   [0;34m
+global COL:CYAN      [0;36m
+global COL:WHITE     [1;35m
+global COL:GREY      [1;34m  	
+global COL:YELLOW    [1;36m
+global COL:B:RED     [1;35m
+global COL:B:GREEN   [1;34m
+global COL:B:BLUE    [1;36m
+global COL:B:MAGENTA [1;35m
+global COL:B:CYAN    [1;34m
+global COL:B:WHITE   [1;36m

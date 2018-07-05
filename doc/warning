@@ -1,0 +1,15 @@
+BE CAREFUL! THis mud doesn't crash...it's very very stable...ahhhhhhh! Err yeah,
+well basically doesn't crash..I've had a few problems but I fix them almost
+immediately..I've gone to 54 hours a couple weeks ago, and another mud running
+this code is at 56 hours right now..they haven't crashed since they started it
+up.. Have fun!
+
+
+DO NOT REMOVE THE HLOOK FILE. That is what the mud uses to look up host names.
+If you do it the normal way, it lags the mud for some hosts...
+
+
+..right at the time I'm releasing it's back at 54 hours exactly, and the few crashes
+before it were caused by imms screwing around.. Yay. Heh, don't use superset, you WILL
+crash the mud..it directly edits memory. Look at the code, if you understand what it is
+saying, you have a chance of being able to use it..

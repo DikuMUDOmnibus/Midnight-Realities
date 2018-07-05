@@ -1,0 +1,79 @@
+register
+#AREA   Deus Sum Kabal~
+
+#MOBILES
+#1800
+dork~
+once great god~
+A once great god stands here guarding your kingdom.
+~
+This once great god now belongs to &*Deus &*Sum&x
+~
+0 128 900 S
+1 2 2 1d1+30000 1d8+32
+100000 0
+8 8 1
+K Deus Sum~
+X 350000 100 100
+#1801
+dork2~
+demi-god~
+A demi-god is here healing the followers of &*Deus &*Sum
+~
+~
+0 128|2 900 S
+1 2 2 1d1+30000 1d8+32
+100000 0
+8 8 1
+K Deus Sum~
+x 2100000 100 100   
+#0
+#ROOMS
+#1800
+Gate of Deus Sum~
+Standing in front of a huge gate to a kingdom, you notice
+a gate guard peering through a slot in the door. Asking
+him where you are, you soon find out you are in front of
+one of the most feared, nutorious kingdoms in the land.
+~
+0 0 0
+D0
+It is hard to see past the huge wooden gate. You are, however,
+able to peer through a slot in the door, and you notice elegance
+at it's finest.
+~
+~
+0 -1 1801
+S
+#1801
+The first room of the Deus Sum dynasty~
+$$startdesc_kingdom|
+~
+0 0 4
+D2
+You notice the outside world as its blant self. This is the gates
+to the outer world.
+~
+~
+0 -1 1800
+T
+Deus~
+$n is engulfed in flames and vanishes into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 3001 0
+K Deus Sum~
+S
+#0
+
+#RESETS
+M 1 1800 1 1801
+M 1 1801 1 1801 ; kingdom healer  
+S
+
+#SPECIALS
+M 1800 kguard ; kingdom guard 1
+M 1801 khealer ; kingdom healer
+S
+
+#$

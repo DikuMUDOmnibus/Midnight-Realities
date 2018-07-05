@@ -1,0 +1,136 @@
+register
+
+#AREA ~
+
+
+#MOBILES
+#0
+
+
+#OBJECTS
+#0
+
+
+#ROOMS
+#31500
+Nekas Office~
+You enter The Office Of the great Immortal...,
+                    ****     **         **                  
+                   /**/**   /**        /**                  
+                   /**//**  /**  ***** /**  **  ******      
+                   /** //** /** **///**/** **  //////**     
+                   /**  //**/**/*******/****    *******     
+                   /**   //****/**//// /**/**  **////**     
+                   /**    //***//******/**//**//********    
+                   //      ///  ////// //  //  //////// 
+There are books all around on high surronding book cases, While admist
+a Huge mound of stories and papers lies an Oak table Desk With a Black
+Leather chair Holding the Fragile form of Neka in it.
+    
+~
+315 1024 0
+D2
+
+~
+~
+0 0 31501
+S
+#31501
+Hallway~
+You Walk Out of the office and step into the hallway of her home, 
+She seems to admire art and great literature for there are Great paintings
+and Books covered in glass all around ...perhaps you should look at them
+The Pictures are of Neka,Zauper, And Bryantos
+
+
+~
+315 0 1
+D0
+
+~
+~
+0 0 31500
+D1
+
+~
+~
+0 0 31502
+E
+nekapic~
+                             @@@@@@@@@@@@@@@@@
+                           @@@@@@@@@@@@@@@@@@@@@
+                          @@@/               \@@@
+                         @@@| _-_-_    _-_-_  |@@@ 
+                        @@@@|| / \ |  | / \ | |@@@@
+                       @@@@@|| \_/ |  | \_/ | |@@@@@
+                       @@@@@| \___/    \___/  |@@@@@
+                      @@@@@@|       /         |@@@@@@
+                     @@@@@@@|      /          |@@@@@@@
+                     @@@@@@@|      --         |@@@@@@@
+                      @@@@@@|  \            / |@@@@@@
+                      @@@@@@|   \          /  |@@@@@@
+                            |    ----------   |
+                             -----------------
+
+                                  NEKA 
+~
+E
+zauper~
+
+~
+E
+Bryantospic~
+               //////////////////////////
+              //////////////////////////
+             |||||||||||||||||||||||||||
+             /                          \                 @@@@@@@@@@@
+             | _-_-_-_-       _-_-_-_-  |                @@@@@ @@@@@@ 
+             | / _____ \      / _____ \ |                @@@@@ @@@@@@
+             | |/     \|      |/     \| |               @@@@@@ @@@@@@
+             | |\_____/|      |\_____/| |                      @@@@@@ 
+             | |_______|      |_______| |                      @@@@@@ 
+             |            /        /\   |                      @@@@@@
+             |           /        /  \  |                      @@@@@@ 
+             |          /         \__/  |                      @@@@@@ 
+             |         /__              |
+             |                          |                     /------\
+             |                          |                     |      |  
+             |                          |                     \______/
+             |  ______________________  |
+             |                          |
+             \__________________________/ 
+ 
+                    Bryantos
+
+~
+S
+#31502
+A big room~
+You have Entered A Huge hang out Spot in the midst Of Nekas little place,
+The Place looks Clean Enough, Theres a bar As well as a bunch of stools
+to sit with a big screen tv near it .....
+
+~
+315 0 0
+D3
+
+~
+~
+0 0 31501
+S
+#0
+
+
+#RESETS
+S
+
+
+#SHOPS
+0
+
+
+#SPECIALS
+S
+
+#$
+
